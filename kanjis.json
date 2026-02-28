@@ -1,6 +1,13 @@
 [
   {
     "N5": "N5",
+    "一": "一",
+    "イチ / ひと・つ": "Lectura (ON/kun)",
+    "Uno": "Significado",
+    "一人=Una persona | 一日=Un día": "Ejemplos"
+  },
+  {
+    "N5": "N5",
     "一": "二",
     "イチ / ひと・つ": "ニ / ふた・つ",
     "Uno": "Dos",
@@ -9063,13 +9070,6 @@
     "イチ / ひと・つ": "ショウ",
     "Uno": "Cosméticos",
     "一人=Una persona | 一日=Un día": "化粧=Maquillaje | 化粧品=Cosméticos"
-  },
-  {
-    "N5": "N5",
-    "一": "Kanji",
-    "イチ / ひと・つ": "Lectura (ON/kun)",
-    "Uno": "Significado",
-    "一人=Una persona | 一日=Un día": "Ejemplos"
   },
   {
     "N5": "N1",
