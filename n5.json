@@ -1,1 +1,563 @@
+[
+  {
+    "N5": "N5",
+    "一": "一",
+    "イチ / ひと・つ": "Lectura (ON/kun)",
+    "Uno": "Significado",
+    "一人=Una persona | 一日=Un día": "Ejemplos"
+  },
+  {
+    "N5": "N5",
+    "一": "二",
+    "イチ / ひと・つ": "ニ / ふた・つ",
+    "Uno": "Dos",
+    "一人=Una persona | 一日=Un día": "二月=Febrero | 二人=Dos personas"
+  },
+  {
+    "N5": "N5",
+    "一": "三",
+    "イチ / ひと・つ": "サン / みっ・つ",
+    "Uno": "Tres",
+    "一人=Una persona | 一日=Un día": "三月=Marzo | 三日=Día tres"
+  },
+  {
+    "N5": "N5",
+    "一": "四",
+    "イチ / ひと・つ": "シ / よん / よっ・つ",
+    "Uno": "Cuatro",
+    "一人=Una persona | 一日=Un día": "四月=Abril | 四日=Día cuatro"
+  },
+  {
+    "N5": "N5",
+    "一": "五",
+    "イチ / ひと・つ": "ゴ / いつ・つ",
+    "Uno": "Cinco",
+    "一人=Una persona | 一日=Un día": "五月=Mayo | 五日=Día cinco"
+  },
+  {
+    "N5": "N5",
+    "一": "六",
+    "イチ / ひと・つ": "ロク / むっ・つ",
+    "Uno": "Seis",
+    "一人=Una persona | 一日=Un día": "六月=Junio | 六日=Día seis"
+  },
+  {
+    "N5": "N5",
+    "一": "七",
+    "イチ / ひと・つ": "シチ / なな・つ",
+    "Uno": "Siete",
+    "一人=Una persona | 一日=Un día": "七月=Julio | 七日=Día siete"
+  },
+  {
+    "N5": "N5",
+    "一": "八",
+    "イチ / ひと・つ": "ハチ / やっ・つ",
+    "Uno": "Ocho",
+    "一人=Una persona | 一日=Un día": "八月=Agosto | 八日=Día ocho"
+  },
+  {
+    "N5": "N5",
+    "一": "九",
+    "イチ / ひと・つ": "キュウ・ク / ここの・つ",
+    "Uno": "Nueve",
+    "一人=Una persona | 一日=Un día": "九月=Septiembre | 九日=Día nueve"
+  },
+  {
+    "N5": "N5",
+    "一": "十",
+    "イチ / ひと・つ": "ジュウ / とお",
+    "Uno": "Diez",
+    "一人=Una persona | 一日=Un día": "十月=Octubre | 十日=Día diez"
+  },
+  {
+    "N5": "N5",
+    "一": "百",
+    "イチ / ひと・つ": "ヒャク",
+    "Uno": "Cien",
+    "一人=Una persona | 一日=Un día": "三百=Trescientos | 百円=Cien yenes"
+  },
+  {
+    "N5": "N5",
+    "一": "千",
+    "イチ / ひと・つ": "セン / ち",
+    "Uno": "Mil",
+    "一人=Una persona | 一日=Un día": "三千=Tres mil | 千円=Mil yenes"
+  },
+  {
+    "N5": "N5",
+    "一": "万",
+    "イチ / ひと・つ": "マン・バン",
+    "Uno": "Diez mil",
+    "一人=Una persona | 一日=Un día": "一万円=Diez mil yenes | 万歳=Banzai"
+  },
+  {
+    "N5": "N5",
+    "一": "円",
+    "イチ / ひと・つ": "エン / まる・い",
+    "Uno": "Yen / Círculo",
+    "一人=Una persona | 一日=Un día": "百円=Cien yenes | 円い=Redondo"
+  },
+  {
+    "N5": "N5",
+    "一": "日",
+    "イチ / ひと・つ": "ニチ・ジツ / ひ / -び",
+    "Uno": "Día / Sol",
+    "一人=Una persona | 一日=Un día": "毎日=Cada día | 日曜日=Domingo"
+  },
+  {
+    "N5": "N5",
+    "一": "月",
+    "イチ / ひと・つ": "ゲツ・ガツ / つき",
+    "Uno": "Mes / Luna",
+    "一人=Una persona | 一日=Un día": "今月=Este mes | 月曜日=Lunes"
+  },
+  {
+    "N5": "N5",
+    "一": "火",
+    "イチ / ひと・つ": "カ / ひ",
+    "Uno": "Fuego",
+    "一人=Una persona | 一日=Un día": "火曜日=Martes | 火事=Incendio"
+  },
+  {
+    "N5": "N5",
+    "一": "水",
+    "イチ / ひと・つ": "スイ / みず",
+    "Uno": "Agua",
+    "一人=Una persona | 一日=Un día": "水曜日=Miércoles | 飲み水=Agua potable"
+  },
+  {
+    "N5": "N5",
+    "一": "木",
+    "イチ / ひと・つ": "モク・ボク / き",
+    "Uno": "Árbol / Madera",
+    "一人=Una persona | 一日=Un día": "木曜日=Jueves | 大木=Árbol grande"
+  },
+  {
+    "N5": "N5",
+    "一": "金",
+    "イチ / ひと・つ": "キン・コン / かね",
+    "Uno": "Oro / Dinero",
+    "一人=Una persona | 一日=Un día": "金曜日=Viernes | お金=Dinero"
+  },
+  {
+    "N5": "N5",
+    "一": "土",
+    "イチ / ひと・つ": "ド・ト / つち",
+    "Uno": "Tierra",
+    "一人=Una persona | 一日=Un día": "土曜日=Sábado | 土地=Terreno"
+  },
+  {
+    "N5": "N5",
+    "一": "人",
+    "イチ / ひと・つ": "ジン・ニン / ひと",
+    "Uno": "Persona",
+    "一人=Una persona | 一日=Un día": "日本人=Japonés | 大人=Adulto"
+  },
+  {
+    "N5": "N5",
+    "一": "子",
+    "イチ / ひと・つ": "シ・ス / こ",
+    "Uno": "Niño",
+    "一人=Una persona | 一日=Un día": "子供=Niños | 女の子=Niña"
+  },
+  {
+    "N5": "N5",
+    "一": "女",
+    "イチ / ひと・つ": "ジョ / おんな",
+    "Uno": "Mujer",
+    "一人=Una persona | 一日=Un día": "彼女=Ella / Novia | 女子=Chica"
+  },
+  {
+    "N5": "N5",
+    "一": "男",
+    "イチ / ひと・つ": "ダン・ナン / おとこ",
+    "Uno": "Hombre",
+    "一人=Una persona | 一日=Un día": "男の子=Niño | 長男=Hijo mayor"
+  },
+  {
+    "N5": "N5",
+    "一": "父",
+    "イチ / ひと・つ": "フ / ちち",
+    "Uno": "Padre",
+    "一人=Una persona | 一日=Un día": "お父さん=Padre (hon.) | 祖父=Abuelo"
+  },
+  {
+    "N5": "N5",
+    "一": "母",
+    "イチ / ひと・つ": "ボ / はは",
+    "Uno": "Madre",
+    "一人=Una persona | 一日=Un día": "お母さん=Madre (hon.) | 祖母=Abuela"
+  },
+  {
+    "N5": "N5",
+    "一": "先",
+    "イチ / ひと・つ": "セン / さき",
+    "Uno": "Antes / Punta",
+    "一人=Una persona | 一日=Un día": "先生=Profesor | 先月=Mes pasado"
+  },
+  {
+    "N5": "N5",
+    "一": "生",
+    "イチ / ひと・つ": "セイ・ショウ / い・きる / う・まれる",
+    "Uno": "Vida / Nacer",
+    "一人=Una persona | 一日=Un día": "学生=Estudiante | 先生=Profesor"
+  },
+  {
+    "N5": "N5",
+    "一": "学",
+    "イチ / ひと・つ": "ガク / まな・ぶ",
+    "Uno": "Estudiar",
+    "一人=Una persona | 一日=Un día": "学校=Escuela | 大学=Universidad"
+  },
+  {
+    "N5": "N5",
+    "一": "校",
+    "イチ / ひと・つ": "コウ",
+    "Uno": "Escuela",
+    "一人=Una persona | 一日=Un día": "学校=Escuela | 中学校=Secundaria"
+  },
+  {
+    "N5": "N5",
+    "一": "友",
+    "イチ / ひと・つ": "ユウ / とも",
+    "Uno": "Amigo",
+    "一人=Una persona | 一日=Un día": "友達=Amigos | 親友=Mejor amigo"
+  },
+  {
+    "N5": "N5",
+    "一": "本",
+    "イチ / ひと・つ": "ホン / もと",
+    "Uno": "Libro / Origen",
+    "一人=Una persona | 一日=Un día": "日本語=Idioma japonés | 本屋=Librería"
+  },
+  {
+    "N5": "N5",
+    "一": "名",
+    "イチ / ひと・つ": "メイ・ミョウ / な",
+    "Uno": "Nombre",
+    "一人=Una persona | 一日=Un día": "名前=Nombre | 有名=Famoso"
+  },
+  {
+    "N5": "N5",
+    "一": "何",
+    "イチ / ひと・つ": "カ / なに / なん",
+    "Uno": "¿Qué?",
+    "一人=Una persona | 一日=Un día": "何時=¿Qué hora? | 何か=Algo"
+  },
+  {
+    "N5": "N5",
+    "一": "山",
+    "イチ / ひと・つ": "サン / やま",
+    "Uno": "Montaña",
+    "一人=Una persona | 一日=Un día": "富士山=Monte Fuji | 山道=Camino de montaña"
+  },
+  {
+    "N5": "N5",
+    "一": "川",
+    "イチ / ひと・つ": "セン / かわ",
+    "Uno": "Río",
+    "一人=Una persona | 一日=Un día": "小川=Arroyo | ナイル川=Río Nilo"
+  },
+  {
+    "N5": "N5",
+    "一": "田",
+    "イチ / ひと・つ": "デン / た",
+    "Uno": "Arrozal",
+    "一人=Una persona | 一日=Un día": "Vocabulario"
+  },
+  {
+    "N5": "N5",
+    "一": "天",
+    "イチ / ひと・つ": "テン / あめ / あま",
+    "Uno": "Cielo",
+    "一人=Una persona | 一日=Un día": "天気=Clima | 天国=Paraíso"
+  },
+  {
+    "N5": "N5",
+    "一": "空",
+    "イチ / ひと・つ": "クウ / そら / あ・く",
+    "Uno": "Cielo / Vacío",
+    "一人=Una persona | 一日=Un día": "空港=Aeropuerto | 青空=Cielo azul"
+  },
+  {
+    "N5": "N5",
+    "一": "雨",
+    "イチ / ひと・つ": "ウ / あめ",
+    "Uno": "Lluvia",
+    "一人=Una persona | 一日=Un día": "大雨=Lluvia fuerte | 雨天=Tiempo lluvioso"
+  },
+  {
+    "N5": "N5",
+    "一": "大",
+    "イチ / ひと・つ": "ダイ・タイ / おお・きい",
+    "Uno": "Grande",
+    "一人=Una persona | 一日=Un día": "大学=Universidad | 大好き=Encantar"
+  },
+  {
+    "N5": "N5",
+    "一": "小",
+    "イチ / ひと・つ": "ショウ / ちい・さい / こ",
+    "Uno": "Pequeño",
+    "一人=Una persona | 一日=Un día": "小学校=Esc. primaria | 小鳥=Pajarito"
+  },
+  {
+    "N5": "N5",
+    "一": "高",
+    "イチ / ひと・つ": "コウ / たか・い",
+    "Uno": "Alto / Caro",
+    "一人=Una persona | 一日=Un día": "高校生=Estud. secundaria | 最高=Lo mejor"
+  },
+  {
+    "N5": "N5",
+    "一": "長",
+    "イチ / ひと・つ": "チョウ / なが・い",
+    "Uno": "Largo / Jefe",
+    "一人=Una persona | 一日=Un día": "校長=Director | 長男=Hijo mayor"
+  },
+  {
+    "N5": "N5",
+    "一": "新",
+    "イチ / ひと・つ": "シン / あたら・しい",
+    "Uno": "Nuevo",
+    "一人=Una persona | 一日=Un día": "新聞=Periódico | 新年=Año nuevo"
+  },
+  {
+    "N5": "N5",
+    "一": "古",
+    "イチ / ひと・つ": "コ / ふる・い",
+    "Uno": "Viejo",
+    "一人=Una persona | 一日=Un día": "中古=Segunda mano | 古代=Antigüedad"
+  },
+  {
+    "N5": "N5",
+    "一": "多",
+    "イチ / ひと・つ": "タ / おお・い",
+    "Uno": "Mucho",
+    "一人=Una persona | 一日=Un día": "多分=Probablemente | 多数=Gran número"
+  },
+  {
+    "N5": "N5",
+    "一": "少",
+    "イチ / ひと・つ": "ショウ / すく・ない / すこ・し",
+    "Uno": "Poco",
+    "一人=Una persona | 一日=Un día": "少し=Un poco | 少年=Muchacho"
+  },
+  {
+    "N5": "N5",
+    "一": "上",
+    "イチ / ひと・つ": "ジョウ / うえ / あ・げる",
+    "Uno": "Arriba",
+    "一人=Una persona | 一日=Un día": "上手=Habilidoso | 上着=Chaqueta"
+  },
+  {
+    "N5": "N5",
+    "一": "下",
+    "イチ / ひと・つ": "カ・ゲ / した / さ・げる",
+    "Uno": "Abajo",
+    "一人=Una persona | 一日=Un día": "地下鉄=Metro | 下手=Torpe"
+  },
+  {
+    "N5": "N5",
+    "一": "中",
+    "イチ / ひと・つ": "チュウ / なか",
+    "Uno": "Medio / Dentro",
+    "一人=Una persona | 一日=Un día": "中国=China | 一日中=Todo el día"
+  },
+  {
+    "N5": "N5",
+    "一": "外",
+    "イチ / ひと・つ": "ガイ / そと",
+    "Uno": "Fuera",
+    "一人=Una persona | 一日=Un día": "外国=País extranjero | 外側=Exterior"
+  },
+  {
+    "N5": "N5",
+    "一": "右",
+    "イチ / ひと・つ": "ウ・ユウ / みぎ",
+    "Uno": "Derecha",
+    "一人=Una persona | 一日=Un día": "右手=Mano derecha | 右側=Lado derecho"
+  },
+  {
+    "N5": "N5",
+    "一": "左",
+    "イチ / ひと・つ": "サ / ひだり",
+    "Uno": "Izquierda",
+    "一人=Una persona | 一日=Un día": "左手=Mano izquierda | 左利き=Zurdo"
+  },
+  {
+    "N5": "N5",
+    "一": "前",
+    "イチ / ひと・つ": "ゼン / まえ",
+    "Uno": "Antes / Delante",
+    "一人=Una persona | 一日=Un día": "名前=Nombre | 午前=Mañana (AM)"
+  },
+  {
+    "N5": "N5",
+    "一": "後",
+    "イチ / ひと・つ": "ゴ・コウ / あと / うしろ",
+    "Uno": "Después / Detrás",
+    "一人=Una persona | 一日=Un día": "午後=Tarde (PM) | 最後=Último"
+  },
+  {
+    "N5": "N5",
+    "一": "北",
+    "イチ / ひと・つ": "ホク / きた",
+    "Uno": "Norte",
+    "一人=Una persona | 一日=Un día": "北海道=Hokkaido | 北口=Salida norte"
+  },
+  {
+    "N5": "N5",
+    "一": "南",
+    "イチ / ひと・つ": "ナン / みなみ",
+    "Uno": "Sur",
+    "一人=Una persona | 一日=Un día": "南西=Sudoeste | 南口=Salida sur"
+  },
+  {
+    "N5": "N5",
+    "一": "西",
+    "イチ / ひと・つ": "セイ・サイ / にし",
+    "Uno": "Oeste",
+    "一人=Una persona | 一日=Un día": "西口=Salida oeste | 西洋=Occidente"
+  },
+  {
+    "N5": "N5",
+    "一": "東",
+    "イチ / ひと・つ": "トウ / ひがし",
+    "Uno": "Este",
+    "一人=Una persona | 一日=Un día": "東京=Tokio | 東口=Salida este"
+  },
+  {
+    "N5": "N5",
+    "一": "見",
+    "イチ / ひと・つ": "ケン / み・る",
+    "Uno": "Ver",
+    "一人=Una persona | 一日=Un día": "見学=Visita de estudio | 見物=Turismo"
+  },
+  {
+    "N5": "N5",
+    "一": "聞",
+    "イチ / ひと・つ": "ブン・モン / き・く",
+    "Uno": "Oír / Escuchar",
+    "一人=Una persona | 一日=Un día": "新聞=Periódico | 聞き取り=Audición"
+  },
+  {
+    "N5": "N5",
+    "一": "食",
+    "イチ / ひと・つ": "ショク / た・べる",
+    "Uno": "Comer",
+    "一人=Una persona | 一日=Un día": "食べ物=Comida | 食堂=Comedor"
+  },
+  {
+    "N5": "N5",
+    "一": "飲",
+    "イチ / ひと・つ": "イン / の・む",
+    "Uno": "Beber",
+    "一人=Una persona | 一日=Un día": "飲み物=Bebida | 飲食店=Restaurante"
+  },
+  {
+    "N5": "N5",
+    "一": "書",
+    "イチ / ひと・つ": "ショ / か・く",
+    "Uno": "Escribir",
+    "一人=Una persona | 一日=Un día": "辞書=Diccionario | 図書館=Biblioteca"
+  },
+  {
+    "N5": "N5",
+    "一": "読",
+    "イチ / ひと・つ": "ドク / よ・む",
+    "Uno": "Leer",
+    "一人=Una persona | 一日=Un día": "読書=Lectura | 読み物=Lecturas"
+  },
+  {
+    "N5": "N5",
+    "一": "話",
+    "イチ / ひと・つ": "ワ / はな・す / はなし",
+    "Uno": "Hablar / Historia",
+    "一人=Una persona | 一日=Un día": "電話=Teléfono | 会話=Conversación"
+  },
+  {
+    "N5": "N5",
+    "一": "買う",
+    "イチ / ひと・つ": "バイ / か・う",
+    "Uno": "Comprar",
+    "一人=Una persona | 一日=Un día": "買い物=Compras | 売買=Compraventa"
+  },
+  {
+    "N5": "N5",
+    "一": "行",
+    "イチ / ひと・つ": "コウ・ギョウ / い・く / おこな・う",
+    "Uno": "Ir / Realizar",
+    "一人=Una persona | 一日=Un día": "銀行=Banco | 旅行=Viaje"
+  },
+  {
+    "N5": "N5",
+    "一": "来",
+    "イチ / ひと・つ": "ライ / く・る",
+    "Uno": "Venir",
+    "一人=Una persona | 一日=Un día": "来年=Año próximo | 将来=Futuro"
+  },
+  {
+    "N5": "N5",
+    "一": "出",
+    "イチ / ひと・つ": "シュツ / で・る / だ・す",
+    "Uno": "Salir / Sacar",
+    "一人=Una persona | 一日=Un día": "出口=Salida | 外出=Salir fuera"
+  },
+  {
+    "N5": "N5",
+    "一": "入",
+    "イチ / ひと・つ": "ニュウ / はい・る / い・れる",
+    "Uno": "Entrar / Meter",
+    "一人=Una persona | 一日=Un día": "入口=Entrada | 入学=Matrícula"
+  },
+  {
+    "N5": "N5",
+    "一": "休",
+    "イチ / ひと・つ": "キュウ / やす・む",
+    "Uno": "Descansar",
+    "一人=Una persona | 一日=Un día": "休み=Descanso | 休日=Día libre"
+  },
+  {
+    "N5": "N5",
+    "一": "時",
+    "イチ / ひと・つ": "ジ / とき",
+    "Uno": "Tiempo / Hora",
+    "一人=Una persona | 一日=Un día": "時計=Reloj | 時々=A veces"
+  },
+  {
+    "N5": "N5",
+    "一": "間",
+    "イチ / ひと・つ": "カン / あいだ / ま",
+    "Uno": "Espacio / Entre",
+    "一人=Una persona | 一日=Un día": "時間=Tiempo | 一週間=Una semana"
+  },
+  {
+    "N5": "N5",
+    "一": "電",
+    "イチ / ひと・つ": "デン",
+    "Uno": "Electricidad",
+    "一人=Una persona | 一日=Un día": "電車=Tren | 電話=Teléfono"
+  },
+  {
+    "N5": "N5",
+    "一": "車",
+    "イチ / ひと・つ": "シャ / くるま",
+    "Uno": "Coche / Vehículo",
+    "一人=Una persona | 一日=Un día": "自転車=Bicicleta | 電車=Tren"
+  },
+  {
+    "N5": "N5",
+    "一": "语",
+    "イチ / ひと・つ": "ゴ / かた・る",
+    "Uno": "Idioma / Palabra",
+    "一人=Una persona | 一日=Un día": "日本語=Idioma japonés | 英語=Inglés"
+  },
+  {
+    "N5": "N5",
+    "一": "白",
+    "イチ / ひと・つ": "ハク / しろ・い",
+    "Uno": "Blanco",
+    "一人=Una persona | 一日=Un día": "白人=Caucásico | 面白い=Interesante"
+  },
 
+]
