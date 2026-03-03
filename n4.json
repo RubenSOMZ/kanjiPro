@@ -1,1180 +1,1178 @@
 [
- {
-    "N5": "N4",
-    "一": "言",
-    "イチ / ひと・つ": "ゲン・ゴン / い・う / こと",
-    "Uno": "Decir / Palabra",
-    "一人=Una persona | 一日=Un día": "言葉=Palabra | 言う=Decir"
-  },
   {
-    "N5": "N4",
-    "一": "手",
-    "イチ / ひと・つ": "シュ / て",
-    "Uno": "Mano",
-    "一人=Una persona | 一日=Un día": "手紙=Carta | 上手=Habilidoso"
+    "lvl": "N4",
+    "k": "言",
+    "r": "ゲン・ゴン / い・う / こと",
+    "s": "Decir / Palabra",
+    "ex": "言葉=Palabra | 言う=Decir"
   },
   {
-    "N5": "N4",
-    "一": "自",
-    "イチ / ひと・つ": "ジ・シ / みずか・ら",
-    "Uno": "Uno mismo",
-    "一人=Una persona | 一日=Un día": "自転車=Bicicleta | 自分=Uno mismo"
+    "lvl": "N4",
+    "k": "手",
+    "r": "シュ / て",
+    "s": "Mano",
+    "ex": "手紙=Carta | 上手=Habilidoso"
   },
   {
-    "N5": "N4",
-    "一": "者",
-    "イチ / ひと・つ": "シャ / もの",
-    "Uno": "Persona (profesión)",
-    "一人=Una persona | 一日=Un día": "医者=Médico | 学者=Estudioso"
+    "lvl": "N4",
+    "k": "自",
+    "r": "ジ・シ / みずか・ら",
+    "s": "Uno mismo",
+    "ex": "自転車=Bicicleta | 自分=Uno mismo"
   },
   {
-    "N5": "N4",
-    "一": "事",
-    "イチ / ひと・つ": "ジ / こと",
-    "Uno": "Cosa (abstracta)",
-    "一人=Una persona | 一日=Un día": "仕事=Trabajo | 大事=Importante"
+    "lvl": "N4",
+    "k": "者",
+    "r": "シャ / もの",
+    "s": "Persona (profesión)",
+    "ex": "医者=Médico | 学者=Estudioso"
   },
   {
-    "N5": "N4",
-    "一": "思",
-    "イチ / ひと・つ": "シ / おも・う",
-    "Uno": "Pensar",
-    "一人=Una persona | 一日=Un día": "思う=Pensar | 思い出す=Recordar"
+    "lvl": "N4",
+    "k": "事",
+    "r": "ジ / こと",
+    "s": "Cosa (abstracta)",
+    "ex": "仕事=Trabajo | 大事=Importante"
   },
   {
-    "N5": "N4",
-    "一": "会",
-    "イチ / ひと・つ": "カイ / あ・う",
-    "Uno": "Reunión / Encontrar",
-    "一人=Una persona | 一日=Un día": "会社=Empresa | 会話=Conversación"
+    "lvl": "N4",
+    "k": "思",
+    "r": "シ / おも・う",
+    "s": "Pensar",
+    "ex": "思う=Pensar | 思い出す=Recordar"
   },
   {
-    "N5": "N4",
-    "一": "家",
-    "イチ / ひと・つ": "カ・ケ / いえ / うち",
-    "Uno": "Casa / Hogar",
-    "一人=Una persona | 一日=Un día": "家族=Familia | 家内=Mi esposa"
+    "lvl": "N4",
+    "k": "会",
+    "r": "カイ / あ・う",
+    "s": "Reunión / Encontrar",
+    "ex": "会社=Empresa | 会話=Conversación"
   },
   {
-    "N5": "N4",
-    "一": "的",
-    "イチ / ひと・つ": "テキ",
-    "Uno": "Sufijo -ico (objetivo)",
-    "一人=Una persona | 一日=Un día": "目的=Propósito | 日本的=Típicamente japonés"
+    "lvl": "N4",
+    "k": "家",
+    "r": "カ・ケ / いえ / うち",
+    "s": "Casa / Hogar",
+    "ex": "家族=Familia | 家内=Mi esposa"
   },
   {
-    "N5": "N4",
-    "一": "方",
-    "イチ / ひと・つ": "ホウ / かた",
-    "Uno": "Dirección / Forma",
-    "一人=Una persona | 一日=Un día": "読み方=Forma de leer | 夕方=Atardecer"
+    "lvl": "N4",
+    "k": "的",
+    "r": "テキ",
+    "s": "Sufijo -ico (objetivo)",
+    "ex": "目的=Propósito | 日本的=Típicamente japonés"
   },
   {
-    "N5": "N4",
-    "一": "地",
-    "イチ / ひと・つ": "チ・ジ",
-    "Uno": "Tierra / Lugar",
-    "一人=Una persona | 一日=Un día": "地図=Mapa | 地下鉄=Metro"
+    "lvl": "N4",
+    "k": "方",
+    "r": "ホウ / かた",
+    "s": "Dirección / Forma",
+    "ex": "読み方=Forma de leer | 夕方=Atardecer"
   },
   {
-    "N5": "N4",
-    "一": "目",
-    "イチ / ひと・つ": "モク / め",
-    "Uno": "Ojo / Sufijo ordinal",
-    "一人=Una persona | 一日=Un día": "目=Ojo | 目的=Objetivo"
+    "lvl": "N4",
+    "k": "地",
+    "r": "チ・ジ",
+    "s": "Tierra / Lugar",
+    "ex": "地図=Mapa | 地下鉄=Metro"
   },
   {
-    "N5": "N4",
-    "一": "場",
-    "イチ / ひと・つ": "ジョウ / ば",
-    "Uno": "Lugar",
-    "一人=Una persona | 一日=Un día": "場所=Sitio | 会場=Lugar de reunión"
+    "lvl": "N4",
+    "k": "目",
+    "r": "モク / め",
+    "s": "Ojo / Sufijo ordinal",
+    "ex": "目=Ojo | 目的=Objetivo"
   },
   {
-    "N5": "N4",
-    "一": "代",
-    "イチ / ひと・つ": "ダイ / か・わる",
-    "Uno": "Sustituir / Era",
-    "一人=Una persona | 一日=Un día": "時代=Época | 代わりに=En lugar de"
+    "lvl": "N4",
+    "k": "場",
+    "r": "ジョウ / ば",
+    "s": "Lugar",
+    "ex": "場所=Sitio | 会場=Lugar de reunión"
   },
   {
-    "N5": "N4",
-    "一": "私",
-    "イチ / ひと・つ": "シ / わたし",
-    "Uno": "Yo / Privado",
-    "一人=Una persona | 一日=Un día": "私立大学=Univ. Privada | 私=Yo"
+    "lvl": "N4",
+    "k": "代",
+    "r": "ダイ / か・わる",
+    "s": "Sustituir / Era",
+    "ex": "時代=Época | 代わりに=En lugar de"
   },
   {
-    "N5": "N4",
-    "一": "立",
-    "イチ / ひと・つ": "リツ / た・つ",
-    "Uno": "Levantarse",
-    "一人=Una persona | 一日=Un día": "立つ=Estar de pie | 国立=Nacional"
+    "lvl": "N4",
+    "k": "私",
+    "r": "シ / わたし",
+    "s": "Yo / Privado",
+    "ex": "私立大学=Univ. Privada | 私=Yo"
   },
   {
-    "N5": "N4",
-    "一": "物",
-    "イチ / ひと・つ": "ブツ・モツ / もの",
-    "Uno": "Cosa (objeto)",
-    "一人=Una persona | 一日=Un día": "食べ物=Comida | 荷物=Equipaje"
+    "lvl": "N4",
+    "k": "立",
+    "r": "リツ / た・つ",
+    "s": "Levantarse",
+    "ex": "立つ=Estar de pie | 国立=Nacional"
   },
   {
-    "N5": "N4",
-    "一": "田",
-    "イチ / ひと・つ": "デン / た",
-    "Uno": "Arrozal",
-    "一人=Una persona | 一日=Un día": "田中=Tanaka | 水田=Campo de arroz"
+    "lvl": "N4",
+    "k": "物",
+    "r": "ブツ・モツ / もの",
+    "s": "Cosa (objeto)",
+    "ex": "食べ物=Comida | 荷物=Equipaje"
   },
   {
-    "N5": "N4",
-    "一": "体",
-    "イチ / ひと・つ": "タイ / からだ",
-    "Uno": "Cuerpo",
-    "一人=Una persona | 一日=Un día": "体=Cuerpo | 体力=Fuerza física"
+    "lvl": "N4",
+    "k": "田",
+    "r": "デン / た",
+    "s": "Arrozal",
+    "ex": "田中=Tanaka | 水田=Campo de arroz"
   },
   {
-    "N5": "N4",
-    "一": "動",
-    "イチ / ひと・つ": "ドウ / うご・く",
-    "Uno": "Mover",
-    "一人=Una persona | 一日=Un día": "動物=Animal | 自動車=Automóvil"
+    "lvl": "N4",
+    "k": "体",
+    "r": "タイ / からだ",
+    "s": "Cuerpo",
+    "ex": "体=Cuerpo | 体力=Fuerza física"
   },
   {
-    "N5": "N4",
-    "一": "社",
-    "イチ / ひと・つ": "シャ / やしろ",
-    "Uno": "Compañía / Santuario",
-    "一人=Una persona | 一日=Un día": "神社=Santuario | 社会=Sociedad"
+    "lvl": "N4",
+    "k": "動",
+    "r": "ドウ / うご・く",
+    "s": "Mover",
+    "ex": "動物=Animal | 自動車=Automóvil"
   },
   {
-    "N5": "N4",
-    "一": "知",
-    "イチ / ひと・つ": "チ / し・る",
-    "Uno": "Saber / Conocer",
-    "一人=Una persona | 一日=Un día": "知らせる=Avisar | 知人=Conocido"
+    "lvl": "N4",
+    "k": "社",
+    "r": "シャ / やしろ",
+    "s": "Compañía / Santuario",
+    "ex": "神社=Santuario | 社会=Sociedad"
   },
   {
-    "N5": "N4",
-    "一": "理",
-    "イチ / ひと・つ": "リ",
-    "Uno": "Razón / Lógica",
-    "一人=Una persona | 一日=Un día": "料理=Cocina | 理由=Razón"
+    "lvl": "N4",
+    "k": "知",
+    "r": "チ / し・る",
+    "s": "Saber / Conocer",
+    "ex": "知らせる=Avisar | 知人=Conocido"
   },
   {
-    "N5": "N4",
-    "一": "同",
-    "イチ / ひと・つ": "ドウ / おな・じ",
-    "Uno": "Igual",
-    "一人=Una persona | 一日=Un día": "同じ=Igual | 同時に=Al mismo tiempo"
+    "lvl": "N4",
+    "k": "理",
+    "r": "リ",
+    "s": "Razón / Lógica",
+    "ex": "料理=Cocina | 理由=Razón"
   },
   {
-    "N5": "N4",
-    "一": "心",
-    "イチ / ひと・つ": "シン / こころ",
-    "Uno": "Corazón / Mente",
-    "一人=Una persona | 一日=Un día": "安心=Alivio | 中心=Centro"
+    "lvl": "N4",
+    "k": "同",
+    "r": "ドウ / おな・じ",
+    "s": "Igual",
+    "ex": "同じ=Igual | 同時に=Al mismo tiempo"
   },
   {
-    "N5": "N4",
-    "一": "発",
-    "イチ / ひと・つ": "ハツ・ホツ",
-    "Uno": "Salir / Comenzar",
-    "一人=Una persona | 一日=Un día": "出発=Salida | 発明=Invento"
+    "lvl": "N4",
+    "k": "心",
+    "r": "シン / こころ",
+    "s": "Corazón / Mente",
+    "ex": "安心=Alivio | 中心=Centro"
   },
   {
-    "N5": "N4",
-    "一": "作",
-    "イチ / ひと・つ": "サク・サ / つく・る",
-    "Uno": "Hacer / Crear",
-    "一人=Una persona | 一日=Un día": "作文=Redacción | 作り方=Forma de hacer"
+    "lvl": "N4",
+    "k": "発",
+    "r": "ハツ・ホツ",
+    "s": "Salir / Comenzar",
+    "ex": "出発=Salida | 発明=Invento"
   },
   {
-    "N5": "N4",
-    "一": "世",
-    "イチ / ひと・つ": "セイ・セ / よ",
-    "Uno": "Mundo / Generación",
-    "一人=Una persona | 一日=Un día": "世界=Mundo | 世話=Cuidado"
+    "lvl": "N4",
+    "k": "作",
+    "r": "サク・サ / つく・る",
+    "s": "Hacer / Crear",
+    "ex": "作文=Redacción | 作り方=Forma de hacer"
   },
   {
-    "N5": "N4",
-    "一": "度",
-    "イチ / ひと・つ": "ド / たび",
-    "Uno": "Grados / Veces",
-    "一人=Una persona | 一日=Un día": "今度=Esta vez | 温度=Temperatura"
+    "lvl": "N4",
+    "k": "世",
+    "r": "セイ・セ / よ",
+    "s": "Mundo / Generación",
+    "ex": "世界=Mundo | 世話=Cuidado"
   },
   {
-    "N5": "N4",
-    "一": "明",
-    "イチ / ひと・つ": "メイ / あか・るい",
-    "Uno": "Luz / Brillante",
-    "一人=Una persona | 一日=Un día": "説明=Explicación | 明日=Mañana"
+    "lvl": "N4",
+    "k": "度",
+    "r": "ド / たび",
+    "s": "Grados / Veces",
+    "ex": "今度=Esta vez | 温度=Temperatura"
   },
   {
-    "N5": "N4",
-    "一": "力",
-    "イチ / ひと・つ": "リョク・リキ / ちから",
-    "Uno": "Poder / Fuerza",
-    "一人=Una persona | 一日=Un día": "電力=Potencia eléctrica | 体力=Fuerza física"
+    "lvl": "N4",
+    "k": "明",
+    "r": "メイ / あか・るい",
+    "s": "Luz / Brillante",
+    "ex": "説明=Explicación | 明日=Mañana"
   },
   {
-    "N5": "N4",
-    "一": "用",
-    "イチ / ひと・つ": "ヨウ / もち・いる",
-    "Uno": "Asunto / Usar",
-    "一人=Una persona | 一日=Un día": "用意=Preparación | 用事=Tarea/Recado"
+    "lvl": "N4",
+    "k": "力",
+    "r": "リョク・リキ / ちから",
+    "s": "Poder / Fuerza",
+    "ex": "電力=Potencia eléctrica | 体力=Fuerza física"
   },
   {
-    "N5": "N4",
-    "一": "主",
-    "イチ / ひと・つ": "シュ / ぬし",
-    "Uno": "Dueño / Principal",
-    "一人=Una persona | 一日=Un día": "ご主人=Esposo | 主に=Principalmente"
+    "lvl": "N4",
+    "k": "用",
+    "r": "ヨウ / もち・いる",
+    "s": "Asunto / Usar",
+    "ex": "用意=Preparación | 用事=Tarea/Recado"
   },
   {
-    "N5": "N4",
-    "一": "通",
-    "イチ / ひと・つ": "ツウ / とお・る / かよ・う",
-    "Uno": "Pasar / Circular",
-    "一人=Una persona | 一日=Un día": "交通=Tráfico | 通う=Frecuentar"
+    "lvl": "N4",
+    "k": "主",
+    "r": "シュ / ぬし",
+    "s": "Dueño / Principal",
+    "ex": "ご主人=Esposo | 主に=Principalmente"
   },
   {
-    "N5": "N4",
-    "一": "文",
-    "イチ / ひと・つ": "ブン・モン / ふみ",
-    "Uno": "Texto / Letra",
-    "一人=Una persona | 一日=Un día": "文学=Literatura | 作文=Redacción"
+    "lvl": "N4",
+    "k": "通",
+    "r": "ツウ / とお・る / かよ・う",
+    "s": "Pasar / Circular",
+    "ex": "交通=Tráfico | 通う=Frecuentar"
   },
   {
-    "N5": "N4",
-    "一": "屋",
-    "イチ / ひと・つ": "オク / や",
-    "Uno": "Tienda / Techo",
-    "一人=Una persona | 一日=Un día": "本屋=Librería | 屋上=Azotea"
+    "lvl": "N4",
+    "k": "文",
+    "r": "ブン・モン / ふみ",
+    "s": "Texto / Letra",
+    "ex": "文学=Literatura | 作文=Redacción"
   },
   {
-    "N5": "N4",
-    "一": "業",
-    "イチ / ひと・つ": "ギョウ",
-    "Uno": "Negocio / Industria",
-    "一人=Una persona | 一日=Un día": "授業=Clase | 工業=Industria"
+    "lvl": "N4",
+    "k": "屋",
+    "r": "オク / や",
+    "s": "Tienda / Techo",
+    "ex": "本屋=Librería | 屋上=Azotea"
   },
   {
-    "N5": "N4",
-    "一": "持",
-    "イチ / ひと・つ": "ジ / も・つ",
-    "Uno": "Tener / Sostener",
-    "一人=Una persona | 一日=Un día": "持ち物=Pertenencias | 気持ち=Sentimiento"
+    "lvl": "N4",
+    "k": "業",
+    "r": "ギョウ",
+    "s": "Negocio / Industria",
+    "ex": "授業=Clase | 工業=Industria"
   },
   {
-    "N5": "N4",
-    "一": "道",
-    "イチ / ひと・つ": "ドウ / みち",
-    "Uno": "Camino / Vía",
-    "一人=Una persona | 一日=Un día": "柔道=Judo | 水道=Agua corriente"
+    "lvl": "N4",
+    "k": "持",
+    "r": "ジ / も・つ",
+    "s": "Tener / Sostener",
+    "ex": "持ち物=Pertenencias | 気持ち=Sentimiento"
   },
   {
-    "N5": "N4",
-    "一": "身",
-    "イチ / ひと・つ": "シン / み",
-    "Uno": "Cuerpo / Uno mismo",
-    "一人=Una persona | 一日=Un día": "出身=Procedencia | 独身=Soltero"
+    "lvl": "N4",
+    "k": "道",
+    "r": "ドウ / みち",
+    "s": "Camino / Vía",
+    "ex": "柔道=Judo | 水道=Agua corriente"
   },
   {
-    "N5": "N4",
-    "一": "不",
-    "イチ / ひと・つ": "フ・ブ",
-    "Uno": "Prefijo No / In-",
-    "一人=Una persona | 一日=Un día": "不便=Inconveniente | 不足=Escasez"
+    "lvl": "N4",
+    "k": "身",
+    "r": "シン / み",
+    "s": "Cuerpo / Uno mismo",
+    "ex": "出身=Procedencia | 独身=Soltero"
   },
   {
-    "N5": "N4",
-    "一": "口",
-    "イチ / ひと・つ": "コウ / くち",
-    "Uno": "Boca",
-    "一人=Una persona | 一日=Un día": "入口=Entrada | 出口=Salida"
+    "lvl": "N4",
+    "k": "不",
+    "r": "フ・ブ",
+    "s": "Prefijo No / In-",
+    "ex": "不便=Inconveniente | 不足=Escasez"
   },
   {
-    "N5": "N4",
-    "一": "多",
-    "イチ / ひと・つ": "タ / おお・い",
-    "Uno": "Mucho",
-    "一人=Una persona | 一日=Un día": "多分=Probablemente | 多数=Gran número"
+    "lvl": "N4",
+    "k": "口",
+    "r": "コウ / くち",
+    "s": "Boca",
+    "ex": "入口=Entrada | 出口=Salida"
   },
   {
-    "N5": "N4",
-    "一": "野",
-    "イチ / ひと・つ": "ヤ / の",
-    "Uno": "Campo",
-    "一人=Una persona | 一日=Un día": "野菜=Verdura | 分野=Campo/Área"
+    "lvl": "N4",
+    "k": "多",
+    "r": "タ / おお・い",
+    "s": "Mucho",
+    "ex": "多分=Probablemente | 多数=Gran número"
   },
   {
-    "N5": "N4",
-    "一": "考",
-    "イチ / ひと・つ": "コウ / かんが・える",
-    "Uno": "Pensar / Considerar",
-    "一人=Una persona | 一日=Un día": "考え=Idea | 思考=Pensamiento"
+    "lvl": "N4",
+    "k": "野",
+    "r": "ヤ / の",
+    "s": "Campo",
+    "ex": "野菜=Verdura | 分野=Campo/Área"
   },
   {
-    "N5": "N4",
-    "一": "開",
-    "イチ / ひと・つ": "カイ / あ・ける / ひら・く",
-    "Uno": "Abrir",
-    "一人=Una persona | 一日=Un día": "開始=Inicio | 開く=Abrir"
+    "lvl": "N4",
+    "k": "考",
+    "r": "コウ / かんが・える",
+    "s": "Pensar / Considerar",
+    "ex": "考え=Idea | 思考=Pensamiento"
   },
   {
-    "N5": "N4",
-    "一": "教",
-    "イチ / ひと・つ": "キョウ / おし・える",
-    "Uno": "Enseñar",
-    "一人=Una persona | 一日=Un día": "教室=Aula | 教科書=Libro de texto"
+    "lvl": "N4",
+    "k": "開",
+    "r": "カイ / あ・ける / ひら・く",
+    "s": "Abrir",
+    "ex": "開始=Inicio | 開く=Abrir"
   },
   {
-    "N5": "N4",
-    "一": "近",
-    "イチ / ひと・つ": "キン / ちか・い",
-    "Uno": "Cerca",
-    "一人=Una persona | 一日=Un día": "近所=Vecindario | 最近=Recientemente"
+    "lvl": "N4",
+    "k": "教",
+    "r": "キョウ / おし・える",
+    "s": "Enseñar",
+    "ex": "教室=Aula | 教科書=Libro de texto"
   },
   {
-    "N5": "N4",
-    "一": "以",
-    "イチ / ひと・つ": "イ",
-    "Uno": "Desde / Por medio de",
-    "一人=Una persona | 一日=Un día": "以上=Más de | 以下=Menos de"
+    "lvl": "N4",
+    "k": "近",
+    "r": "キン / ちか・い",
+    "s": "Cerca",
+    "ex": "近所=Vecindario | 最近=Recientemente"
   },
   {
-    "N5": "N4",
-    "一": "問",
-    "イチ / ひと・つ": "モン / と・う",
-    "Uno": "Pregunta",
-    "一人=Una persona | 一日=Un día": "問題=Problema | 質問=Pregunta"
+    "lvl": "N4",
+    "k": "以",
+    "r": "イ",
+    "s": "Desde / Por medio de",
+    "ex": "以上=Más de | 以下=Menos de"
   },
   {
-    "N5": "N4",
-    "一": "正",
-    "イチ / ひと・つ": "セイ・ショウ / ただ・しい",
-    "Uno": "Correcto",
-    "一人=Una persona | 一日=Un día": "正月=Año nuevo | 正しい=Correcto"
+    "lvl": "N4",
+    "k": "問",
+    "r": "モン / と・う",
+    "s": "Pregunta",
+    "ex": "問題=Problema | 質問=Pregunta"
   },
   {
-    "N5": "N4",
-    "一": "真",
-    "イチ / ひと・つ": "シン / ま",
-    "Uno": "Verdad / Puro",
-    "一人=Una persona | 一日=Un día": "写真=Foto | 真ん中=Justo en el centro"
+    "lvl": "N4",
+    "k": "正",
+    "r": "セイ・ショウ / ただ・しい",
+    "s": "Correcto",
+    "ex": "正月=Año nuevo | 正しい=Correcto"
   },
   {
-    "N5": "N4",
-    "一": "味",
-    "イチ / ひと・つ": "ミ / あじ",
-    "Uno": "Sabor / Significado",
-    "一人=Una persona | 一日=Un día": "意味=Significado | 趣味=Hobby"
+    "lvl": "N4",
+    "k": "真",
+    "r": "シン / ま",
+    "s": "Verdad / Puro",
+    "ex": "写真=Foto | 真ん中=Justo en el centro"
   },
   {
-    "N5": "N4",
-    "一": "界",
-    "イチ / ひと・つ": "カイ",
-    "Uno": "Mundo / Límite",
-    "一人=Una persona | 一日=Un día": "世界=Mundo | 財界=Mundo financiero"
+    "lvl": "N4",
+    "k": "味",
+    "r": "ミ / あじ",
+    "s": "Sabor / Significado",
+    "ex": "意味=Significado | 趣味=Hobby"
   },
   {
-    "N5": "N4",
-    "一": "無",
-    "イチ / ひと・つ": "ム・ブ / な・い",
-    "Uno": "Nada / Sin",
-    "一人=Una persona | 一日=Un día": "無料=Gratis | 無理=Imposible"
+    "lvl": "N4",
+    "k": "界",
+    "r": "カイ",
+    "s": "Mundo / Límite",
+    "ex": "世界=Mundo | 財界=Mundo financiero"
   },
   {
-    "N5": "N4",
-    "一": "少",
-    "イチ / ひと・つ": "ショウ / すく・ない / すこ・し",
-    "Uno": "Poco",
-    "一人=Una persona | 一日=Un día": "少し=Un poco | 少年=Muchacho"
+    "lvl": "N4",
+    "k": "無",
+    "r": "ム・ブ / な・い",
+    "s": "Nada / Sin",
+    "ex": "無料=Gratis | 無理=Imposible"
   },
   {
-    "N5": "N4",
-    "一": "海",
-    "イチ / ひと・つ": "カイ / うみ",
-    "Uno": "Mar",
-    "一人=Una persona | 一日=Un día": "海外=Extranjero | 海水=Agua de mar"
+    "lvl": "N4",
+    "k": "少",
+    "r": "ショウ / すく・ない / すこ・し",
+    "s": "Poco",
+    "ex": "少し=Un poco | 少年=Muchacho"
   },
   {
-    "N5": "N4",
-    "一": "切",
-    "イチ / ひと・つ": "セツ / き・る",
-    "Uno": "Cortar / Importante",
-    "一人=Una persona | 一日=Un día": "大切=Importante | 切手=Sello"
+    "lvl": "N4",
+    "k": "海",
+    "r": "カイ / うみ",
+    "s": "Mar",
+    "ex": "海外=Extranjero | 海水=Agua de mar"
   },
   {
-    "N5": "N4",
-    "一": "重",
-    "イチ / ひと・つ": "ジュウ・チョウ / おも・い",
-    "Uno": "Pesado / Importante",
-    "一人=Una persona | 一日=Un día": "重要=Importante | 体重=Peso corporal"
+    "lvl": "N4",
+    "k": "切",
+    "r": "セツ / き・る",
+    "s": "Cortar / Importante",
+    "ex": "大切=Importante | 切手=Sello"
   },
   {
-    "N5": "N4",
-    "一": "集",
-    "イチ / ひと・つ": "シュウ / あつ・まる",
-    "Uno": "Reunir / Coleccionar",
-    "一人=Una persona | 一日=Un día": "集中=Concentración | 集める=Coleccionar"
+    "lvl": "N4",
+    "k": "重",
+    "r": "ジュウ・チョウ / おも・い",
+    "s": "Pesado / Importante",
+    "ex": "重要=Importante | 体重=Peso corporal"
   },
   {
-    "N5": "N4",
-    "一": "員",
-    "イチ / ひと・つ": "イン",
-    "Uno": "Miembro",
-    "一人=Una persona | 一日=Un día": "会社員=Empleado | 店員=Dependiente"
+    "lvl": "N4",
+    "k": "集",
+    "r": "シュウ / あつ・まる",
+    "s": "Reunir / Coleccionar",
+    "ex": "集中=Concentración | 集める=Coleccionar"
   },
   {
-    "N5": "N4",
-    "一": "公",
-    "イチ / ひと・つ": "コウ / おおやけ",
-    "Uno": "Público",
-    "一人=Una persona | 一日=Un día": "公園=Parque | 公立=Público (estatal)"
+    "lvl": "N4",
+    "k": "員",
+    "r": "イン",
+    "s": "Miembro",
+    "ex": "会社員=Empleado | 店員=Dependiente"
   },
   {
-    "N5": "N4",
-    "一": "画",
-    "イチ / ひと・つ": "ガ・カク",
-    "Uno": "Imagen / Trazo",
-    "一人=Una persona | 一日=Un día": "映画=Película | 計画=Plan"
+    "lvl": "N4",
+    "k": "公",
+    "r": "コウ / おおやけ",
+    "s": "Público",
+    "ex": "公園=Parque | 公立=Público (estatal)"
   },
   {
-    "N5": "N4",
-    "一": "死",
-    "イチ / ひと・つ": "シ / し・ぬ",
-    "Uno": "Muerte",
-    "一人=Una persona | 一日=Un día": "死体=Cadáver | 必死=Desesperado"
+    "lvl": "N4",
+    "k": "画",
+    "r": "ガ・カク",
+    "s": "Imagen / Trazo",
+    "ex": "映画=Película | 計画=Plan"
   },
   {
-    "N5": "N4",
-    "一": "安",
-    "イチ / ひと・つ": "アン / やす・い",
-    "Uno": "Barato / Seguro",
-    "一人=Una persona | 一日=Un día": "安心=Alivio | 安全=Seguridad"
+    "lvl": "N4",
+    "k": "死",
+    "r": "シ / し・ぬ",
+    "s": "Muerte",
+    "ex": "死体=Cadáver | 必死=Desesperado"
   },
   {
-    "N5": "N4",
-    "一": "親",
-    "イチ / ひと・つ": "シン / おや / した・しい",
-    "Uno": "Padre / Íntimo",
-    "一人=Una persona | 一日=Un día": "両親=Padres | 親切=Amable"
+    "lvl": "N4",
+    "k": "安",
+    "r": "アン / やす・い",
+    "s": "Barato / Seguro",
+    "ex": "安心=Alivio | 安全=Seguridad"
   },
   {
-    "N5": "N4",
-    "一": "強",
-    "イチ / ひと・つ": "キョウ / つよ・い",
-    "Uno": "Fuerte",
-    "一人=Una persona | 一日=Un día": "勉強=Estudio | 強風=Viento fuerte"
+    "lvl": "N4",
+    "k": "親",
+    "r": "シン / おや / した・しい",
+    "s": "Padre / Íntimo",
+    "ex": "両親=Padres | 親切=Amable"
   },
   {
-    "N5": "N4",
-    "一": "使",
-    "イチ / ひと・つ": "シ / つか・う",
-    "Uno": "Usar",
-    "一人=Una persona | 一日=Un día": "使い方=Uso | 大使館=Embajada"
+    "lvl": "N4",
+    "k": "強",
+    "r": "キョウ / つよ・い",
+    "s": "Fuerte",
+    "ex": "勉強=Estudio | 強風=Viento fuerte"
   },
   {
-    "N5": "N4",
-    "一": "朝",
-    "イチ / ひと・つ": "チョウ / あさ",
-    "Uno": "Mañana",
-    "一人=Una persona | 一日=Un día": "朝食=Desayuno | 今朝=Esta mañana"
+    "lvl": "N4",
+    "k": "使",
+    "r": "シ / つか・う",
+    "s": "Usar",
+    "ex": "使い方=Uso | 大使館=Embajada"
   },
   {
-    "N5": "N4",
-    "一": "題",
-    "イチ / ひと・つ": "ダイ",
-    "Uno": "Tema / Título",
-    "一人=Una persona | 一日=Un día": "問題=Problema | 宿題=Deberes"
+    "lvl": "N4",
+    "k": "朝",
+    "r": "チョウ / あさ",
+    "s": "Mañana",
+    "ex": "朝食=Desayuno | 今朝=Esta mañana"
   },
   {
-    "N5": "N4",
-    "一": "仕",
-    "イチ / ひと・つ": "シ / つか・える",
-    "Uno": "Servir",
-    "一人=Una persona | 一日=Un día": "仕事=Trabajo | 仕上げる=Terminar"
+    "lvl": "N4",
+    "k": "題",
+    "r": "ダイ",
+    "s": "Tema / Título",
+    "ex": "問題=Problema | 宿題=Deberes"
   },
   {
-    "N5": "N4",
-    "一": "京",
-    "イチ / ひと・つ": "キョウ / みやこ",
-    "Uno": "Capital",
-    "一人=Una persona | 一日=Un día": "東京=Tokio | 京都=Kioto"
+    "lvl": "N4",
+    "k": "仕",
+    "r": "シ / つか・える",
+    "s": "Servir",
+    "ex": "仕事=Trabajo | 仕上げる=Terminar"
   },
   {
-    "N5": "N4",
-    "一": "足",
-    "イチ / ひと・つ": "ソク / あし / た・りる",
-    "Uno": "Pie / Suficiente",
-    "一人=Una persona | 一日=Un día": "足りる=Ser suficiente | 足=Pie"
+    "lvl": "N4",
+    "k": "京",
+    "r": "キョウ / みやこ",
+    "s": "Capital",
+    "ex": "東京=Tokio | 京都=Kioto"
   },
   {
-    "N5": "N4",
-    "一": "品",
-    "イチ / ひと・つ": "ヒン / しな",
-    "Uno": "Artículo / Calidad",
-    "一人=Una persona | 一日=Un día": "作品=Obra | 商品=Mercancía"
+    "lvl": "N4",
+    "k": "足",
+    "r": "ソク / あし / た・りる",
+    "s": "Pie / Suficiente",
+    "ex": "足りる=Ser suficiente | 足=Pie"
   },
   {
-    "N5": "N4",
-    "一": "着",
-    "イチ / ひと・つ": "チャク / き・る / つ・く",
-    "Uno": "Vestir / Llegar",
-    "一人=Una persona | 一日=Un día": "下着=Ropa interior | 到着=Llegada"
+    "lvl": "N4",
+    "k": "品",
+    "r": "ヒン / しな",
+    "s": "Artículo / Calidad",
+    "ex": "作品=Obra | 商品=Mercancía"
   },
   {
-    "N5": "N4",
-    "一": "別",
-    "イチ / ひと・つ": "ベツ / わか・れる",
-    "Uno": "Separar / Diferente",
-    "一人=Una persona | 一日=Un día": "特別=Especial | 別に=No particularmente"
+    "lvl": "N4",
+    "k": "着",
+    "r": "チャク / き・る / つ・く",
+    "s": "Vestir / Llegar",
+    "ex": "下着=Ropa interior | 到着=Llegada"
   },
   {
-    "N5": "N4",
-    "一": "音",
-    "イチ / ひと・つ": "オン・イン / おと",
-    "Uno": "Sonido",
-    "一人=Una persona | 一日=Un día": "音楽=Música | 本音=Verdadera intención"
+    "lvl": "N4",
+    "k": "別",
+    "r": "ベツ / わか・れる",
+    "s": "Separar / Diferente",
+    "ex": "特別=Especial | 別に=No particularmente"
   },
   {
-    "N5": "N4",
-    "一": "元",
-    "イチ / ひと・つ": "ゲン・ガン / もと",
-    "Uno": "Origen / Base",
-    "一人=Una persona | 一日=Un día": "元気=Salud/Ánimo | 地元=Local"
+    "lvl": "N4",
+    "k": "音",
+    "r": "オン・イン / おと",
+    "s": "Sonido",
+    "ex": "音楽=Música | 本音=Verdadera intención"
   },
   {
-    "N5": "N4",
-    "一": "特",
-    "イチ / ひと・つ": "トク",
-    "Uno": "Especial",
-    "一人=Una persona | 一日=Un día": "特別=Especial | 特に=Especialmente"
+    "lvl": "N4",
+    "k": "元",
+    "r": "ゲン・ガン / もと",
+    "s": "Origen / Base",
+    "ex": "元気=Salud/Ánimo | 地元=Local"
   },
   {
-    "N5": "N4",
-    "一": "风",
-    "イチ / ひと・つ": "フウ / かぜ",
-    "Uno": "Viento / Estilo",
-    "一人=Una persona | 一日=Un día": "台風=Tifón | 和風=Estilo japonés"
+    "lvl": "N4",
+    "k": "特",
+    "r": "トク",
+    "s": "Especial",
+    "ex": "特別=Especial | 特に=Especialmente"
   },
   {
-    "N5": "N4",
-    "一": "夜",
-    "イチ / ひと・つ": "ヤ / よる",
-    "Uno": "Noche",
-    "一人=Una persona | 一日=Un día": "夜中=Medianoche | 今夜=Esta noche"
+    "lvl": "N4",
+    "k": "风",
+    "r": "フウ / かぜ",
+    "s": "Viento / Estilo",
+    "ex": "台風=Tifón | 和風=Estilo japonés"
   },
   {
-    "N5": "N4",
-    "一": "空",
-    "イチ / ひと・つ": "クウ / そら",
-    "Uno": "Cielo / Vacío",
-    "一人=Una persona | 一日=Un día": "空港=Aeropuerto | 空気=Aire"
+    "lvl": "N4",
+    "k": "夜",
+    "r": "ヤ / よる",
+    "s": "Noche",
+    "ex": "夜中=Medianoche | 今夜=Esta noche"
   },
   {
-    "N5": "N4",
-    "一": "有",
-    "イチ / ひと・つ": "ユウ・ウ / あ・る",
-    "Uno": "Tener / Existir",
-    "一人=Una persona | 一日=Un día": "有名=Famoso | 有料=De pago"
+    "lvl": "N4",
+    "k": "空",
+    "r": "クウ / そら",
+    "s": "Cielo / Vacío",
+    "ex": "空港=Aeropuerto | 空気=Aire"
   },
   {
-    "N5": "N4",
-    "一": "起",
-    "イチ / ひと・つ": "キ / お・きる",
-    "Uno": "Despertar / Ocurrir",
-    "一人=Una persona | 一日=Un día": "起きる=Levantarse | 起こす=Despertar a alguien"
+    "lvl": "N4",
+    "k": "有",
+    "r": "ユウ・ウ / あ・る",
+    "s": "Tener / Existir",
+    "ex": "有名=Famoso | 有料=De pago"
   },
   {
-    "N5": "N4",
-    "一": "運",
-    "イチ / ひと・つ": "ウン / はこ・ぶ",
-    "Uno": "Suerte / Transportar",
-    "一人=Una persona | 一日=Un día": "運転=Conducir | 運動=Ejercicio"
+    "lvl": "N4",
+    "k": "起",
+    "r": "キ / お・きる",
+    "s": "Despertar / Ocurrir",
+    "ex": "起きる=Levantarse | 起こす=Despertar a alguien"
   },
   {
-    "N5": "N4",
-    "一": "料",
-    "イチ / ひと・つ": "リョウ",
-    "Uno": "Ingrediente / Precio",
-    "一人=Una persona | 一日=Un día": "料理=Cocina | 料金=Tarifa"
+    "lvl": "N4",
+    "k": "運",
+    "r": "ウン / はこ・ぶ",
+    "s": "Suerte / Transportar",
+    "ex": "運転=Conducir | 運動=Ejercicio"
   },
   {
-    "N5": "N4",
-    "一": "楽",
-    "イチ / ひと・つ": "ラク・ガク / たの・しい",
-    "Uno": "Divertido / Música",
-    "一人=Una persona | 一日=Un día": "音楽=Música | 楽しみ=Diversión"
+    "lvl": "N4",
+    "k": "料",
+    "r": "リョウ",
+    "s": "Ingrediente / Precio",
+    "ex": "料理=Cocina | 料金=Tarifa"
   },
   {
-    "N5": "N4",
-    "一": "色",
-    "イチ / ひと・つ": "ショク / いろ",
-    "Uno": "Color",
-    "一人=Una persona | 一日=Un día": "色々=Varios | 景色=Paisaje"
+    "lvl": "N4",
+    "k": "楽",
+    "r": "ラク・ガク / たの・しい",
+    "s": "Divertido / Música",
+    "ex": "音楽=Música | 楽しみ=Diversión"
   },
   {
-    "N5": "N4",
-    "一": "帰",
-    "イチ / ひと・つ": "キ / かえ・る",
-    "Uno": "Regresar",
-    "一人=Una persona | 一日=Un día": "帰国=Regreso al país | 帰り道=Camino de vuelta"
+    "lvl": "N4",
+    "k": "色",
+    "r": "ショク / いろ",
+    "s": "Color",
+    "ex": "色々=Varios | 景色=Paisaje"
   },
   {
-    "N5": "N4",
-    "一": "歩",
-    "イチ / ひと・つ": "ホ / ある・く / あゆ・む",
-    "Uno": "Caminar",
-    "一人=Una persona | 一日=Un día": "散歩=Paseo | 歩道=Acera"
+    "lvl": "N4",
+    "k": "帰",
+    "r": "キ / かえ・る",
+    "s": "Regresar",
+    "ex": "帰国=Regreso al país | 帰り道=Camino de vuelta"
   },
   {
-    "N5": "N4",
-    "一": "悪",
-    "イチ / ひと・つ": "アク / わる・い",
-    "Uno": "Malo",
-    "一人=Una persona | 一日=Un día": "悪口=Insulto | 最悪=Lo peor"
+    "lvl": "N4",
+    "k": "歩",
+    "r": "ホ / ある・く / あゆ・む",
+    "s": "Caminar",
+    "ex": "散歩=Paseo | 歩道=Acera"
   },
   {
-    "N5": "N4",
-    "一": "広",
-    "イチ / ひと・つ": "コウ / ひろ・い",
-    "Uno": "Ancho / Amplio",
-    "一人=Una persona | 一日=Un día": "広告=Anuncio | 広場=Plaza"
+    "lvl": "N4",
+    "k": "悪",
+    "r": "アク / わる・い",
+    "s": "Malo",
+    "ex": "悪口=Insulto | 最悪=Lo peor"
   },
   {
-    "N5": "N4",
-    "一": "店",
-    "イチ / ひと・つ": "テン / みせ",
-    "Uno": "Tienda",
-    "一人=Una persona | 一日=Un día": "喫茶店=Cafetería | 売店=Puesto de venta"
+    "lvl": "N4",
+    "k": "広",
+    "r": "コウ / ひろ・い",
+    "s": "Ancho / Amplio",
+    "ex": "広告=Anuncio | 広場=Plaza"
   },
   {
-    "N5": "N4",
-    "一": "町",
-    "イチ / ひと・つ": "チョウ / まち",
-    "Uno": "Pueblo / Ciudad",
-    "一人=Una persona | 一日=Un día": "町長=Alcalde del pueblo | 下町=Centro histórico"
+    "lvl": "N4",
+    "k": "店",
+    "r": "テン / みせ",
+    "s": "Tienda",
+    "ex": "喫茶店=Cafetería | 売店=Puesto de venta"
   },
   {
-    "N5": "N4",
-    "一": "住",
-    "イチ / ひと・つ": "ジュウ / す・む",
-    "Uno": "Vivir / Residir",
-    "一人=Una persona | 一日=Un día": "住所=Dirección | 移住=Inmigración"
+    "lvl": "N4",
+    "k": "町",
+    "r": "チョウ / まち",
+    "s": "Pueblo / Ciudad",
+    "ex": "町長=Alcalde del pueblo | 下町=Centro histórico"
   },
   {
-    "N5": "N4",
-    "一": "売",
-    "イチ / ひと・つ": "バイ / う・る",
-    "Uno": "Vender",
-    "一人=Una persona | 一日=Un día": "売店=Puesto | 売り切れ=Agotado"
+    "lvl": "N4",
+    "k": "住",
+    "r": "ジュウ / す・む",
+    "s": "Vivir / Residir",
+    "ex": "住所=Dirección | 移住=Inmigración"
   },
   {
-    "N5": "N4",
-    "一": "待",
-    "イチ / ひと・つ": "タイ / ま・つ",
-    "Uno": "Esperar",
-    "一人=Una persona | 一日=Un día": "待合室=Sala de espera | 期待=Expectativa"
+    "lvl": "N4",
+    "k": "売",
+    "r": "バイ / う・る",
+    "s": "Vender",
+    "ex": "売店=Puesto | 売り切れ=Agotado"
   },
   {
-    "N5": "N4",
-    "一": "古",
-    "イチ / ひと・つ": "コ / ふる・い",
-    "Uno": "Viejo",
-    "一人=Una persona | 一日=Un día": "中古=Segunda mano | 古代=Antigüedad"
+    "lvl": "N4",
+    "k": "待",
+    "r": "タイ / ま・つ",
+    "s": "Esperar",
+    "ex": "待合室=Sala de espera | 期待=Expectativa"
   },
   {
-    "N5": "N4",
-    "一": "始",
-    "イチ / ひと・つ": "シ / はじ・める",
-    "Uno": "Empezar",
-    "一人=Una persona | 一日=Un día": "開始=Inicio | 年始=Principio de año"
+    "lvl": "N4",
+    "k": "古",
+    "r": "コ / ふる・い",
+    "s": "Viejo",
+    "ex": "中古=Segunda mano | 古代=Antigüedad"
   },
   {
-    "N5": "N4",
-    "一": "終",
-    "イチ / ひと・つ": "シュウ / お・わる",
-    "Uno": "Terminar",
-    "一人=Una persona | 一日=Un día": "終了=Fin | 終電=Último tren"
+    "lvl": "N4",
+    "k": "始",
+    "r": "シ / はじ・める",
+    "s": "Empezar",
+    "ex": "開始=Inicio | 年始=Principio de año"
   },
   {
-    "N5": "N4",
-    "一": "計",
-    "イチ / ひと・つ": "ケイ / はか・る",
-    "Uno": "Medir / Plan",
-    "一人=Una persona | 一日=Un día": "時計=Reloj | 合計=Total"
+    "lvl": "N4",
+    "k": "終",
+    "r": "シュウ / お・わる",
+    "s": "Terminar",
+    "ex": "終了=Fin | 終電=Último tren"
   },
   {
-    "N5": "N4",
-    "一": "院",
-    "イチ / ひと・つ": "イン",
-    "Uno": "Institución",
-    "一人=Una persona | 一日=Un día": "病院=Hospital | 大学院=Postgrado"
+    "lvl": "N4",
+    "k": "計",
+    "r": "ケイ / はか・る",
+    "s": "Medir / Plan",
+    "ex": "時計=Reloj | 合計=Total"
   },
   {
-    "N5": "N4",
-    "一": "送",
-    "イチ / ひと・つ": "ソウ / おく・る",
-    "Uno": "Enviar",
-    "一人=Una persona | 一日=Un día": "送信=Enviar mensaje | 見送る=Despedir"
+    "lvl": "N4",
+    "k": "院",
+    "r": "イン",
+    "s": "Institución",
+    "ex": "病院=Hospital | 大学院=Postgrado"
   },
   {
-    "N5": "N4",
-    "一": "族",
-    "イチ / ひと・つ": "ゾク",
-    "Uno": "Tribu / Familia",
-    "一人=Una persona | 一日=Un día": "家族=Familia | 暴走族=Banda motera"
+    "lvl": "N4",
+    "k": "送",
+    "r": "ソウ / おく・る",
+    "s": "Enviar",
+    "ex": "送信=Enviar mensaje | 見送る=Despedir"
   },
   {
-    "N5": "N4",
-    "一": "映",
-    "イチ / ひと・つ": "エイ / うつ・る",
-    "Uno": "Reflejar / Proyectar",
-    "一人=Una persona | 一日=Un día": "映画=Película | 映像=Imagen/Video"
+    "lvl": "N4",
+    "k": "族",
+    "r": "ゾク",
+    "s": "Tribu / Familia",
+    "ex": "家族=Familia | 暴走族=Banda motera"
   },
   {
-    "N5": "N4",
-    "一": "買",
-    "イチ / ひと・つ": "バイ / か・う",
-    "Uno": "Comprar",
-    "一人=Una persona | 一日=Un día": "買い物=Compras | 売買=Compraventa"
+    "lvl": "N4",
+    "k": "映",
+    "r": "エイ / うつ・る",
+    "s": "Reflejar / Proyectar",
+    "ex": "映画=Película | 映像=Imagen/Video"
   },
   {
-    "N5": "N4",
-    "一": "病",
-    "イチ / ひと・つ": "ビョウ / や・まい",
-    "Uno": "Enfermedad",
-    "一人=Una persona | 一日=Un día": "病院=Hospital | 病気=Enfermedad"
+    "lvl": "N4",
+    "k": "買",
+    "r": "バイ / か・う",
+    "s": "Comprar",
+    "ex": "買い物=Compras | 売買=Compraventa"
   },
   {
-    "N5": "N4",
-    "一": "早",
-    "イチ / ひと・つ": "ソウ / はや・い",
-    "Uno": "Temprano / Rápido",
-    "一人=Una persona | 一日=Un día": "早速=Inmediatamente | 早朝=Madrugada"
+    "lvl": "N4",
+    "k": "病",
+    "r": "ビョウ / や・まい",
+    "s": "Enfermedad",
+    "ex": "病院=Hospital | 病気=Enfermedad"
   },
   {
-    "N5": "N4",
-    "一": "質",
-    "イチ / ひと・つ": "シツ・シチ",
-    "Uno": "Calidad / Pregunta",
-    "一人=Una persona | 一日=Un día": "質問=Pregunta | 品質=Calidad"
+    "lvl": "N4",
+    "k": "早",
+    "r": "ソウ / はや・い",
+    "s": "Temprano / Rápido",
+    "ex": "早速=Inmediatamente | 早朝=Madrugada"
   },
   {
-    "N5": "N4",
-    "一": "台",
-    "イチ / ひと・つ": "ダイ・タイ",
-    "Uno": "Plataforma / Soporte",
-    "一人=Una persona | 一日=Un día": "台所=Cocina | 台風=Tifón"
+    "lvl": "N4",
+    "k": "質",
+    "r": "シツ・シチ",
+    "s": "Calidad / Pregunta",
+    "ex": "質問=Pregunta | 品質=Calidad"
   },
   {
-    "N5": "N4",
-    "一": "室",
-    "イチ / ひと・つ": "シツ / むろ",
-    "Uno": "Habitación / Sala",
-    "一人=Una persona | 一日=Un día": "教室=Aula | 地下室=Sótano"
+    "lvl": "N4",
+    "k": "台",
+    "r": "ダイ・タイ",
+    "s": "Plataforma / Soporte",
+    "ex": "台所=Cocina | 台風=Tifón"
   },
   {
-    "N5": "N4",
-    "一": "可",
-    "イチ / ひと・つ": "カ",
-    "Uno": "Posible / Aprobado",
-    "一人=Una persona | 一日=Un día": "可能=Posible | 許可=Permiso"
+    "lvl": "N4",
+    "k": "室",
+    "r": "シツ / むろ",
+    "s": "Habitación / Sala",
+    "ex": "教室=Aula | 地下室=Sótano"
   },
   {
-    "N5": "N4",
-    "一": "建",
-    "イチ / ひと・つ": "ケン / た・てる",
-    "Uno": "Construir",
-    "一人=Una persona | 一日=Un día": "建物=Edificio | 建設=Construcción"
+    "lvl": "N4",
+    "k": "可",
+    "r": "カ",
+    "s": "Posible / Aprobado",
+    "ex": "可能=Posible | 許可=Permiso"
   },
   {
-    "N5": "N4",
-    "一": "転",
-    "イチ / ひと・つ": "テン / ころ・ぶ",
-    "Uno": "Rodar / Girar",
-    "一人=Una persona | 一日=Un día": "運転=Conducir | 自転車=Bicicleta"
+    "lvl": "N4",
+    "k": "建",
+    "r": "ケン / た・てる",
+    "s": "Construir",
+    "ex": "建物=Edificio | 建設=Construcción"
   },
   {
-    "N5": "N4",
-    "一": "医",
-    "イチ / ひと・つ": "イ",
-    "Uno": "Medicina",
-    "一人=Una persona | 一日=Un día": "医者=Médico | 医学=Medicina (estudio)"
+    "lvl": "N4",
+    "k": "転",
+    "r": "テン / ころ・ぶ",
+    "s": "Rodar / Girar",
+    "ex": "運転=Conducir | 自転車=Bicicleta"
   },
   {
-    "N5": "N4",
-    "一": "止",
-    "イチ / ひと・つ": "シ / と・まる",
-    "Uno": "Detener",
-    "一人=Una persona | 一日=Un día": "中止=Cancelación | 禁止=Prohibición"
+    "lvl": "N4",
+    "k": "医",
+    "r": "イ",
+    "s": "Medicina",
+    "ex": "医者=Médico | 医学=Medicina (estudio)"
   },
   {
-    "N5": "N4",
-    "一": "字",
-    "イチ / ひと・つ": "ジ",
-    "Uno": "Letra / Carácter",
-    "一人=Una persona | 一日=Un día": "漢字=Kanji | 名字=Apellido"
+    "lvl": "N4",
+    "k": "止",
+    "r": "シ / と・まる",
+    "s": "Detener",
+    "ex": "中止=Cancelación | 禁止=Prohibición"
   },
   {
-    "N5": "N4",
-    "一": "工",
-    "イチ / ひと・つ": "コウ・ク",
-    "Uno": "Construcción / Trabajo",
-    "一人=Una persona | 一日=Un día": "工場=Fábrica | 大工=Carpintero"
+    "lvl": "N4",
+    "k": "字",
+    "r": "ジ",
+    "s": "Letra / Carácter",
+    "ex": "漢字=Kanji | 名字=Apellido"
   },
   {
-    "N5": "N4",
-    "一": "急",
-    "イチ / ひと・つ": "キュウ / いそ・ぐ",
-    "Uno": "Urgente / Rápido",
-    "一人=Una persona | 一日=Un día": "急行=Tren expreso | 急に=De repente"
+    "lvl": "N4",
+    "k": "工",
+    "r": "コウ・ク",
+    "s": "Construcción / Trabajo",
+    "ex": "工場=Fábrica | 大工=Carpintero"
   },
   {
-    "N5": "N4",
-    "一": "図",
-    "イチ / ひと・つ": "ズ・ト / はか・る",
-    "Uno": "Mapa / Plan",
-    "一人=Una persona | 一日=Un día": "地図=Mapa | 図書館=Biblioteca"
+    "lvl": "N4",
+    "k": "急",
+    "r": "キュウ / いそ・ぐ",
+    "s": "Urgente / Rápido",
+    "ex": "急行=Tren expreso | 急に=De repente"
   },
   {
-    "N5": "N4",
-    "一": "黒",
-    "イチ / ひと・つ": "コク / くろ・い",
-    "Uno": "Negro",
-    "一人=Una persona | 一日=Un día": "真っ黒=Negro intenso | 黒板=Pizarra"
+    "lvl": "N4",
+    "k": "図",
+    "r": "ズ・ト / はか・る",
+    "s": "Mapa / Plan",
+    "ex": "地図=Mapa | 図書館=Biblioteca"
   },
   {
-    "N5": "N4",
-    "一": "花",
-    "イチ / ひと・つ": "カ / はな",
-    "Uno": "Flor",
-    "一人=Una persona | 一日=Un día": "花火=Fuegos artificiales | 生け花=Ikebana"
+    "lvl": "N4",
+    "k": "黒",
+    "r": "コク / くろ・い",
+    "s": "Negro",
+    "ex": "真っ黒=Negro intenso | 黒板=Pizarra"
   },
   {
-    "N5": "N4",
-    "一": "英",
-    "イチ / ひと・つ": "エイ",
-    "Uno": "Inglaterra / Brillante",
-    "一人=Una persona | 一日=Un día": "英語=Inglés | 英国=Reino Unido"
+    "lvl": "N4",
+    "k": "花",
+    "r": "カ / はな",
+    "s": "Flor",
+    "ex": "花火=Fuegos artificiales | 生け花=Ikebana"
   },
   {
-    "N5": "N4",
-    "一": "走",
-    "イチ / ひと・つ": "ソウ / はし・る",
-    "Uno": "Correr",
-    "一人=Una persona | 一日=Un día": "競走=Carrera | 脱走=Fuga"
+    "lvl": "N4",
+    "k": "英",
+    "r": "エイ",
+    "s": "Inglaterra / Brillante",
+    "ex": "英語=Inglés | 英国=Reino Unido"
   },
   {
-    "N5": "N4",
-    "一": "青",
-    "イチ / ひと・つ": "セイ / あお・い",
-    "Uno": "Azul",
-    "一人=Una persona | 一日=Un día": "青年=Juventud | 青空=Cielo azul"
+    "lvl": "N4",
+    "k": "走",
+    "r": "ソウ / はし・る",
+    "s": "Correr",
+    "ex": "競走=Carrera | 脱走=Fuga"
   },
   {
-    "N5": "N4",
-    "一": "答",
-    "イチ / ひと・つ": "トウ / こた・える",
-    "Uno": "Respuesta",
-    "一人=Una persona | 一日=Un día": "回答=Solución | 答案=Hoja de examen"
+    "lvl": "N4",
+    "k": "青",
+    "r": "セイ / あお・い",
+    "s": "Azul",
+    "ex": "青年=Juventud | 青空=Cielo azul"
   },
   {
-    "N5": "N4",
-    "一": "紙",
-    "イチ / ひと・つ": "シ / かみ",
-    "Uno": "Papel",
-    "一人=Una persona | 一日=Un día": "手紙=Carta | 和紙=Papel japonés"
+    "lvl": "N4",
+    "k": "答",
+    "r": "トウ / こた・える",
+    "s": "Respuesta",
+    "ex": "回答=Solución | 答案=Hoja de examen"
   },
   {
-    "N5": "N4",
-    "一": "歌",
-    "イチ / ひと・つ": "カ / うた",
-    "Uno": "Canción / Cantar",
-    "一人=Una persona | 一日=Un día": "歌手=Cantante | 歌舞伎=Kabuki"
+    "lvl": "N4",
+    "k": "紙",
+    "r": "シ / かみ",
+    "s": "Papel",
+    "ex": "手紙=Carta | 和紙=Papel japonés"
   },
   {
-    "N5": "N4",
-    "一": "注",
-    "イチ / ひと・つ": "チュウ / そそ・ぐ",
-    "Uno": "Atención / Verter",
-    "一人=Una persona | 一日=Un día": "注意=Cuidado | 注文=Pedido"
+    "lvl": "N4",
+    "k": "歌",
+    "r": "カ / うた",
+    "s": "Canción / Cantar",
+    "ex": "歌手=Cantante | 歌舞伎=Kabuki"
   },
   {
-    "N5": "N4",
-    "一": "赤",
-    "イチ / ひと・つ": "セキ / あか・い",
-    "Uno": "Rojo",
-    "一人=Una persona | 一日=Un día": "赤ちゃん=Bebé | 赤道=Ecuador"
+    "lvl": "N4",
+    "k": "注",
+    "r": "チュウ / そそ・ぐ",
+    "s": "Atención / Verter",
+    "ex": "注意=Cuidado | 注文=Pedido"
   },
   {
-    "N5": "N4",
-    "一": "春",
-    "イチ / ひと・つ": "シュン / はる",
-    "Uno": "Primavera",
-    "一人=Una persona | 一日=Un día": "春休み=Vacaciones | 青春=Juventud"
+    "lvl": "N4",
+    "k": "赤",
+    "r": "セキ / あか・い",
+    "s": "Rojo",
+    "ex": "赤ちゃん=Bebé | 赤道=Ecuador"
   },
   {
-    "N5": "N4",
-    "一": "館",
-    "イチ / ひと・つ": "カン",
-    "Uno": "Edificio público",
-    "一人=Una persona | 一日=Un día": "大使館=Embajada | 映画館=Cine"
+    "lvl": "N4",
+    "k": "春",
+    "r": "シュン / はる",
+    "s": "Primavera",
+    "ex": "春休み=Vacaciones | 青春=Juventud"
   },
   {
-    "N5": "N4",
-    "一": "旅",
-    "イチ / ひと・つ": "リョ / たび",
-    "Uno": "Viaje",
-    "一人=Una persona | 一日=Un día": "旅行=Viaje | 旅人=Viajero"
+    "lvl": "N4",
+    "k": "館",
+    "r": "カン",
+    "s": "Edificio público",
+    "ex": "大使館=Embajada | 映画館=Cine"
   },
   {
-    "N5": "N4",
-    "一": "験",
-    "イチ / ひと・つ": "ケン",
-    "Uno": "Prueba / Examen",
-    "一人=Una persona | 一日=Un día": "試験=Examen | 経験=Experiencia"
+    "lvl": "N4",
+    "k": "旅",
+    "r": "リョ / たび",
+    "s": "Viaje",
+    "ex": "旅行=Viaje | 旅人=Viajero"
   },
   {
-    "N5": "N4",
-    "一": "写",
-    "イチ / ひと・つ": "シャ / うつ・す",
-    "Uno": "Copiar / Fotografía",
-    "一人=Una persona | 一日=Un día": "写真=Foto | 写生=Dibujo natural"
+    "lvl": "N4",
+    "k": "験",
+    "r": "ケン",
+    "s": "Prueba / Examen",
+    "ex": "試験=Examen | 経験=Experiencia"
   },
   {
-    "N5": "N4",
-    "一": "去",
-    "イチ / ひと・つ": "キョ・コ / さ・る",
-    "Uno": "Pasado / Irse",
-    "一人=Una persona | 一日=Un día": "去年=Año pasado | 過去=Pasado"
+    "lvl": "N4",
+    "k": "写",
+    "r": "シャ / うつ・す",
+    "s": "Copiar / Fotografía",
+    "ex": "写真=Foto | 写生=Dibujo natural"
   },
   {
-    "N5": "N4",
-    "一": "研",
-    "イチ / ひと・つ": "ケン / と・ぐ",
-    "Uno": "Investigar / Pulir",
-    "一人=Una persona | 一日=Un día": "研究=Investigación | 研修=Prácticas"
+    "lvl": "N4",
+    "k": "去",
+    "r": "キョ・コ / さ・る",
+    "s": "Pasado / Irse",
+    "ex": "去年=Año pasado | 過去=Pasado"
   },
   {
-    "N5": "N4",
-    "一": "飲",
-    "イチ / ひと・つ": "イン / の・む",
-    "Uno": "Beber",
-    "一人=Una persona | 一日=Un día": "飲み物=Bebida | 飲食店=Restaurante"
+    "lvl": "N4",
+    "k": "研",
+    "r": "ケン / と・ぐ",
+    "s": "Investigar / Pulir",
+    "ex": "研究=Investigación | 研修=Prácticas"
   },
   {
-    "N5": "N4",
-    "一": "肉",
-    "イチ / ひと・つ": "ニク",
-    "Uno": "Carne",
-    "一人=Una persona | 一日=Un día": "牛肉=Carne de vaca | 筋肉=Músculo"
+    "lvl": "N4",
+    "k": "飲",
+    "r": "イン / の・む",
+    "s": "Beber",
+    "ex": "飲み物=Bebida | 飲食店=Restaurante"
   },
   {
-    "N5": "N4",
-    "一": "服",
-    "イチ / ひと・つ": "フク",
-    "Uno": "Ropa / Obedecer",
-    "一人=Una persona | 一日=Un día": "洋服=Ropa occidental | 制服=Uniforme"
+    "lvl": "N4",
+    "k": "肉",
+    "r": "ニク",
+    "s": "Carne",
+    "ex": "牛肉=Carne de vaca | 筋肉=Músculo"
   },
   {
-    "N5": "N4",
-    "一": "銀",
-    "イチ / ひと・つ": "ギン",
-    "Uno": "Plata",
-    "一人=Una persona | 一日=Un día": "銀行=Banco | 銀河=Galaxia"
+    "lvl": "N4",
+    "k": "服",
+    "r": "フク",
+    "s": "Ropa / Obedecer",
+    "ex": "洋服=Ropa occidental | 制服=Uniforme"
   },
   {
-    "N5": "N4",
-    "一": "茶",
-    "イチ / ひと・つ": "チャ・サ",
-    "Uno": "Té",
-    "一人=Una persona | 一日=Un día": "喫茶店=Cafetería | お茶=Té verde"
+    "lvl": "N4",
+    "k": "銀",
+    "r": "ギン",
+    "s": "Plata",
+    "ex": "銀行=Banco | 銀河=Galaxia"
   },
   {
-    "N5": "N4",
-    "一": "究",
-    "イチ / ひと・つ": "キュウ / きわ・める",
-    "Uno": "Investigación profunda",
-    "一人=Una persona | 一日=Un día": "研究=Investigación | 究極=Definitivo"
+    "lvl": "N4",
+    "k": "茶",
+    "r": "チャ・サ",
+    "s": "Té",
+    "ex": "喫茶店=Cafetería | お茶=Té verde"
   },
   {
-    "N5": "N4",
-    "一": "洋",
-    "イチ / ひと・つ": "ヨウ",
-    "Uno": "Océano / Occidental",
-    "一人=Una persona | 一日=Un día": "洋食=Comida occidental | 太平洋=Pacífico"
+    "lvl": "N4",
+    "k": "究",
+    "r": "キュウ / きわ・める",
+    "s": "Investigación profunda",
+    "ex": "研究=Investigación | 究極=Definitivo"
   },
   {
-    "N5": "N4",
-    "一": "兄",
-    "イチ / ひと・つ": "キョウ / あに",
-    "Uno": "Hermano mayor",
-    "一人=Una persona | 一日=Un día": "お兄さん=Hermano (hon.) | 兄弟=Hermanos"
+    "lvl": "N4",
+    "k": "洋",
+    "r": "ヨウ",
+    "s": "Océano / Occidental",
+    "ex": "洋食=Comida occidental | 太平洋=Pacífico"
   },
   {
-    "N5": "N4",
-    "一": "秋",
-    "イチ / ひと・つ": "シュウ / あき",
-    "Uno": "Otoño",
-    "一人=Una persona | 一日=Un día": "秋分=Equinoccio de otoño | 秋休み=Vacaciones"
+    "lvl": "N4",
+    "k": "兄",
+    "r": "キョウ / あに",
+    "s": "Hermano mayor",
+    "ex": "お兄さん=Hermano (hon.) | 兄弟=Hermanos"
   },
   {
-    "N5": "N4",
-    "一": "党",
-    "イチ / ひと・つ": "トウ",
-    "Uno": "Partido / Facción",
-    "一人=Una persona | 一日=Un día": "自民党=Partido Liberal | 党員=Miembro de partido"
+    "lvl": "N4",
+    "k": "秋",
+    "r": "シュウ / あき",
+    "s": "Otoño",
+    "ex": "秋分=Equinoccio de otoño | 秋休み=Vacaciones"
   },
   {
-    "N5": "N4",
-    "一": "週",
-    "イチ / ひと・つ": "シュウ",
-    "Uno": "Semana",
-    "一人=Una persona | 一日=Un día": "来週=Próxima semana | 週末=Fin de semana"
+    "lvl": "N4",
+    "k": "党",
+    "r": "トウ",
+    "s": "Partido / Facción",
+    "ex": "自民党=Partido Liberal | 党員=Miembro de partido"
   },
   {
-    "N5": "N4",
-    "一": "習",
-    "イチ / ひと・つ": "シュウ / なら・う",
-    "Uno": "Aprender",
-    "一人=Una persona | 一日=Un día": "練習=Práctica | 習慣=Hábito"
+    "lvl": "N4",
+    "k": "週",
+    "r": "シュウ",
+    "s": "Semana",
+    "ex": "来週=Próxima semana | 週末=Fin de semana"
   },
   {
-    "N5": "N4",
-    "一": "試",
-    "イチ / ひと・つ": "シ / こころ・みる",
-    "Uno": "Prueba / Intentar",
-    "一人=Una persona | 一日=Un día": "試験=Examen | 試食=Degustación"
+    "lvl": "N4",
+    "k": "習",
+    "r": "シュウ / なら・う",
+    "s": "Aprender",
+    "ex": "練習=Práctica | 習慣=Hábito"
   },
   {
-    "N5": "N4",
-    "一": "夏",
-    "イチ / ひと・つ": "カ / なつ",
-    "Uno": "Verano",
-    "一人=Una persona | 一日=Un día": "夏休み=Vacaciones verano | 夏季=Temporada de verano"
+    "lvl": "N4",
+    "k": "試",
+    "r": "シ / こころ・みる",
+    "s": "Prueba / Intentar",
+    "ex": "試験=Examen | 試食=Degustación"
   },
   {
-    "N5": "N4",
-    "一": "弟",
-    "イチ / ひと・つ": "ダイ / おとうと",
-    "Uno": "Hermano menor",
-    "一人=Una persona | 一日=Un día": "兄弟=Hermanos | 弟子=Discípulo"
+    "lvl": "N4",
+    "k": "夏",
+    "r": "カ / なつ",
+    "s": "Verano",
+    "ex": "夏休み=Vacaciones verano | 夏季=Temporada de verano"
   },
   {
-    "N5": "N4",
-    "一": "鳥",
-    "イチ / ひと・つ": "チョウ / とり",
-    "Uno": "Pájaro",
-    "一人=Una persona | 一日=Un día": "小鳥=Pajarito | 白鳥=Cisne"
+    "lvl": "N4",
+    "k": "弟",
+    "r": "ダイ / おとうと",
+    "s": "Hermano menor",
+    "ex": "兄弟=Hermanos | 弟子=Discípulo"
   },
   {
-    "N5": "N4",
-    "一": "犬",
-    "イチ / ひと・つ": "ケン / いぬ",
-    "Uno": "Perro",
-    "一人=Una persona | 一日=Un día": "子犬=Cachorro | 番犬=Perro guardián"
+    "lvl": "N4",
+    "k": "鳥",
+    "r": "チョウ / とり",
+    "s": "Pájaro",
+    "ex": "小鳥=Pajarito | 白鳥=Cisne"
   },
   {
-    "N5": "N4",
-    "一": "夕",
-    "イチ / ひと・つ": "セキ / ゆう",
-    "Uno": "Atardecer",
-    "一人=Una persona | 一日=Un día": "夕食=Cena | 夕方=Tarde"
+    "lvl": "N4",
+    "k": "犬",
+    "r": "ケン / いぬ",
+    "s": "Perro",
+    "ex": "子犬=Cachorro | 番犬=Perro guardián"
   },
   {
-    "N5": "N4",
-    "一": "魚",
-    "イチ / ひと・つ": "ギョ / さかな",
-    "Uno": "Pescado",
-    "一人=Una persona | 一日=Un día": "金魚=Pez de colores | 魚屋=Pescadería"
+    "lvl": "N4",
+    "k": "夕",
+    "r": "セキ / ゆう",
+    "s": "Atardecer",
+    "ex": "夕食=Cena | 夕方=Tarde"
   },
   {
-    "N5": "N4",
-    "一": "借",
-    "イチ / ひと・つ": "シャク / か・りる",
-    "Uno": "Prestar / Alquilar",
-    "一人=Una persona | 一日=Un día": "借金=Deuda | 借家=Casa alquilada"
+    "lvl": "N4",
+    "k": "魚",
+    "r": "ギョ / さかな",
+    "s": "Pescado",
+    "ex": "金魚=Pez de colores | 魚屋=Pescadería"
   },
   {
-    "N5": "N4",
-    "一": "飯",
-    "イチ / ひと・つ": "ハン / めし",
-    "Uno": "Arroz / Comida",
-    "一人=Una persona | 一日=Un día": "晩御飯=Cena | ご飯=Comida"
+    "lvl": "N4",
+    "k": "借",
+    "r": "シャク / か・りる",
+    "s": "Prestar / Alquilar",
+    "ex": "借金=Deuda | 借家=Casa alquilada"
   },
   {
-    "N5": "N4",
-    "一": "駅",
-    "イチ / ひと・つ": "エキ",
-    "Uno": "Estación de tren",
-    "一人=Una persona | 一日=Un día": "駅員=Empleado estación | 駅弁=Bento de estación"
+    "lvl": "N4",
+    "k": "飯",
+    "r": "ハン / めし",
+    "s": "Arroz / Comida",
+    "ex": "晩御飯=Cena | ご飯=Comida"
   },
   {
-    "N5": "N4",
-    "一": "昼",
-    "イチ / ひと・つ": "チュウ / ひる",
-    "Uno": "Mediodía",
-    "一人=Una persona | 一日=Un día": "昼食=Almuerzo | 昼休み=Descanso"
+    "lvl": "N4",
+    "k": "駅",
+    "r": "エキ",
+    "s": "Estación de tren",
+    "ex": "駅員=Empleado estación | 駅弁=Bento de estación"
   },
   {
-    "N5": "N4",
-    "一": "冬",
-    "イチ / ひと・つ": "トウ / ふゆ",
-    "Uno": "Invierno",
-    "一人=Una persona | 一日=Un día": "冬休み=Vacaciones invierno | 立冬=Inicio invierno"
+    "lvl": "N4",
+    "k": "昼",
+    "r": "チュウ / ひる",
+    "s": "Mediodía",
+    "ex": "昼食=Almuerzo | 昼休み=Descanso"
   },
   {
-    "N5": "N4",
-    "一": "姉",
-    "イチ / ひと・つ": "シ / あね",
-    "Uno": "Hermana mayor",
-    "一人=Una persona | 一日=Un día": "お姉さん=Hermana (hon.) | 姉妹=Hermanas"
+    "lvl": "N4",
+    "k": "冬",
+    "r": "トウ / ふゆ",
+    "s": "Invierno",
+    "ex": "冬休み=Vacaciones invierno | 立冬=Inicio invierno"
   },
   {
-    "N5": "N4",
-    "一": "曜",
-    "イチ / ひと・つ": "ヨウ",
-    "Uno": "Día de la semana",
-    "一人=Una persona | 一日=Un día": "月曜日=Lunes | 何曜日=¿Qué día?"
+    "lvl": "N4",
+    "k": "姉",
+    "r": "シ / あね",
+    "s": "Hermana mayor",
+    "ex": "お姉さん=Hermana (hon.) | 姉妹=Hermanas"
   },
   {
-    "N5": "N4",
-    "一": "漢",
-    "イチ / ひと・つ": "カン",
-    "Uno": "China / Kanji",
-    "一人=Una persona | 一日=Un día": "漢字=Kanji | 漢方薬=Medicina china"
+    "lvl": "N4",
+    "k": "曜",
+    "r": "ヨウ",
+    "s": "Día de la semana",
+    "ex": "月曜日=Lunes | 何曜日=¿Qué día?"
   },
   {
-    "N5": "N4",
-    "一": "牛",
-    "イチ / ひと・つ": "ギュウ / うし",
-    "Uno": "Vaca",
-    "一人=Una persona | 一日=Un día": "牛乳=Leche | 牛肉=Carne de vaca"
+    "lvl": "N4",
+    "k": "漢",
+    "r": "カン",
+    "s": "China / Kanji",
+    "ex": "漢字=Kanji | 漢方薬=Medicina china"
   },
   {
-    "N5": "N4",
-    "一": "妹",
-    "イチ / ひと・つ": "マイ / いもうと",
-    "Uno": "Hermana menor",
-    "一人=Una persona | 一日=Un día": "姉妹=Hermanas | 妹=Hermana menor"
+    "lvl": "N4",
+    "k": "牛",
+    "r": "ギュウ / うし",
+    "s": "Vaca",
+    "ex": "牛乳=Leche | 牛肉=Carne de vaca"
   },
   {
-    "N5": "N4",
-    "一": "貸",
-    "イチ / ひと・つ": "タイ / か・す",
-    "Uno": "Prestar",
-    "一人=Una persona | 一日=Un día": "貸家=Casa en alquiler | 貸し出し=Préstamo"
+    "lvl": "N4",
+    "k": "妹",
+    "r": "マイ / いもうと",
+    "s": "Hermana menor",
+    "ex": "姉妹=Hermanas | 妹=Hermana menor"
   },
   {
-    "N5": "N4",
-    "一": "勉",
-    "イチ / ひと・つ": "ベン / つと・める",
-    "Uno": "Esfuerzo",
-    "一人=Una persona | 一日=Un día": "勉強=Estudio | 勤勉=Diligencia"
+    "lvl": "N4",
+    "k": "貸",
+    "r": "タイ / か・す",
+    "s": "Prestar",
+    "ex": "貸家=Casa en alquiler | 貸し出し=Préstamo"
   },
+  {
+    "lvl": "N4",
+    "k": "勉",
+    "r": "ベン / つと・める",
+    "s": "Esfuerzo",
+    "ex": "勉強=Estudio | 勤勉=Diligencia"
+  }
 ]
-
-
