@@ -259,12 +259,12 @@
     "ex": "小川=Arroyo | ナイル川=Río Nilo"
   },
   {
-    "lvl": "N5",
-    "k": "田",
-    "r": "デン / た",
-    "s": "Arrozal",
-    "ex": "Vocabulario"
-  },
+  "lvl": "N5",
+  "k": "田",
+  "r": "デン / た",
+  "s": "Arrozal",
+  "ex": "田んぼ=Arrozal | 田舎=Campo/Rural"
+}
   {
     "lvl": "N5",
     "k": "天",
