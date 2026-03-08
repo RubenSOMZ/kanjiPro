@@ -1016,6 +1016,146 @@
   },
   {
     "lvl": "N2",
+    "k": "越",
+    "r": "エツ / こ・す / こ・える",
+    "s": "Cruzar / Sobrepasar",
+    "ex": "追い越す=Adelantar | 優越感=Complejo de superioridad | 引っ越し=Mudanza"
+  },
+  {
+    "lvl": "N2",
+    "k": "缶",
+    "r": "カン",
+    "s": "Lata / Bote",
+    "ex": "缶詰=Comida enlatada | 缶切り=Abrelatas | 空き缶=Lata vacía"
+  },
+  {
+    "lvl": "N2",
+    "k": "貫",
+    "r": "カン / つらぬ・く",
+    "s": "Atravesar / Traspasar",
+    "ex": "貫通=Penetración | 貫禄=Dignidad/Presencia | 初志貫徹=Cumplir el propósito inicial"
+  },
+  {
+    "lvl": "N2",
+    "k": "患",
+    "r": "カン / わずら・う",
+    "s": "Padecer / Sufrir enfermedad",
+    "ex": "患者=Paciente | 急患=Paciente de urgencia | 疾患=Enfermedad"
+  },
+  {
+    "lvl": "N2",
+    "k": "緩",
+    "r": "カン / ゆる・める / ゆる・い",
+    "s": "Aflojar / Relajar",
+    "ex": "緩和=Mitigación/Relajación | 緩慢=Lento/Parsimonioso | 緩い=Flojo"
+  },
+  {
+    "lvl": "N2",
+    "k": "陥",
+    "r": "カン / おちい・る",
+    "s": "Caer en / Colapsar / Hundirse",
+    "ex": "陥落=Caída (ciudad/puesto) | 欠陥=Defecto | 陥る=Caer en (trampa/error)"
+  },
+  {
+    "lvl": "N2",
+    "k": "幾",
+    "r": "キ / いく",
+    "s": "Cuánto / Varios",
+    "ex": "幾何学=Geometría | 幾つ=Cuántos | 幾分=En parte/Algo"
+  },
+  {
+    "lvl": "N2",
+    "k": "宜",
+    "r": "ギ / よろ・しい",
+    "s": "Apropiado / Bien",
+    "ex": "便宜=Conveniencia | 適宜=Según sea apropiado | よろしく=Saludos/Mis respetos"
+  },
+  {
+    "lvl": "N2",
+    "k": "犠",
+    "r": "ギ",
+    "s": "Sacrificio",
+    "ex": "犠牲=Sacrificio | 犠牲者=Víctima | 犠牲を払う=Pagar un sacrificio"
+  },
+  {
+    "lvl": "N2",
+    "k": "喫",
+    "r": "キツ",
+    "s": "Consumir / Fumar / Comer",
+    "ex": "喫煙=Fumar | 喫茶店=Cafetería | 満喫=Disfrutar plenamente"
+  },
+  {
+    "lvl": "N2",
+    "k": "緊",
+    "r": "キン / し・める",
+    "s": "Tense / Urgente",
+    "ex": "緊急=Emergencia | 緊張=Nervios/Tensión | 緊密=Estrecho (relación)"
+  },
+  {
+    "lvl": "N2",
+    "k": "菌",
+    "r": "キン",
+    "s": "Bacteria / Germen / Hongo",
+    "ex": "細菌=Bacteria | 除菌=Desinfección | 殺菌=Esterilización"
+  },
+  {
+    "lvl": "N2",
+    "k": "傾",
+    "r": "ケイ / かたむ・く",
+    "s": "Inclinar / Tendencia",
+    "ex": "傾向=Tendencia | 傾斜=Pendiente/Inclinación | 傾く=Inclinarse"
+  },
+  {
+    "lvl": "N2",
+    "k": "穴",
+    "r": "ケツ / あな",
+    "s": "Agujero / Hueco",
+    "ex": "穴場=Lugar poco conocido | 落とし穴=Trampa | 穴を掘る=Cavar un agujero"
+  },
+  {
+    "lvl": "N2",
+    "k": "堅",
+    "r": "ケン / かた・い",
+    "s": "Sólido / Firme / Duro",
+    "ex": "堅実=Sólido/Fiable | 堅牢=Fuerte/Duradero | 堅い=Duro"
+  },
+  {
+    "lvl": "N2",
+    "k": "献",
+    "r": "ケン / コン / ささ・げる",
+    "s": "Ofrecer / Presentar / Donar",
+    "ex": "献金=Donación de dinero | 献身=Dedicación | 献立=Menú"
+  },
+  {
+    "lvl": "N2",
+    "k": "恒",
+    "r": "コウ / つね",
+    "s": "Constante / Eterno",
+    "ex": "恒常的=Constante | 恒星=Estrella fija | 恒久=Eterno"
+  },
+  {
+    "lvl": "N2",
+    "k": "皇",
+    "r": "コウ / オウ",
+    "s": "Emperador",
+    "ex": "天皇=Emperador del Japón | 皇居=Palacio Imperial | 皇后=Emperatriz"
+  },
+  {
+    "lvl": "N2",
+    "k": "硬",
+    "r": "コウ / かた・い",
+    "s": "Duro / Rígido",
+    "ex": "硬貨=Moneda metálica | 硬直=Rigidez | 硬い=Duro/Tieso"
+  },
+  {
+    "lvl": "N2",
+    "k": "稿",
+    "r": "コウ / わら",
+    "s": "Manuscrito / Borrador",
+    "ex": "原稿=Manuscrito | 投稿=Publicar/Colaborar | 寄稿=Contribución escrita"
+  },
+  {
+    "lvl": "N2",
     "k": "督",
     "r": "トク",
     "s": "Supervisar / Comandar",
