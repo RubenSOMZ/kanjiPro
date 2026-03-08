@@ -288,6 +288,13 @@
   },
   {
     "lvl": "N4",
+    "k": "軍",
+    "r": "グン",
+    "s": "Ejército / Militar",
+    "ex": "軍隊=Ejército | 将軍=Shogun | 空軍=Fuerza aérea"
+  },
+  {
+    "lvl": "N4",
     "k": "文",
     "r": "ブン / ふみ",
     "s": "Literatura / Frase",
