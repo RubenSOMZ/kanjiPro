@@ -316,6 +316,34 @@
   },
   {
     "lvl": "N4",
+    "k": "頭",
+    "r": "トウ / ズ / あたま",
+    "s": "Cabeza / Jefe",
+    "ex": "頭痛=Dolor de cabeza | 先頭=Vanguardia/Líder | 頭数=Número de personas"
+  },
+  {
+    "lvl": "N4",
+    "k": "顔",
+    "r": "ガン / かお",
+    "s": "Cara / Rostro",
+    "ex": "顔色=Color de cara/Semblante | 洗顔=Lavarse la cara | 笑顔=Sonrisa"
+  },
+  {
+    "lvl": "N4",
+    "k": "首",
+    "r": "シュ / くび",
+    "s": "Cuello / Jefe / Primero",
+    "ex": "首都=Capital | 首相=Primer Ministro | 手首=Muñeca (de la mano)"
+  },
+  {
+    "lvl": "N4",
+    "k": "鼻",
+    "r": "ビ / はな",
+    "s": "Nariz",
+    "ex": "鼻血=Sangre de la nariz | 耳鼻科=Otorrinolaringología | 鼻声=Voz nasal"
+  },
+  {
+    "lvl": "N4",
     "k": "近",
     "r": "キン / ちか・い",
     "s": "Cerca",
