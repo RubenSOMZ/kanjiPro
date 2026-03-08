@@ -1,2578 +1,1227 @@
 [
   {
     "lvl": "N3",
-    "k": "合",
-    "r": "ゴウ・ガッ / あ・う",
-    "s": "Combinar / Ajustar",
-    "ex": "試合=Partido | 間に合う=Llegar a tiempo"
-  },
-  {
-    "lvl": "N3",
-    "k": "部",
-    "r": "ブ",
-    "s": "Parte / Departamento",
-    "ex": "全部=Todo | 部屋=Habitación"
-  },
-  {
-    "lvl": "N3",
-    "k": "彼",
-    "r": "ヒ / かれ",
-    "s": "Él",
-    "ex": "彼女=Ella / Novia | 彼ら=Ellos"
-  },
-  {
-    "lvl": "N3",
-    "k": "内",
-    "r": "ナイ / うち",
-    "s": "Dentro / Interior",
-    "ex": "内容=Contenido | 案内=Guía/Información"
-  },
-  {
-    "lvl": "N3",
-    "k": "実",
-    "r": "ジツ / み / みの・る",
-    "s": "Realidad / Fruto",
-    "ex": "実は=En realidad | 現実=Realidad"
-  },
-  {
-    "lvl": "N3",
-    "k": "当",
-    "r": "トウ / あ・たる",
-    "s": "Acertar / Impactar",
-    "ex": "本当=Verdad | 弁当=Bento"
-  },
-  {
-    "lvl": "N3",
-    "k": "戦",
-    "r": "セン / たたか・う",
-    "s": "Guerra / Pelea",
-    "ex": "戦争=Guerra | 戦う=Luchar"
-  },
-  {
-    "lvl": "N3",
-    "k": "性",
-    "r": "セイ・ショウ",
-    "s": "Género / Naturaleza",
-    "ex": "男性=Hombre | 可能性=Posibilidad"
-  },
-  {
-    "lvl": "N3",
-    "k": "対",
-    "r": "タイ・ツイ",
-    "s": "Opuesto / Frente a",
-    "ex": "反対=Oposición | 対する=Frente a"
-  },
-  {
-    "lvl": "N3",
-    "k": "関",
-    "r": "カン / せき",
-    "s": "Relación / Barrera",
-    "ex": "関係=Relación | 関心=Interés"
-  },
-  {
-    "lvl": "N3",
-    "k": "感",
-    "r": "カン",
-    "s": "Sentimiento / Sentir",
-    "ex": "感情=Emoción | 感じる=Sentir"
-  },
-  {
-    "lvl": "N3",
-    "k": "定",
-    "r": "テイ・ジョウ / さだ・める",
-    "s": "Fijar / Establecer",
-    "ex": "予定=Plan | 決定=Decisión"
-  },
-  {
-    "lvl": "N3",
-    "k": "政",
-    "r": "セイ・ショウ / まつりごと",
-    "s": "Política / Gobierno",
-    "ex": "政治=Política | 政府=Gobierno"
-  },
-  {
-    "lvl": "N3",
-    "k": "取",
-    "r": "シュ / と・る",
-    "s": "Tomar / Coger",
-    "ex": "取り出す=Extraer | 受け取る=Recibir"
-  },
-  {
-    "lvl": "N3",
-    "k": "所",
-    "r": "ショ / ところ",
-    "s": "Lugar",
-    "ex": "場所=Sitio | 住所=Dirección"
-  },
-  {
-    "lvl": "N3",
-    "k": "現",
-    "r": "ゲン / あらわ・れる",
-    "s": "Actual / Aparecer",
-    "ex": "現在=Actualidad | 表現=Expresión"
-  },
-  {
-    "lvl": "N3",
-    "k": "最",
-    "r": "サイ / もっと・も",
-    "s": "Lo más... / El mejor",
-    "ex": "最近=Recientemente | 最後=Último"
-  },
-  {
-    "lvl": "N3",
-    "k": "化",
-    "r": "カ・ケ / ば・ける",
-    "s": "Transformar",
-    "ex": "文化=Cultura | 変化=Cambio"
-  },
-  {
-    "lvl": "N3",
-    "k": "民",
-    "r": "ミン / たみ",
-    "s": "Pueblo / Ciudadano",
-    "ex": "市民=Ciudadano | 民族=Etnia"
-  },
-  {
-    "lvl": "N3",
-    "k": "相",
-    "r": "ソウ・ショウ / あい",
-    "s": "Aspecto / Mutuo",
-    "ex": "相談=Consulta | 相手=Compañero"
-  },
-  {
-    "lvl": "N3",
-    "k": "法",
-    "r": "ホウ",
-    "s": "Ley / Método",
-    "ex": "法律=Ley | 方法=Método"
-  },
-  {
-    "lvl": "N3",
-    "k": "全",
-    "r": "ゼン / すべ・て",
-    "s": "Todo / Entero",
-    "ex": "全部=Todo | 安全=Seguridad"
-  },
-  {
-    "lvl": "N3",
-    "k": "情",
-    "r": "ジョウ / なさ・け",
-    "s": "Sentimiento / Información",
-    "ex": "情報=Información | 友情=Amistad"
-  },
-  {
-    "lvl": "N3",
-    "k": "向",
-    "r": "コウ / む・く",
-    "s": "Hacia / Dirección",
-    "ex": "向こう=Allá | 方向=Dirección"
-  },
-  {
-    "lvl": "N3",
-    "k": "平",
-    "r": "ヘイ・ビョウ / たい・ら",
-    "s": "Plano / Paz",
-    "ex": "平和=Paz | 平日=Día de semana"
-  },
-  {
-    "lvl": "N3",
-    "k": "成",
-    "r": "セイ / な・る",
-    "s": "Llegar a ser / Lograr",
-    "ex": "成功=Éxito | 完成=Completar"
-  },
-  {
-    "lvl": "N3",
-    "k": "経",
-    "r": "ケイ・キョウ / へ・る",
-    "s": "Pasar / Gestionar",
-    "ex": "経済=Economía | 経験=Experiencia"
-  },
-  {
-    "lvl": "N3",
-    "k": "信",
-    "r": "シン",
-    "s": "Confianza / Creer",
-    "ex": "自信=Confianza | 信じる=Creer"
-  },
-  {
-    "lvl": "N3",
-    "k": "面",
-    "r": "メン / おもて",
-    "s": "Cara / Superficie",
-    "ex": "面白い=Interesante | 画面=Pantalla"
-  },
-  {
-    "lvl": "N3",
-    "k": "運",
-    "r": "ウン / はこ・ぶ",
-    "s": "Suerte / Transportar",
-    "ex": "運転=Conducir | 運動=Ejercicio"
-  },
-  {
-    "lvl": "N3",
-    "k": "原",
-    "r": "ゲン / はら",
-    "s": "Origen / Campo",
-    "ex": "原因=Causa | 野原=Pradera"
-  },
-  {
-    "lvl": "N3",
-    "k": "顔",
-    "r": "ガン / かお",
-    "s": "Cara / Rostro",
-    "ex": "笑顔=Sonrisa | 洗顔=Lavado de cara"
-  },
-  {
-    "lvl": "N3",
-    "k": "機",
-    "r": "キ / はた",
-    "s": "Máquina / Oportunidad",
-    "ex": "飛行機=Avión | 機会=Oportunidad"
-  },
-  {
-    "lvl": "N3",
-    "k": "次",
-    "r": "ジ・シ / つぎ",
-    "s": "Siguiente",
-    "ex": "次回=Próxima vez | 次女=Segunda hija"
-  },
-  {
-    "lvl": "N3",
-    "k": "数",
-    "r": "スウ / かず",
-    "s": "Número",
-    "ex": "数学=Matemáticas | 数=Número"
-  },
-  {
-    "lvl": "N3",
-    "k": "美",
-    "r": "ビ / うつく・しい",
-    "s": "Belleza",
-    "ex": "美人=Bella | 美術館=Museo de arte"
-  },
-  {
-    "lvl": "N3",
-    "k": "回",
-    "r": "カイ / まわ・る",
-    "s": "Vez / Girar",
-    "ex": "一回=Una vez | 回る=Girar"
-  },
-  {
-    "lvl": "N3",
-    "k": "表",
-    "r": "ヒョウ / おもて / あらわ・す",
-    "s": "Expresar / Superficie",
-    "ex": "発表=Presentación | 表情=Expresión facial"
-  },
-  {
-    "lvl": "N3",
-    "k": "声",
-    "r": "セイ / こえ",
-    "s": "Voz",
-    "ex": "大声=Voz alta | 発声=Vocalización"
-  },
-  {
-    "lvl": "N3",
-    "k": "报",
-    "r": "ホウ",
-    "s": "Informar / Recompensa",
-    "ex": "予報=Pronóstico | 報告=Informe"
-  },
-  {
-    "lvl": "N3",
-    "k": "要",
-    "r": "ヨウ / い・る",
-    "s": "Necesario / Punto clave",
-    "ex": "必要=Necesario | 重要=Importante"
-  },
-  {
-    "lvl": "N3",
-    "k": "神",
-    "r": "シン・ジン / かみ",
-    "s": "Dios / Deidad",
-    "ex": "神社=Santuario | 精神=Espíritu"
-  },
-  {
-    "lvl": "N3",
-    "k": "記",
-    "r": "キ / しる・す",
-    "s": "Anotar / Grabar",
-    "ex": "日記=Diario | 記事=Artículo"
-  },
-  {
-    "lvl": "N3",
-    "k": "和",
-    "r": "ワ / やわ・らぐ",
-    "s": "Paz / Estilo japonés",
-    "ex": "平和=Paz | 和食=Comida japonesa"
-  },
-  {
-    "lvl": "N3",
-    "k": "引",
-    "r": "イン / ひ・く",
-    "s": "Tirar / Atraer",
-    "ex": "割引=Descuento | 引き出し=Cajón"
-  },
-  {
-    "lvl": "N3",
-    "k": "治",
-    "r": "ジ・チ / なお・る",
-    "s": "Curar / Gobernar",
-    "ex": "政治=Política | 治療=Tratamiento"
-  },
-  {
-    "lvl": "N3",
-    "k": "決",
-    "r": "ケツ / き・める",
-    "s": "Decidir",
-    "ex": "決定=Decisión | 決して=Nunca"
-  },
-  {
-    "lvl": "N3",
-    "k": "太",
-    "r": "タイ・タ / ふと・い",
-    "s": "Gordo / Grueso",
-    "ex": "太陽=Sol | 太る=Engordar"
-  },
-  {
-    "lvl": "N3",
-    "k": "込",
-    "r": "(なし) / こ・む",
-    "s": "Meterse / Lleno",
-    "ex": "申し込む=Solicitar | 飲み込む=Tragar"
-  },
-  {
-    "lvl": "N3",
-    "k": "受",
-    "r": "ジュ / う・ける",
-    "s": "Recibir",
-    "ex": "受付=Recepción | 受験=Hacer un examen"
-  },
-  {
-    "lvl": "N3",
-    "k": "解",
-    "r": "カイ・ゲ / と・く",
-    "s": "Resolver / Entender",
-    "ex": "解決=Solución | 解説=Explicación"
-  },
-  {
-    "lvl": "N3",
-    "k": "市",
-    "r": "シ / いち",
-    "s": "Ciudad / Mercado",
-    "ex": "市長=Alcalde | 市場=Mercado"
-  },
-  {
-    "lvl": "N3",
-    "k": "期",
-    "r": "キ / ご",
-    "s": "Periodo / Tiempo",
-    "ex": "期間=Periodo | 期待=Expectativa"
-  },
-  {
-    "lvl": "N3",
-    "k": "様",
-    "r": "ヨウ / さま",
-    "s": "Sr. Sra. / Aspecto",
-    "ex": "お客様=Cliente | 様子=Estado/Aspecto"
-  },
-  {
-    "lvl": "N3",
-    "k": "活",
-    "r": "カツ",
-    "s": "Vida / Actividad",
-    "ex": "生活=Vida diaria | 活動=Actividad"
-  },
-  {
-    "lvl": "N3",
-    "k": "頭",
-    "r": "トウ・ズ / あたま",
-    "s": "Cabeza",
-    "ex": "頭痛=Dolor de cabeza | 頭=Cabeza"
-  },
-  {
-    "lvl": "N3",
-    "k": "組",
-    "r": "ソ / くみ",
-    "s": "Grupo / Clase",
-    "ex": "番組=Programa | 組合=Unión/Asociación"
-  },
-  {
-    "lvl": "N3",
-    "k": "指",
-    "r": "シ / ゆび",
-    "s": "Dedo / Señalar",
-    "ex": "指定=Designar | 指輪=Anillo"
-  },
-  {
-    "lvl": "N3",
-    "k": "説",
-    "r": "セツ / と・く",
-    "s": "Teoría / Explicar",
-    "ex": "説明=Explicación | 小説=Novela"
-  },
-  {
-    "lvl": "N3",
-    "k": "能",
-    "r": "ノウ",
-    "s": "Capacidad / Habilidad",
-    "ex": "能力=Habilidad | 可能=Posible"
-  },
-  {
-    "lvl": "N3",
-    "k": "葉",
-    "r": "ヨウ / は",
-    "s": "Hoja",
-    "ex": "言葉=Palabra | 紅葉=Momi-ji (arce)"
-  },
-  {
-    "lvl": "N3",
-    "k": "流",
-    "r": "リュウ / なが・れる",
-    "s": "Fluir / Estilo",
-    "ex": "流行=Moda | 流れる=Fluir"
-  },
-  {
-    "lvl": "N3",
-    "k": "熱",
-    "r": "ネツ / あつ・い",
-    "s": "Calor / Fiebre",
-    "ex": "熱い=Caliente | 熱心=Entusiasta"
-  },
-  {
-    "lvl": "N3",
-    "k": "初",
-    "r": "ショ / はじ・め",
-    "s": "Principio / Primera vez",
-    "ex": "初めて=Por primera vez | 最初=El principio"
-  },
-  {
-    "lvl": "N3",
-    "k": "在",
-    "r": "ザイ / あ・る",
-    "s": "Existir / Estar",
-    "ex": "現在=Actualidad | 在在=Presencia"
-  },
-  {
-    "lvl": "N3",
-    "k": "調",
-    "r": "チョウ / しら・べる",
-    "s": "Investigar / Tono",
-    "ex": "調査=Investigación | 調子=Estado/Tono"
-  },
-  {
-    "lvl": "N3",
-    "k": "笑",
-    "r": "ショウ / わら・う",
-    "s": "Reír / Sonreír",
-    "ex": "笑顔=Sonrisa | 笑う=Reír"
-  },
-  {
-    "lvl": "N3",
-    "k": "議",
-    "r": "ギ",
-    "s": "Discutir / Consultar",
-    "ex": "会議=Reunión | 議論=Discusión"
-  },
-  {
-    "lvl": "N3",
-    "k": "直",
-    "r": "チョク / なお・す",
-    "s": "Reparar / Directo",
-    "ex": "直接=Directo | 正直=Honesto"
-  },
-  {
-    "lvl": "N3",
-    "k": "夫",
-    "r": "フ / おっと",
-    "s": "Esposo / Varón",
-    "ex": "夫婦=Matrimonio | 丈夫=Fuerte/Robusto"
-  },
-  {
-    "lvl": "N3",
-    "k": "選",
-    "r": "セン / えら・ぶ",
-    "s": "Elegir",
-    "ex": "選手=Atleta | 選挙=Elección"
-  },
-  {
-    "lvl": "N3",
-    "k": "権",
-    "r": "ケン・ゴン / おたき",
-    "s": "Derecho / Poder",
-    "ex": "権利=Derecho | 政権=Poder político"
-  },
-  {
-    "lvl": "N3",
-    "k": "利",
-    "r": "リ / き・く",
-    "s": "Beneficio / Interés",
-    "ex": "利用=Uso/Utilización | 便利=Práctico"
-  },
-  {
-    "lvl": "N3",
-    "k": "制",
-    "r": "セイ",
-    "s": "Sistema / Control",
-    "ex": "制度=Sistema | 制限=Limitación"
-  },
-  {
-    "lvl": "N3",
-    "k": "続",
-    "r": "ゾク / つづ・く",
-    "s": "Continuar",
-    "ex": "続き=Continuación | 手続き=Trámite"
-  },
-  {
-    "lvl": "N3",
-    "k": "石",
-    "r": "セキ / いし",
-    "s": "Piedra",
-    "ex": "石油=Petróleo | 宝石=Gema"
-  },
-  {
-    "lvl": "N3",
-    "k": "進",
-    "r": "シン / すす・む",
-    "s": "Avanzar / Progresar",
-    "ex": "進歩=Progreso | 進む=Avanzar"
-  },
-  {
-    "lvl": "N3",
-    "k": "伝",
-    "r": "デン / つた・える",
-    "s": "Transmitir / Avisar",
-    "ex": "伝える=Transmitir | 手伝う=Ayudar"
-  },
-  {
-    "lvl": "N3",
-    "k": "加",
-    "r": "カ / くわ・える",
-    "s": "Añadir / Sumar",
-    "ex": "参加=Participación | 加える=Añadir"
-  },
-  {
-    "lvl": "N3",
-    "k": "助",
-    "r": "ジョ / たす・ける",
-    "s": "Ayudar / Auxiliar",
-    "ex": "助ける=Salvar/Ayudar | 助手=Asistente"
-  },
-  {
-    "lvl": "N3",
-    "k": "点",
-    "r": "テン",
-    "s": "Punto / Nota",
-    "ex": "満点=Puntuación máxima | 弱点=Punto débil"
-  },
-  {
-    "lvl": "N3",
-    "k": "産",
-    "r": "サン / う・む",
-    "s": "Producir / Nacer",
-    "ex": "産業=Industria | お土産=Souvenir"
-  },
-  {
-    "lvl": "N3",
-    "k": "務",
-    "r": "ム / つと・める",
-    "s": "Tarea / Deber",
-    "ex": "事務所=Oficina | 公務員=Funcionario"
-  },
-  {
-    "lvl": "N3",
-    "k": "件",
-    "r": "ケン",
-    "s": "Asunto / Caso",
-    "ex": "事件=Incidente | 条件=Condición"
-  },
-  {
-    "lvl": "N3",
-    "k": "命",
-    "r": "メイ・ミョウ / いのち",
-    "s": "Vida / Destino",
-    "ex": "生命=Vida | 一生懸命=Con todas las fuerzas"
-  },
-  {
-    "lvl": "N3",
-    "k": "番",
-    "r": "バン",
-    "s": "Turno / Número",
-    "ex": "一番=El mejor/El primero | 番組=Programa"
-  },
-  {
-    "lvl": "N3",
-    "k": "落",
-    "r": "ラク / お・ちる",
-    "s": "Caer / Perder",
-    "ex": "落ち着く=Calmarse | 落とし物=Objeto perdido"
-  },
-  {
-    "lvl": "N3",
-    "k": "付",
-    "r": "フ / つ・ける",
-    "s": "Pegar / Adjuntar",
-    "ex": "受付=Recepción | 付近=Cercanía/Alrededor"
-  },
-  {
-    "lvl": "N3",
-    "k": "得",
-    "r": "トク / え・る",
-    "s": "Obtener / Ganar",
-    "ex": "得意=Fuerte en algo | 得る=Obtener"
-  },
-  {
-    "lvl": "N3",
-    "k": "好",
-    "r": "コウ / す・き",
-    "s": "Gustar",
-    "ex": "好物=Plato favorito | 大好き=Gustar mucho"
-  },
-  {
-    "lvl": "N3",
-    "k": "違",
-    "r": "イ / ちが・う",
-    "s": "Diferir / Error",
-    "ex": "違う=Diferente/Equivocado | 間違い=Error"
-  },
-  {
-    "lvl": "N3",
-    "k": "殺",
-    "r": "サツ / ころ・す",
-    "s": "Matar",
-    "ex": "殺人=Asesinato | 自殺=Suicidio"
-  },
-  {
-    "lvl": "N3",
-    "k": "置",
-    "r": "チ / お・く",
-    "s": "Poner / Colocar",
-    "ex": "位置=Posición | 置く=Poner"
-  },
-  {
-    "lvl": "N3",
-    "k": "返",
-    "r": "ヘン / かえ・す",
-    "s": "Devolver",
-    "ex": "返事=Respuesta | 返す=Devolver"
-  },
-  {
-    "lvl": "N3",
-    "k": "論",
-    "r": "ロン",
-    "s": "Teoría / Discurso",
-    "ex": "論文=Tesis/Ensayo | 議論=Discusión"
-  },
-  {
-    "lvl": "N3",
-    "k": "際",
-    "r": "サイ / きわ",
-    "s": "Ocasión / Borde",
-    "ex": "国際=Internacional | 実際に=Realmente"
-  },
-  {
-    "lvl": "N3",
-    "k": "歳",
-    "r": "サイ",
-    "s": "Años de edad",
-    "ex": "二十歳=20 años (hatachi) | 万歳=Banzai"
-  },
-  {
-    "lvl": "N3",
-    "k": "反",
-    "r": "ハン・ホン / そ・る",
-    "s": "Anti / Oponerse",
-    "ex": "反対=Oposición | 反応=Reacción"
-  },
-  {
-    "lvl": "N3",
-    "k": "形",
-    "r": "ケイ・ギョウ / かたち",
-    "s": "Forma / Figura",
-    "ex": "人形=Muñeca | 形式=Formato"
-  },
-  {
-    "lvl": "N3",
-    "k": "光",
-    "r": "コウ / ひかり",
-    "s": "Luz / Brillo",
-    "ex": "観光=Turismo | 光=Luz"
-  },
-  {
-    "lvl": "N3",
-    "k": "首",
-    "r": "シュ / くび",
-    "s": "Cuello / Cabeza",
-    "ex": "首都=Capital | 首=Cuello"
-  },
-  {
-    "lvl": "N3",
-    "k": "勝",
-    "r": "ショウ / か・つ",
-    "s": "Ganar / Vencer",
-    "ex": "勝利=Victoria | 勝負=Victoria o derrota"
-  },
-  {
-    "lvl": "N3",
-    "k": "必",
-    "r": "ヒツ / かなら・ず",
-    "s": "Necesariamente",
-    "ex": "必要=Necesario | 必ず=Sin falta"
-  },
-  {
-    "lvl": "N3",
-    "k": "係",
-    "r": "ケイ / かか・り",
-    "s": "Relación / Cargo",
-    "ex": "関係=Relación | 係員=Encargado"
-  },
-  {
-    "lvl": "N3",
-    "k": "由",
-    "r": "ユウ・ユ",
-    "s": "Razón / Causa",
-    "ex": "自由=Libertad | 理由=Razón"
-  },
-  {
-    "lvl": "N3",
     "k": "愛",
     "r": "アイ",
     "s": "Amor",
-    "ex": "愛情=Afecto | 愛する=Amar"
+    "ex": "愛=Amor | 愛情=Afecto | 愛人=Amante"
   },
   {
     "lvl": "N3",
-    "k": "都",
-    "r": "ト・ツ / みやこ",
-    "s": "Capital / Ciudad",
-    "ex": "都会=Ciudad | 都市=Metrópolis"
+    "k": "案",
+    "r": "アン",
+    "s": "Plan, idea",
+    "ex": "案内=Guía | 提案=Propuesta | 案=Plan"
   },
   {
     "lvl": "N3",
-    "k": "放",
-    "r": "ホウ / はな・す",
-    "s": "Soltar / Emitir",
-    "ex": "放送=Emisión/Radio | 放す=Soltar"
-  },
-  {
-    "lvl": "N3",
-    "k": "確",
-    "r": "カク / たし・か",
-    "s": "Seguro / Cierto",
-    "ex": "確認=Confirmar | 確かに=Ciertamente"
-  },
-  {
-    "lvl": "N3",
-    "k": "過",
-    "r": "カ / す・ぎる",
-    "s": "Pasar / Exceder",
-    "ex": "過去=Pasado | 過ごす=Pasar el tiempo"
-  },
-  {
-    "lvl": "N3",
-    "k": "約",
-    "r": "ヤク",
-    "s": "Promesa / Aprox.",
-    "ex": "約束=Promesa | 予約=Reserva"
-  },
-  {
-    "lvl": "N3",
-    "k": "馬",
-    "r": "バ / うま",
-    "s": "Caballo",
-    "ex": "乗馬=Equitación | 馬=Caballo"
-  },
-  {
-    "lvl": "N3",
-    "k": "状",
-    "r": "ジョウ",
-    "s": "Estado / Condición",
-    "ex": "状態=Estado | 状況=Situación"
-  },
-  {
-    "lvl": "N3",
-    "k": "想",
-    "r": "ソウ・ソ",
-    "s": "Pensamiento / Idea",
-    "ex": "理想=Ideal | 予想=Previsión"
-  },
-  {
-    "lvl": "N3",
-    "k": "官",
-    "r": "カン",
-    "s": "Funcionario / Oficial",
-    "ex": "警官=Policía | 官僚=Burócrata"
-  },
-  {
-    "lvl": "N3",
-    "k": "交",
-    "r": "コウ / まじ・わる",
-    "s": "Cruce / Mezcla",
-    "ex": "交通=Tráfico | 交番=Puesto de policía"
-  },
-  {
-    "lvl": "N3",
-    "k": "米",
-    "r": "ベイ・マイ / こめ",
-    "s": "Arroz / EEUU",
-    "ex": "米国=EEUU | 米=Arroz"
-  },
-  {
-    "lvl": "N3",
-    "k": "配",
-    "r": "ハイ / くば・る",
-    "s": "Repartir / Cuidar",
-    "ex": "心配=Preocupación | 配達=Entrega"
-  },
-  {
-    "lvl": "N3",
-    "k": "若",
-    "r": "ジャク / わか・い",
-    "s": "Joven",
-    "ex": "若者=Jóvenes | 若い=Joven"
-  },
-  {
-    "lvl": "N3",
-    "k": "資",
-    "r": "シ",
-    "s": "Recursos / Capital",
-    "ex": "資料=Datos/Material | 資本=Capital"
-  },
-  {
-    "lvl": "N3",
-    "k": "常",
-    "r": "ジョウ / つね",
-    "s": "Normal / Siempre",
-    "ex": "非常=Emergencia | 日常=Diario/Cotidiano"
-  },
-  {
-    "lvl": "N3",
-    "k": "果",
-    "r": "カ / は・たす",
-    "s": "Fruto / Resultado",
-    "ex": "結果=Resultado | 果物=Fruta"
-  },
-  {
-    "lvl": "N3",
-    "k": "呼",
-    "r": "コ / よ・ぶ",
-    "s": "Llamar",
-    "ex": "呼ぶ=Llamar | 呼吸=Respiración"
-  },
-  {
-    "lvl": "N3",
-    "k": "共",
-    "r": "キョウ / とも",
-    "s": "Juntos / Común",
-    "ex": "共通=Común | 共感=Empatía"
-  },
-  {
-    "lvl": "N3",
-    "k": "残",
-    "r": "ザン / のこ・る",
-    "s": "Quedar / Restar",
-    "ex": "残念=Lástima | 残る=Quedar"
-  },
-  {
-    "lvl": "N3",
-    "k": "判",
-    "r": "ハン・バン",
-    "s": "Juzgar / Sello",
-    "ex": "判断=Juicio/Decisión | 評判=Reputación"
-  },
-  {
-    "lvl": "N3",
-    "k": "役",
-    "r": "ヤク・エキ",
-    "s": "Papel / Servicio",
-    "ex": "役に立つ=Ser útil | 市役所=Ayuntamiento"
-  },
-  {
-    "lvl": "N3",
-    "k": "他",
-    "r": "タ / ほか",
-    "s": "Otro",
-    "ex": "他人=Extraño | その他=El resto/Otros"
-  },
-  {
-    "lvl": "N3",
-    "k": "術",
-    "r": "ジュツ",
-    "s": "Técnica / Arte",
-    "ex": "技術=Tecnología/Técnica | 美術館=Museo de arte"
-  },
-  {
-    "lvl": "N3",
-    "k": "支",
-    "r": "シ / ささ・える",
-    "s": "Soporte / Apoyo",
-    "ex": "支配=Control/Dominio | 支店=Sucursal"
-  },
-  {
-    "lvl": "N3",
-    "k": "両",
-    "r": "リョウ",
-    "s": "Ambos",
-    "ex": "両親=Padres | 両方=Ambos"
-  },
-  {
-    "lvl": "N3",
-    "k": "乗",
-    "r": "ジョウ / の・る",
-    "s": "Montar / Subir",
-    "ex": "乗客=Pasajero | 乗り物=Vehículo"
-  },
-  {
-    "lvl": "N3",
-    "k": "済",
-    "r": "サイ / す・む",
-    "s": "Terminar / Aliviar",
-    "ex": "経済=Economía | 済む=Terminarse"
-  },
-  {
-    "lvl": "N3",
-    "k": "供",
-    "r": "キョウ / とも",
-    "s": "Ofrecer / Junto",
-    "ex": "子供=Niño | 提供=Ofrecer"
-  },
-  {
-    "lvl": "N3",
-    "k": "格",
-    "r": "カク・コウ",
-    "s": "Rango / Calidad",
-    "ex": "性格=Carácter | 合格=Aprobar examen"
-  },
-  {
-    "lvl": "N3",
-    "k": "打",
-    "r": "ダ / う・つ",
-    "s": "Golpear",
-    "ex": "打ち合わせ=Reunión | 打つ=Golpear"
-  },
-  {
-    "lvl": "N3",
-    "k": "御",
-    "r": "ゴ・ギョ / お",
-    "s": "Honorable (cortés)",
-    "ex": "御飯=Comida | 御手洗=Aseo"
-  },
-  {
-    "lvl": "N3",
-    "k": "断",
-    "r": "ダン / ことわ・る",
-    "s": "Cortar / Rechazar",
-    "ex": "判断=Juicio | 断る=Rechazar"
-  },
-  {
-    "lvl": "N3",
-    "k": "式",
-    "r": "シキ",
-    "s": "Ceremonia / Estilo",
-    "ex": "結婚式=Boda | 形式=Formato"
-  },
-  {
-    "lvl": "N3",
-    "k": "師",
-    "r": "シ",
-    "s": "Maestro / Experto",
-    "ex": "教師=Profesor | 医師=Médico"
-  },
-  {
-    "lvl": "N3",
-    "k": "告",
-    "r": "コク / つ・げる",
-    "s": "Avisar / Anunciar",
-    "ex": "報告=Informe | 広告=Anuncio"
-  },
-  {
-    "lvl": "N3",
-    "k": "深",
-    "r": "シン / ふか・い",
-    "s": "Profundo",
-    "ex": "深夜=Medianoche | 深い=Profundo"
-  },
-  {
-    "lvl": "N3",
-    "k": "存",
-    "r": "ソン・ゾン",
-    "s": "Existir / Conservar",
-    "ex": "保存=Guardar | ご存じ=Conocer (hon.)"
-  },
-  {
-    "lvl": "N3",
-    "k": "争",
-    "r": "ソウ / あらそ・う",
-    "s": "Disputa / Pelea",
-    "ex": "戦争=Guerra | 争う=Luchar"
-  },
-  {
-    "lvl": "N3",
-    "k": "覚",
-    "r": "カク / おぼ・える / さ・める",
-    "s": "Recordar / Despertar",
-    "ex": "覚える=Memorizar | 目覚まし=Despertador"
-  },
-  {
-    "lvl": "N3",
-    "k": "側",
-    "r": "ソク / かわ",
-    "s": "Lado / Costado",
-    "ex": "右側=Lado derecho | 両側=Ambos lados"
-  },
-  {
-    "lvl": "N3",
-    "k": "飛",
-    "r": "ヒ / と・ぶ",
-    "s": "Volar",
-    "ex": "飛行機=Avión | 飛び出す=Salir corriendo"
-  },
-  {
-    "lvl": "N3",
-    "k": "参",
-    "r": "サン / まい・る",
-    "s": "Visitar / Ir (hum.)",
-    "ex": "参加=Participar | 参る=Ir/Venir (hum.)"
-  },
-  {
-    "lvl": "N3",
-    "k": "突",
-    "r": "トツ / つ・く",
-    "s": "Empuje / De repente",
-    "ex": "突然=De repente | 突き当たり=Final de la calle"
-  },
-  {
-    "lvl": "N3",
-    "k": "容",
-    "r": "ヨウ",
-    "s": "Contenido / Forma",
-    "ex": "内容=Contenido | 容器=Contenedor"
-  },
-  {
-    "lvl": "N3",
-    "k": "育",
-    "r": "イク / そだ・つ / そだ・てる",
-    "s": "Crianza / Educar",
-    "ex": "教育=Educación | 育つ=Crecer"
-  },
-  {
-    "lvl": "N3",
-    "k": "構",
-    "r": "コウ / かま・える",
-    "s": "Estructura / Construir",
-    "ex": "構成=Composición | 構う=Importar/Preocupar"
-  },
-  {
-    "lvl": "N3",
-    "k": "認",
-    "r": "ニン / みと・める",
-    "s": "Reconocer / Admitir",
-    "ex": "確認=Confirmar | 認める=Reconocer"
+    "k": "囲",
+    "r": "イ / かこ・む",
+    "s": "Rodear",
+    "ex": "囲む=Rodear | 範囲=Rango | 周囲=Alrededores"
   },
   {
     "lvl": "N3",
     "k": "位",
     "r": "イ / くらい",
-    "s": "Posición / Rango",
-    "ex": "位置=Posición | 第一位=Primer lugar"
+    "s": "Rango, posición",
+    "ex": "地位=Posición | 位置=Ubicación | 首位=Primer lugar"
   },
   {
     "lvl": "N3",
-    "k": "達",
-    "r": "タツ",
-    "s": "Alcanzar / Llegar",
-    "ex": "友達=Amigo | 速達=Envío urgente"
+    "k": "依",
+    "r": "イ",
+    "s": "Depender de",
+    "ex": "依頼=Petición | 依然=Todavía | 依存的=Dependiente"
   },
   {
     "lvl": "N3",
-    "k": "守",
-    "r": "シュ・ス / まも・る",
-    "s": "Proteger / Cumplir",
-    "ex": "守る=Proteger | 留守=Ausencia (no estar en casa)"
+    "k": "意",
+    "r": "イ",
+    "s": "Significado, voluntad",
+    "ex": "意味=Significado | 意見=Opinión | 意志=Voluntad"
   },
   {
     "lvl": "N3",
-    "k": "満",
-    "r": "マン / み・ちる",
-    "s": "Lleno / Satisfacer",
-    "ex": "満足=Satisfecho | 満員=Lleno de gente"
+    "k": "遺",
+    "r": "イ",
+    "s": "Dejar atrás",
+    "ex": "遺伝=Herencia genética | 遺跡=Ruinas | 遺産=Herencia"
   },
   {
     "lvl": "N3",
-    "k": "消",
-    "r": "ショウ / き・える / け・す",
-    "s": "Borrar / Apagar",
-    "ex": "消しゴム=Goma de borrar | 消す=Apagar"
+    "k": "域",
+    "r": "イキ",
+    "s": "Región, límite",
+    "ex": "地域=Región | 区域=Zona | 領域=Territorio"
   },
   {
     "lvl": "N3",
-    "k": "任",
-    "r": "ニン / まか・せる",
-    "s": "Responsabilidad / Encargar",
-    "ex": "責任=Responsabilidad | 任せる=Encargar"
+    "k": "育",
+    "r": "イク / そだ・つ",
+    "s": "Criar, educar",
+    "ex": "育てる=Criar | 教育=Educación | 育つ=Crecer"
   },
   {
     "lvl": "N3",
-    "k": "居",
-    "r": "キョ / い・る",
-    "s": "Residir / Estar",
-    "ex": "居間=Salón | 居眠り=Dar cabezadas"
-  },
-  {
-    "lvl": "N3",
-    "k": "予",
-    "r": "ヨ",
-    "s": "Previo / De antemano",
-    "ex": "予定=Plan | 予約=Reserva"
-  },
-  {
-    "lvl": "N3",
-    "k": "路",
-    "r": "ロ / じ",
-    "s": "Ruta / Camino",
-    "ex": "道路=Carretera | 線路=Vía del tren"
-  },
-  {
-    "lvl": "N3",
-    "k": "座",
-    "r": "ザ / すわ・る",
-    "s": "Asiento / Sentarse",
-    "ex": "口座=Cuenta bancaria | 座る=Sentarse"
-  },
-  {
-    "lvl": "N3",
-    "k": "客",
-    "r": "キャク",
-    "s": "Invitado / Cliente",
-    "ex": "お客様=Cliente | 乗客=Pasajero"
-  },
-  {
-    "lvl": "N3",
-    "k": "船",
-    "r": "セン / ふね",
-    "s": "Barco",
-    "ex": "船長=Capitán | 船=Barco"
-  },
-  {
-    "lvl": "N3",
-    "k": "追",
-    "r": "ツイ / お・う",
-    "s": "Perseguir",
-    "ex": "追加=Añadir | 追う=Perseguir"
-  },
-  {
-    "lvl": "N3",
-    "k": "背",
-    "r": "ハイ / せ / せなか",
-    "s": "Espalda / Altura",
-    "ex": "背中=Espalda | 背が高い=Ser alto"
-  },
-  {
-    "lvl": "N3",
-    "k": "観",
-    "r": "カン",
-    "s": "Ver / Observar",
-    "ex": "観光=Turismo | 観客=Espectador"
-  },
-  {
-    "lvl": "N3",
-    "k": "誰",
-    "r": "スイ / だれ",
-    "s": "Quién",
-    "ex": "誰か=Alguien | 誰でも=Cualquiera"
-  },
-  {
-    "lvl": "N3",
-    "k": "息",
-    "r": "ソク / いき",
-    "s": "Respiración / Hijo",
-    "ex": "息子=Hijo | ため息=Suspiro"
-  },
-  {
-    "lvl": "N3",
-    "k": "失",
-    "r": "シツ / うしな・う",
-    "s": "Perder / Fallar",
-    "ex": "失敗=Fracaso | 失礼=Grosero/Disculpe"
-  },
-  {
-    "lvl": "N3",
-    "k": "老",
-    "r": "ロウ / お・いる",
-    "s": "Envejecer",
-    "ex": "老人=Anciano | 老ける=Envejecer"
-  },
-  {
-    "lvl": "N3",
-    "k": "良",
-    "r": "リョウ / よ・い",
-    "s": "Bueno",
-    "ex": "良好=Buen estado | 良い=Bueno"
-  },
-  {
-    "lvl": "N3",
-    "k": "示",
-    "r": "ジ・シ / しめ・す",
-    "s": "Mostrar / Indicar",
-    "ex": "指示=Instrucción | 示す=Mostrar"
-  },
-  {
-    "lvl": "N3",
-    "k": "号",
-    "r": "ゴウ",
-    "s": "Número / Señal",
-    "ex": "番号=Número | 信号=Semáforo"
-  },
-  {
-    "lvl": "N3",
-    "k": "職",
-    "r": "ショク",
-    "s": "Empleo / Oficio",
-    "ex": "職業=Vocación | 職場=Lugar de trabajo"
-  },
-  {
-    "lvl": "N3",
-    "k": "王",
-    "r": "オウ",
-    "s": "Rey",
-    "ex": "王子=Príncipe | 王国=Reino"
-  },
-  {
-    "lvl": "N3",
-    "k": "識",
-    "r": "シキ",
-    "s": "Conocer / Saber",
-    "ex": "意識=Conciencia | 知識=Conocimiento"
-  },
-  {
-    "lvl": "N3",
-    "k": "警",
-    "r": "ケイ",
-    "s": "Avisar / Guardia",
-    "ex": "警察=Policía | 警告=Advertencia"
-  },
-  {
-    "lvl": "N3",
-    "k": "優",
-    "r": "ユウ / やさ・しい / すぐ・れる",
-    "s": "Amable / Excelente",
-    "ex": "優しい=Amable | 優勝=Victoria"
-  },
-  {
-    "lvl": "N3",
-    "k": "投",
-    "r": "トウ / な・げる",
-    "s": "Lanzar / Invertir",
-    "ex": "投資=Inversión | 投げる=Lanzar"
-  },
-  {
-    "lvl": "N3",
-    "k": "局",
-    "r": "キョク",
-    "s": "Oficina / Emisora",
-    "ex": "郵便局=Oficina de correos | 結局=Al final"
-  },
-  {
-    "lvl": "N3",
-    "k": "難",
-    "r": "ナン / むずか・しい",
-    "s": "Difícil / Dificultad",
-    "ex": "難しい=Difícil | 困難=Dificultad"
-  },
-  {
-    "lvl": "N3",
-    "k": "種",
-    "r": "シュ / たね",
-    "s": "Semilla / Tipo",
-    "ex": "種類=Tipo/Clase | 種=Semilla"
-  },
-  {
-    "lvl": "N3",
-    "k": "念",
-    "r": "ネン",
-    "s": "Pensamiento / Deseo",
-    "ex": "残念=Lástima | 記念=Recuerdo/Conmemoración"
-  },
-  {
-    "lvl": "N3",
-    "k": "寄",
-    "r": "キ / よ・る",
-    "s": "Acercarse / Pasar por",
-    "ex": "寄る=Pasar por | 寄付=Donación"
-  },
-  {
-    "lvl": "N3",
-    "k": "商",
-    "r": "ショウ / あきな・う",
-    "s": "Comercio / Negocio",
-    "ex": "商品=Producto | 商店=Tienda"
-  },
-  {
-    "lvl": "N3",
-    "k": "害",
-    "r": "ガイ",
-    "s": "Daño / Perjuicio",
-    "ex": "被害=Daño/Víctima | 公害=Contaminación"
-  },
-  {
-    "lvl": "N3",
-    "k": "頼",
-    "r": "ライ / たの・む / たよ・る",
-    "s": "Pedir / Confiar",
-    "ex": "頼む=Pedir | 信頼=Confianza"
-  },
-  {
-    "lvl": "N3",
-    "k": "横",
-    "r": "オウ / よこ",
-    "s": "Lado / Horizontal",
-    "ex": "横=Lado | 横断歩道=Paso de cebra"
-  },
-  {
-    "lvl": "N3",
-    "k": "増",
-    "r": "ゾウ / ふ・える / ふ・やす",
-    "s": "Aumentar",
-    "ex": "増える=Aumentar | 増加=Incremento"
-  },
-  {
-    "lvl": "N3",
-    "k": "差",
-    "r": "サ / さ・す",
-    "s": "Diferencia",
-    "ex": "差別=Discriminación | 差=Diferencia"
-  },
-  {
-    "lvl": "N3",
-    "k": "苦",
-    "r": "ク / くる・しい / にが・い",
-    "s": "Sufrir / Amargo",
-    "ex": "苦労=Esfuerzo | 苦い=Amargo"
-  },
-  {
-    "lvl": "N3",
-    "k": "収",
-    "r": "シュウ / おさ・める",
-    "s": "Ingreso / Obtener",
-    "ex": "収入=Ingresos | 吸収=Absorción"
-  },
-  {
-    "lvl": "N3",
-    "k": "段",
-    "r": "ダン",
-    "s": "Escalón / Nivel",
-    "ex": "階段=Escalera | 値段=Precio"
-  },
-  {
-    "lvl": "N3",
-    "k": "俺",
-    "r": "エン / おれ",
-    "s": "Yo (masculino informal)",
-    "ex": "俺=Yo | 俺様=Yo (muy arrogante)"
-  },
-  {
-    "lvl": "N3",
-    "k": "渡",
-    "r": "ト / わた・る / わた・す",
-    "s": "Cruzar / Entregar",
-    "ex": "渡る=Cruzar | 渡す=Entregar"
-  },
-  {
-    "lvl": "N3",
-    "k": "写",
-    "r": "シャ / うつ・す",
-    "s": "Copiar / Fotografía",
-    "ex": "写真=Foto | 写る=Ser fotografiado"
-  },
-  {
-    "lvl": "N3",
-    "k": "演",
-    "r": "エン",
-    "s": "Actuar / Presentar",
-    "ex": "演技=Actuación | 演説=Discurso"
-  },
-  {
-    "lvl": "N3",
-    "k": "備",
-    "r": "ビ / そな・える",
-    "s": "Preparar / Equipar",
-    "ex": "準備=Preparación | 設備=Instalaciones"
-  },
-  {
-    "lvl": "N3",
-    "k": "申",
-    "r": "シン / もう・す",
-    "s": "Decir (humilde)",
-    "ex": "申し込む=Solicitar | 申し上げる=Decir (muy hum.)"
-  },
-  {
-    "lvl": "N3",
-    "k": "例",
-    "r": "レイ / たと・えば",
-    "s": "Ejemplo",
-    "ex": "例えば=Por ejemplo | 例外=Excepción"
-  },
-  {
-    "lvl": "N3",
-    "k": "働",
-    "r": "ドウ / はたら・く",
-    "s": "Trabajar",
-    "ex": "働く=Trabajar | 労働=Labor/Trabajo"
-  },
-  {
-    "lvl": "N3",
-    "k": "景",
-    "r": "ケイ",
-    "s": "Vista / Escena",
-    "ex": "景色=Paisaje | 景気=Estado económico"
-  },
-  {
-    "lvl": "N3",
-    "k": "抜",
-    "r": "バツ / ぬ・く / ぬ・ける",
-    "s": "Sacar / Quitar",
-    "ex": "追い抜く=Adelantar | 抜ける=Salirse"
-  },
-  {
-    "lvl": "N3",
-    "k": "遠",
-    "r": "エン / とお・い",
-    "s": "Lejos",
-    "ex": "遠足=Excursión | 遠い=Lejos"
-  },
-  {
-    "lvl": "N3",
-    "k": "絶",
-    "r": "ゼツ / た・える",
-    "s": "Absoluto / Cortar",
-    "ex": "絶対に=Absolutamente | 絶滅=Extinción"
-  },
-  {
-    "lvl": "N3",
-    "k": "負",
-    "r": "フ / ま・ける / かつ・ぐ",
-    "s": "Perder / Cargar",
-    "ex": "負ける=Perder | 勝負=Victoria o derrota"
-  },
-  {
-    "lvl": "N3",
-    "k": "福",
-    "r": "フク",
-    "s": "Fortuna / Suerte",
-    "ex": "幸福=Felicidad | 福祉=Bienestar social"
-  },
-  {
-    "lvl": "N3",
-    "k": "球",
-    "r": "キュウ / たま",
-    "s": "Pelota / Esfera",
-    "ex": "野球=Béisbol | 地球=Tierra (planeta)"
-  },
-  {
-    "lvl": "N3",
-    "k": "酒",
-    "r": "シュ / さけ",
-    "s": "Alcohol / Sake",
-    "ex": "日本酒=Sake | お酒=Alcohol"
-  },
-  {
-    "lvl": "N3",
-    "k": "君",
-    "r": "クン / きみ",
-    "s": "Tú / Sufijo familiar",
-    "ex": "君=Tú | ～君=Sufijo -kun"
-  },
-  {
-    "lvl": "N3",
-    "k": "察",
-    "r": "サツ",
-    "s": "Adivinar / Policía",
-    "ex": "警察=Policía | 観察=Observación"
-  },
-  {
-    "lvl": "N3",
-    "k": "望",
-    "r": "ボウ / のぞ・む",
-    "s": "Deseo / Esperanza",
-    "ex": "希望=Esperanza | 望む=Desear"
-  },
-  {
-    "lvl": "N3",
-    "k": "婚",
-    "r": "コン",
-    "s": "Matrimonio",
-    "ex": "結婚=Matrimonio | 新婚=Recién casados"
-  },
-  {
-    "lvl": "N3",
-    "k": "単",
-    "r": "タン",
-    "s": "Simple / Unidad",
-    "ex": "単語=Palabra | 簡単=Fácil"
-  },
-  {
-    "lvl": "N3",
-    "k": "押",
-    "r": "オウ / お・す",
-    "s": "Empujar / Presionar",
-    "ex": "押す=Empujar | 押し入れ=Armario empotrado"
-  },
-  {
-    "lvl": "N3",
-    "k": "割",
-    "r": "カツ / わ・る / わり",
-    "s": "Dividir / Proporción",
-    "ex": "割引=Descuento | 割合=Porcentaje"
-  },
-  {
-    "lvl": "N3",
-    "k": "限",
-    "r": "ゲン / かぎ・る",
-    "s": "Límite",
-    "ex": "期限=Plazo/Límite | 限界=Límite"
-  },
-  {
-    "lvl": "N3",
-    "k": "戻",
-    "r": "レイ / もど・る / もど・す",
-    "s": "Volver / Devolver",
-    "ex": "戻る=Volver | 戻す=Devolver"
-  },
-  {
-    "lvl": "N3",
-    "k": "料",
-    "r": "リョウ",
-    "s": "Material / Precio",
-    "ex": "料理=Cocina | 料金=Tarifa"
-  },
-  {
-    "lvl": "N3",
-    "k": "求",
-    "r": "キュウ / もと・める",
-    "s": "Pedir / Buscar",
-    "ex": "要求=Demanda | 求人=Oferta de trabajo"
-  },
-  {
-    "lvl": "N3",
-    "k": "談",
-    "r": "ダン",
-    "s": "Charla / Discusión",
-    "ex": "相談=Consulta | 冗談=Broma"
-  },
-  {
-    "lvl": "N3",
-    "k": "降",
-    "r": "コウ / ふ・る / お・りる",
-    "s": "Bajar / Llover",
-    "ex": "降りる=Bajar del tren | 降る=Llover"
-  },
-  {
-    "lvl": "N3",
-    "k": "妻",
-    "r": "サイ / つま",
-    "s": "Esposa",
-    "ex": "妻=Mi esposa | 夫妻=Esposos"
-  },
-  {
-    "lvl": "N3",
-    "k": "岡",
-    "r": "コウ / おか",
-    "s": "Colina",
-    "ex": "静岡=Shizuoka | 岡山=Okayama"
-  },
-  {
-    "lvl": "N3",
-    "k": "熱",
-    "r": "ネツ / あつ・い",
-    "s": "Calor / Fiebre",
-    "ex": "熱い=Caliente | 情熱=Pasión"
-  },
-  {
-    "lvl": "N3",
-    "k": "浮",
-    "r": "フ / う・く / う・かぶ",
-    "s": "Flotar",
-    "ex": "浮かぶ=Flotar/Venir a la mente | 浮気=Infidelidad"
-  },
-  {
-    "lvl": "N3",
-    "k": "笔",
-    "r": "ヒツ / ふで",
-    "s": "Pincel / Escritura",
-    "ex": "鉛筆=Lápiz | 筆者=Autor"
-  },
-  {
-    "lvl": "N3",
-    "k": "末",
-    "r": "マツ / すえ",
-    "s": "Fin / Extremo",
-    "ex": "週末=Fin de semana | 年末=Fin de año"
-  },
-  {
-    "lvl": "N3",
-    "k": "幸",
-    "r": "コウ / しあわ・せ",
-    "s": "Felicidad",
-    "ex": "幸せ=Feliz | 幸福=Felicidad"
-  },
-  {
-    "lvl": "N3",
-    "k": "草",
-    "r": "ソウ / くさ",
-    "s": "Hierba",
-    "ex": "草=Hierba | 雑草=Maleza"
-  },
-  {
-    "lvl": "N3",
-    "k": "越",
-    "r": "エツ / こ・す / こ・える",
-    "s": "Cruzar / Superar",
-    "ex": "引っ越し=Mudanza | 乗り越える=Superar"
-  },
-  {
-    "lvl": "N3",
-    "k": "登",
-    "r": "トウ・ト / のぼ・る",
-    "s": "Subir / Escalar",
-    "ex": "登山=Montañismo | 登る=Escalar"
-  },
-  {
-    "lvl": "N3",
-    "k": "類",
-    "r": "ルイ",
-    "s": "Tipo / Clase",
-    "ex": "種類=Tipo/Clase | 分類=Clasificación"
-  },
-  {
-    "lvl": "N3",
-    "k": "未",
-    "r": "ミ",
-    "s": "Todavía no",
-    "ex": "未来=Futuro | 未満=Menos de"
-  },
-  {
-    "lvl": "N3",
-    "k": "規",
-    "r": "キ",
-    "s": "Regla / Norma",
-    "ex": "規則=Regla | 定規=Regla (utensilio)"
-  },
-  {
-    "lvl": "N3",
-    "k": "精",
-    "r": "セイ・ショウ",
-    "s": "Espíritu / Puro",
-    "ex": "精神=Mente/Espíritu | 精一杯=Con todo el esfuerzo"
-  },
-  {
-    "lvl": "N3",
-    "k": "抱",
-    "r": "ホウ / だ・く / かか・える",
-    "s": "Abrazar / Cargar",
-    "ex": "抱く=Abrazar | 抱える=Sujetar en brazos"
-  },
-  {
-    "lvl": "N3",
-    "k": "労",
-    "r": "ロウ",
-    "s": "Labor / Esfuerzo",
-    "ex": "労働=Trabajo | 苦労=Esfuerzo/Penas"
-  },
-  {
-    "lvl": "N3",
-    "k": "処",
-    "r": "ショ",
-    "s": "Lugar / Tratar",
-    "ex": "処理=Procesamiento | 処分=Eliminación/Sanción"
-  },
-  {
-    "lvl": "N3",
-    "k": "退",
-    "r": "タイ / しりぞ・く",
-    "s": "Retroceder / Salir",
-    "ex": "退院=Alta hospitalaria | 退職=Renuncia"
-  },
-  {
-    "lvl": "N3",
-    "k": "费",
-    "r": "ヒ / つい・やす",
-    "s": "Gasto / Coste",
-    "ex": "費用=Coste | 消費=Consumo"
-  },
-  {
-    "lvl": "N3",
-    "k": "非",
-    "r": "ヒ",
-    "s": "No / Malo",
-    "ex": "非常=Emergencia | 非公式=Extraoficial"
-  },
-  {
-    "lvl": "N3",
-    "k": "喜",
-    "r": "キ / よろこ・ぶ",
-    "s": "Alegría",
-    "ex": "喜び=Alegría | 喜ぶ=Alegrarse"
-  },
-  {
-    "lvl": "N3",
-    "k": "娘",
-    "r": "ジョウ / むすめ",
-    "s": "Hija / Chica",
-    "ex": "娘=Hija | 孫娘=Nieta"
-  },
-  {
-    "lvl": "N3",
-    "k": "逃",
-    "r": "トウ / に・げる / に・がす",
-    "s": "Escapar",
-    "ex": "逃げる=Huir | 逃がす=Soltar"
-  },
-  {
-    "lvl": "N3",
-    "k": "犯",
-    "r": "ハン / おか・す",
-    "s": "Crimen / Delito",
-    "ex": "犯罪=Crimen | 犯人=Criminal"
-  },
-  {
-    "lvl": "N3",
-    "k": "薬",
-    "r": "ヤク / くすり",
-    "s": "Medicina",
-    "ex": "薬局=Farmacia | 飲み薬=Medicina oral"
-  },
-  {
-    "lvl": "N3",
-    "k": "園",
-    "r": "エン / その",
-    "s": "Jardín",
-    "ex": "公園=Parque | 動物園=Zoológico"
-  },
-  {
-    "lvl": "N3",
-    "k": "疑",
-    "r": "ギ / うたが・う",
-    "s": "Duda",
-    "ex": "疑問=Duda | 疑う=Dudar"
-  },
-  {
-    "lvl": "N3",
-    "k": "緒",
-    "r": "ショ / お",
-    "s": "Cordón / Inicio",
-    "ex": "一緒に=Junto con | 情緒=Emoción/Atmósfera"
-  },
-  {
-    "lvl": "N3",
-    "k": "静",
-    "r": "セイ / しず・か",
-    "s": "Silencioso / Calma",
-    "ex": "静か=Tranquilo | 冷静=Calma"
-  },
-  {
-    "lvl": "N3",
-    "k": "具",
-    "r": "グ",
-    "s": "Herramienta / Ingrediente",
-    "ex": "道具=Herramienta | 家具=Mueble"
-  },
-  {
-    "lvl": "N3",
-    "k": "席",
-    "r": "セキ",
-    "s": "Asiento",
-    "ex": "出席=Asistencia | 席=Asiento"
-  },
-  {
-    "lvl": "N3",
-    "k": "速",
-    "r": "ソク / はや・い",
-    "s": "Veloz",
-    "ex": "速度=Velocidad | 速い=Rápido"
-  },
-  {
-    "lvl": "N3",
-    "k": "舞",
-    "r": "ブ / ま・う / まい",
-    "s": "Danza",
-    "ex": "お見舞い=Visita a un enfermo | 舞台=Escenario"
-  },
-  {
-    "lvl": "N3",
-    "k": "宿",
-    "r": "シュク / やど",
-    "s": "Posada / Alojarse",
-    "ex": "宿題=Deberes | 宿泊=Alojamiento"
-  },
-  {
-    "lvl": "N3",
-    "k": "程",
-    "r": "テイ / ほど",
-    "s": "Grado / Límite",
-    "ex": "程度=Grado | 日程=Agenda/Horario"
-  },
-  {
-    "lvl": "N3",
-    "k": "倒",
-    "r": "トウ / たお・れる / たお・す",
-    "s": "Caer / Derribar",
-    "ex": "倒れる=Caerse | 面倒=Molestia"
-  },
-  {
-    "lvl": "N3",
-    "k": "寝",
-    "r": "シン / ね・る",
-    "s": "Dormir",
-    "ex": "寝る=Dormir | 寝室=Dormitorio"
-  },
-  {
-    "lvl": "N3",
-    "k": "宅",
-    "r": "タク",
-    "s": "Hogar",
-    "ex": "自宅=Casa propia | お宅=Su casa (hon.)"
-  },
-  {
-    "lvl": "N3",
-    "k": "絵",
-    "r": "カイ・エ",
-    "s": "Dibujo / Cuadro",
-    "ex": "絵=Dibujo | 絵画=Pintura"
-  },
-  {
-    "lvl": "N3",
-    "k": "破",
-    "r": "ハ / やぶ・る / やぶ・れる",
-    "s": "Romper",
-    "ex": "破る=Romper | 破壊=Destrucción"
-  },
-  {
-    "lvl": "N3",
-    "k": "庭",
-    "r": "テイ / にわ",
-    "s": "Jardín / Patio",
-    "ex": "家庭=Hogar/Familia | 庭=Jardín"
-  },
-  {
-    "lvl": "N3",
-    "k": "婦",
-    "r": "フ",
-    "s": "Mujer / Esposa",
-    "ex": "主婦=Ama de casa | 婦人=Señora"
-  },
-  {
-    "lvl": "N3",
-    "k": "余",
-    "r": "ヨ / あま・る",
-    "s": "Sobrante",
-    "ex": "余裕=Margen/Espacio | 余る=Sobrar"
-  },
-  {
-    "lvl": "N3",
-    "k": "訪",
-    "r": "ホウ / おとず・れる / たず・ねる",
-    "s": "Visitar",
-    "ex": "訪問=Visita | 訪れる=Visitar un lugar"
-  },
-  {
-    "lvl": "N3",
-    "k": "冷",
-    "r": "レイ / つめ・たい / ひ・える",
-    "s": "Frío / Enfriar",
-    "ex": "冷蔵庫=Nevera | 冷たい=Frío al tacto"
-  },
-  {
-    "lvl": "N3",
-    "k": "暮",
-    "r": "ボ / く・らす / く・れる",
-    "s": "Vivir / Atardecer",
-    "ex": "暮らす=Vivir | 夕暮れ=Atardecer"
-  },
-  {
-    "lvl": "N3",
-    "k": "腹",
-    "r": "フク / はら",
-    "s": "Vientre",
-    "ex": "お腹=Barriga | 空腹=Hambre"
-  },
-  {
-    "lvl": "N3",
-    "k": "危",
-    "r": "キ / あぶ・ない",
-    "s": "Peligro",
-    "ex": "危険=Peligro | 危ない=¡Cuidado!"
-  },
-  {
-    "lvl": "N3",
-    "k": "許",
-    "r": "キョ / ゆる・す",
-    "s": "Permitir / Perdonar",
-    "ex": "許可=Permiso | 許す=Perdonar"
-  },
-  {
-    "lvl": "N3",
-    "k": "似",
-    "r": "ジ / に・る",
-    "s": "Parecerse",
-    "ex": "似る=Parecerse | 似顔絵=Retrato"
-  },
-  {
-    "lvl": "N3",
-    "k": "険",
-    "r": "ケン / けわ・しい",
-    "s": "Escarpado / Peligro",
-    "ex": "危険=Peligro | 保険=Seguro"
-  },
-  {
-    "lvl": "N3",
-    "k": "財",
-    "r": "ザイ・サイ",
-    "s": "Riqueza / Finanzas",
-    "ex": "財布=Cartera | 財産=Propiedad/Fortuna"
-  },
-  {
-    "lvl": "N3",
-    "k": "遊",
-    "r": "ユウ / あそ・ぶ",
-    "s": "Jugar",
-    "ex": "遊ぶ=Jugar | 遊園地=Parque de atracciones"
-  },
-  {
-    "lvl": "N3",
-    "k": "雑",
-    "r": "ザツ・ゾウ",
-    "s": "Mezcla / Varios",
-    "ex": "雑誌=Revista | 複雑=Complejo"
-  },
-  {
-    "lvl": "N3",
-    "k": "恐",
-    "r": "キョウ / おそ・れる / こわ・い",
-    "s": "Miedo",
-    "ex": "怖い=Miedo | 恐ろしい=Terrible"
-  },
-  {
-    "lvl": "N3",
-    "k": "値",
-    "r": "チ / ね",
-    "s": "Valor / Precio",
-    "ex": "値段=Precio | 価値=Valor"
-  },
-  {
-    "lvl": "N3",
-    "k": "暗",
-    "r": "アン / くら・い",
-    "s": "Oscuro",
-    "ex": "暗い=Oscuro | 暗記=Memorizar"
-  },
-  {
-    "lvl": "N3",
-    "k": "積",
-    "r": "セキ / つ・む / つ・もる",
-    "s": "Acumular",
-    "ex": "積極的=Proactivo | 積もる=Acumularse"
-  },
-  {
-    "lvl": "N3",
-    "k": "夢",
-    "r": "ム / ゆめ",
-    "s": "Sueño",
-    "ex": "夢=Sueño | 夢中=Absorto/Loco por algo"
-  },
-  {
-    "lvl": "N3",
-    "k": "痛",
-    "r": "ツウ / いた・い",
-    "s": "Dolor",
-    "ex": "痛い=Duele | 頭痛=Dolor de cabeza"
-  },
-  {
-    "lvl": "N3",
-    "k": "富",
-    "r": "フ / とみ / と・む",
-    "s": "Riqueza",
-    "ex": "富士山=Monte Fuji | 豊富=Abundante"
-  },
-  {
-    "lvl": "N3",
-    "k": "刻",
-    "r": "コク / きざ・む",
-    "s": "Grabar / Tiempo",
-    "ex": "時刻=Hora/Tiempo | 刻む=Picar/Grabar"
-  },
-  {
-    "lvl": "N3",
-    "k": "鳴",
-    "r": "メイ / な・る / な・く",
-    "s": "Sonar / Cantar animal",
-    "ex": "鳴る=Sonar | 鳴く=Cantar/Ladrar"
-  },
-  {
-    "lvl": "N3",
-    "k": "欲",
-    "r": "ヨク / ほ・しい",
-    "s": "Querer / Deseo",
-    "ex": "欲しい=Querer | 食欲=Apetito"
-  },
-  {
-    "lvl": "N3",
-    "k": "途",
-    "r": "ト",
-    "s": "Ruta / Camino",
-    "ex": "途中=En el camino | 用途=Uso"
-  },
-  {
-    "lvl": "N3",
-    "k": "曲",
-    "r": "キョク / ま・がる / ま・げる",
-    "s": "Música / Curva",
-    "ex": "曲=Canción | 曲がる=Girar"
-  },
-  {
-    "lvl": "N3",
-    "k": "耳",
-    "r": "ジ / みみ",
-    "s": "Oído / Oreja",
-    "ex": "耳=Oreja | 耳鼻科=Otorrinolaringología"
-  },
-  {
-    "lvl": "N3",
-    "k": "完",
-    "r": "カン",
-    "s": "Perfecto / Completar",
-    "ex": "完成=Completar | 完全=Perfecto"
-  },
-  {
-    "lvl": "N3",
-    "k": "願",
-    "r": "ガン / ねが・う",
-    "s": "Pedir / Deseo",
-    "ex": "願い=Deseo | 願書=Solicitud escrita"
-  },
-  {
-    "lvl": "N3",
-    "k": "罪",
-    "r": "ザイ / つみ",
-    "s": "Crimen / Pecado",
-    "ex": "犯罪=Crimen | 罪=Culpa/Pecado"
-  },
-  {
-    "lvl": "N3",
-    "k": "陽",
-    "r": "ヨウ",
-    "s": "Sol / Positivo",
-    "ex": "太陽=Sol | 陽気=Alegre/Clima"
-  },
-  {
-    "lvl": "N3",
-    "k": "亡",
-    "r": "ボウ / な・くなる",
-    "s": "Morir / Desaparecer",
-    "ex": "亡くなる=Fallecer | 死亡=Muerte"
-  },
-  {
-    "lvl": "N3",
-    "k": "散",
-    "r": "サン / ち・る / ち・らかす",
-    "s": "Dispersar",
-    "ex": "散歩=Paseo | 散らかる=Estar desordenado"
-  },
-  {
-    "lvl": "N3",
-    "k": "掛",
-    "r": "(なし) / か・ける / か・かる",
-    "s": "Colgar / Sentarse",
-    "ex": "掛ける=Colgar/Sentarse | 出掛ける=Salir"
-  },
-  {
-    "lvl": "N3",
-    "k": "昨",
-    "r": "サク",
-    "s": "Previo",
-    "ex": "昨日=Ayer | 昨年=Año pasado"
-  },
-  {
-    "lvl": "N3",
-    "k": "怒",
-    "r": "ド / おこ・る / いか・る",
-    "s": "Enojo",
-    "ex": "怒る=Enfadarse | 怒り=Ira"
-  },
-  {
-    "lvl": "N3",
-    "k": "留",
-    "r": "リュウ・ル / と・める / と・まる",
-    "s": "Fijar / Quedar",
-    "ex": "留学生=Estudiante extranjero | 留守=Ausencia"
-  },
-  {
-    "lvl": "N3",
-    "k": "礼",
-    "r": "レイ・ライ",
-    "s": "Cortesía / Gracias",
-    "ex": "お礼=Gratitud | 失礼=Disculpe"
-  },
-  {
-    "lvl": "N3",
-    "k": "列",
-    "r": "レツ",
-    "s": "Fila",
-    "ex": "列車=Tren | 行列=Fila/Cola"
-  },
-  {
-    "lvl": "N3",
-    "k": "雪",
-    "r": "セツ / ゆき",
-    "s": "Nieve",
-    "ex": "雪=Nieve | 大雪=Nieve pesada"
-  },
-  {
-    "lvl": "N3",
-    "k": "払",
-    "r": "(なし) / はら・う",
-    "s": "Pagar / Limpiar",
-    "ex": "払い=Pago | 払う=Pagar"
-  },
-  {
-    "lvl": "N3",
-    "k": "給",
-    "r": "キュウ",
-    "s": "Sueldo / Suministrar",
-    "ex": "給料=Sueldo | 供給=Suministro"
-  },
-  {
-    "lvl": "N3",
-    "k": "推",
-    "r": "スイ / お・す",
-    "s": "Empujar / Inferir",
-    "ex": "推薦=Recomendación | 推測=Suposición"
-  },
-  {
-    "lvl": "N3",
-    "k": "敗",
-    "r": "ハイ / やぶ・れる",
-    "s": "Fracaso / Perder",
-    "ex": "失敗=Fracaso | 敗北=Derrota"
-  },
-  {
-    "lvl": "N3",
-    "k": "捕",
-    "r": "ホ / と・らえる / つか・まえる",
-    "s": "Capturar",
-    "ex": "捕まえる=Coger/Atrapar | 逮捕=Arresto"
-  },
-  {
-    "lvl": "N3",
-    "k": "忘",
-    "r": "ボウ / わす・れる",
-    "s": "Olvidar",
-    "ex": "忘れる=Olvidar | 忘れ物=Objeto olvidado"
-  },
-  {
-    "lvl": "N3",
-    "k": "晴",
-    "r": "セイ / は・れる",
-    "s": "Despejado",
-    "ex": "晴れ=Buen tiempo | 晴天=Cielo despejado"
+    "k": "員",
+    "r": "イン",
+    "s": "Miembro",
+    "ex": "社員=Empleado | 会員=Socio | 店員=Dependiente"
   },
   {
     "lvl": "N3",
     "k": "因",
     "r": "イン / よ・る",
     "s": "Causa",
-    "ex": "原因=Causa | 要因=Factor"
-  },
-  {
-    "lvl": "N3",
-    "k": "折",
-    "r": "セツ / お・る / お・れる",
-    "s": "Doblar / Romper",
-    "ex": "折り紙=Origami | 折る=Doblar"
-  },
-  {
-    "lvl": "N3",
-    "k": "迎",
-    "r": "ゲイ / むか・える",
-    "s": "Recibir / Acoger",
-    "ex": "迎える=Acoger/Recibir | 歓迎=Bienvenida"
-  },
-  {
-    "lvl": "N3",
-    "k": "悲",
-    "r": "ヒ / かな・しい",
-    "s": "Triste",
-    "ex": "悲しい=Triste | 悲劇=Tragedia"
-  },
-  {
-    "lvl": "N3",
-    "k": "港",
-    "r": "コウ / みなと",
-    "s": "Puerto",
-    "ex": "空港=Aeropuerto | 港=Puerto"
-  },
-  {
-    "lvl": "N3",
-    "k": "责",
-    "r": "セキ / せ・める",
-    "s": "Responsabilidad / Culpar",
-    "ex": "責任=Responsabilidad | 責める=Culpar"
-  },
-  {
-    "lvl": "N3",
-    "k": "除",
-    "r": "ジョ / のぞ・く",
-    "s": "Quitar / Excluir",
-    "ex": "掃除=Limpieza | 除く=Excluir"
-  },
-  {
-    "lvl": "N3",
-    "k": "困",
-    "r": "コン / こま・る",
-    "s": "Apuro",
-    "ex": "困難=Dificultad | 困る=Estar en problemas"
-  },
-  {
-    "lvl": "N3",
-    "k": "閉",
-    "r": "ヘイ / し・める / と・じる",
-    "s": "Cerrar",
-    "ex": "閉める=Cerrar | 閉店=Cierre de tienda"
-  },
-  {
-    "lvl": "N3",
-    "k": "吸",
-    "r": "キュウ / す・う",
-    "s": "Succionar / Fumar",
-    "ex": "吸う=Fumar/Aspirar | 呼吸=Respiración"
-  },
-  {
-    "lvl": "N3",
-    "k": "髪",
-    "r": "ハツ / かみ",
-    "s": "Cabello",
-    "ex": "髪の毛=Pelo | 金髪=Pelo rubio"
-  },
-  {
-    "lvl": "N3",
-    "k": "束",
-    "r": "ソク / たば",
-    "s": "Manojo / Paquete",
-    "ex": "約束=Promesa | 花束=Ramo de flores"
-  },
-  {
-    "lvl": "N3",
-    "k": "眼",
-    "r": "ガン / め",
-    "s": "Ojo",
-    "ex": "眼鏡=Gafas | 眼科=Oftalmología"
-  },
-  {
-    "lvl": "N3",
-    "k": "易",
-    "r": "エキ / やさ・しい",
-    "s": "Fácil / Cambio",
-    "ex": "容易=Fácil | 貿易=Comercio exterior"
-  },
-  {
-    "lvl": "N3",
-    "k": "窓",
-    "r": "ソウ / まど",
-    "s": "Ventana",
-    "ex": "窓=Ventana | 窓口=Ventanilla/Mostrador"
-  },
-  {
-    "lvl": "N3",
-    "k": "祖",
-    "r": "ソ",
-    "s": "Ancestro",
-    "ex": "祖父=Abuelo | 祖母=Abuela"
-  },
-  {
-    "lvl": "N3",
-    "k": "勤",
-    "r": "キン / つと・める",
-    "s": "Servir / Trabajar",
-    "ex": "通勤=Ir al trabajo | 勤める=Trabajar para"
-  },
-  {
-    "lvl": "N3",
-    "k": "昔",
-    "r": "セキ / むかし",
-    "s": "Antigüedad / Hace tiempo",
-    "ex": "昔=Antes | 昔話=Cuento antiguo"
-  },
-  {
-    "lvl": "N3",
-    "k": "便",
-    "r": "ベン・ビン / たよ・り",
-    "s": "Conveniencia / Correo",
-    "ex": "不便=Inconveniente | 航空便=Correo aéreo"
-  },
-  {
-    "lvl": "N3",
-    "k": "適",
-    "r": "テキ",
-    "s": "Adecuado",
-    "ex": "適当=Adecuado | 適切=Apropiado"
-  },
-  {
-    "lvl": "N3",
-    "k": "吹",
-    "r": "スイ / ふ・く",
-    "s": "Soplar",
-    "ex": "吹く=Soplar | 吹雪=Tormenta de nieve"
-  },
-  {
-    "lvl": "N3",
-    "k": "候",
-    "r": "コウ",
-    "s": "Clima / Temporada",
-    "ex": "気候=Clima | 天候=Tiempo atmosférico"
-  },
-  {
-    "lvl": "N3",
-    "k": "怖",
-    "r": "フ / こわ・い",
-    "s": "Miedo",
-    "ex": "怖い=Miedo | 恐怖=Terror"
-  },
-  {
-    "lvl": "N3",
-    "k": "辞",
-    "r": "ジ / や・める",
-    "s": "Diccionario / Renuncia",
-    "ex": "辞書=Diccionario | 辞める=Renunciar"
-  },
-  {
-    "lvl": "N3",
-    "k": "遅",
-    "r": "チ / おそ・い / おく・れる",
-    "s": "Tarde / Retraso",
-    "ex": "遅れる=Llegar tarde | 遅い=Lento/Tarde"
+    "ex": "原因=Causa | 因子=Factor | 因る=Deber a"
   },
   {
     "lvl": "N3",
     "k": "煙",
     "r": "エン / けむり",
     "s": "Humo",
-    "ex": "煙=Humo | 喫煙=Fumar"
+    "ex": "煙=Humo | 煙突=Chimenea | 禁煙=No fumar"
   },
   {
     "lvl": "N3",
-    "k": "徒",
-    "r": "ト",
-    "s": "Seguidor / Vano",
-    "ex": "生徒=Alumno | 徒歩=A pie"
+    "k": "遠",
+    "r": "エン / とお・い",
+    "s": "Lejano",
+    "ex": "遠い=Lejos | 遠足=Excursión | 遠慮=Reserva"
+  },
+  {
+    "lvl": "N3",
+    "k": "鉛",
+    "r": "エン / なまり",
+    "s": "Plomo",
+    "ex": "鉛筆=Lápiz | 鉛=Plomo | 鉛色=Color plomo"
+  },
+  {
+    "lvl": "N3",
+    "k": "塩",
+    "r": "エン / しお",
+    "s": "Sal",
+    "ex": "塩=Sal | 塩分=Contenido de sal | 塩辛い=Salado"
+  },
+  {
+    "lvl": "N3",
+    "k": "汚",
+    "r": "オ / よご・す",
+    "s": "Suciedad",
+    "ex": "汚い=Sucio | 汚染=Contaminación | 汚す=Ensuciar"
+  },
+  {
+    "lvl": "N3",
+    "k": "押",
+    "r": "オウ / お・す",
+    "s": "Empujar, presionar",
+    "ex": "押す=Presionar | 押入れ=Armario | 押しボタン=Botón"
+  },
+  {
+    "lvl": "N3",
+    "k": "億",
+    "r": "オク",
+    "s": "Cien millones",
+    "ex": "一億=100 millones | 億万長者=Multimillonario | 億劫=Fastidioso"
+  },
+  {
+    "lvl": "N3",
+    "k": "温",
+    "r": "オン / あたた・かい",
+    "s": "Tibio, calor",
+    "ex": "温かい=Tibio | 温度=Temperatura | 温泉=Aguas termales"
+  },
+  {
+    "lvl": "N3",
+    "k": "化",
+    "r": "カ / ば・ける",
+    "s": "Cambiar, transformar",
+    "ex": "化学=Química | 変化=Cambio | 化ける=Transformarse"
+  },
+  {
+    "lvl": "N3",
+    "k": "科",
+    "r": "カ",
+    "s": "Departamento, curso",
+    "ex": "科学=Ciencia | 科目=Asignatura | 内科=Medicina interna"
+  },
+  {
+    "lvl": "N3",
+    "k": "果",
+    "r": "カ / は・たす",
+    "s": "Fruto, resultado",
+    "ex": "結果=Resultado | 果物=Fruta | 果たす=Cumplir"
+  },
+  {
+    "lvl": "N3",
+    "k": "課",
+    "r": "カ",
+    "s": "Lección, sección",
+    "ex": "課=Lección | 課長=Jefe de sección | 課外活動=Actividades extra"
+  },
+  {
+    "lvl": "N3",
+    "k": "過",
+    "r": "カ / す・ぎる",
+    "s": "Exceso, pasar",
+    "ex": "過ぎる=Pasar de | 過去=Pasado | 過剰=Exceso"
+  },
+  {
+    "lvl": "N3",
+    "k": "各",
+    "r": "カク",
+    "s": "Cada",
+    "ex": "各=Cada | 各自=Cada uno | 各国=Cada país"
+  },
+  {
+    "lvl": "N3",
+    "k": "角",
+    "r": "カク / かど",
+    "s": "Esquina, ángulo",
+    "ex": "角=Esquina | 角度=Ángulo | 四角=Cuadrado"
+  },
+  {
+    "lvl": "N3",
+    "k": "確",
+    "r": "カク / たし・か",
+    "s": "Seguro, cierto",
+    "ex": "確か=Seguro | 確認=Confirmación | 正確=Preciso"
+  },
+  {
+    "lvl": "N3",
+    "k": "寒",
+    "r": "カン / さむ・い",
+    "s": "Frío",
+    "ex": "寒い=Frío | 寒気=Resfrío | 寒暖=Frío y calor"
+  },
+  {
+    "lvl": "N3",
+    "k": "漢",
+    "r": "カン",
+    "s": "China, chino",
+    "ex": "漢字=Kanji | 漢方=Medicina china | 漢語=Vocablo chino"
+  },
+  {
+    "lvl": "N3",
+    "k": "館",
+    "r": "カン",
+    "s": "Edificio, salón",
+    "ex": "図書館=Biblioteca | 映画館=Cine | 旅館=Ryokan"
+  },
+  {
+    "lvl": "N3",
+    "k": "関",
+    "r": "カン / せき",
+    "s": "Relacionarse, barrera",
+    "ex": "関係=Relación | 関心=Interés | 関所=Barrera"
+  },
+  {
+    "lvl": "N3",
+    "k": "感",
+    "r": "カン",
+    "s": "Sentimiento",
+    "ex": "感じ=Sentimiento | 感動=Emoción | 感情=Emoción"
+  },
+  {
+    "lvl": "N3",
+    "k": "慣",
+    "r": "カン / な・れる",
+    "s": "Acostumbrarse",
+    "ex": "慣れる=Acostumbrarse | 習慣=Costumbre | 慣例=Costumbre"
+  },
+  {
+    "lvl": "N3",
+    "k": "幹",
+    "r": "カン / みき",
+    "s": "Tronco, principal",
+    "ex": "幹=Tronco | 幹線=Línea principal | 幹部=Ejecutivo"
+  },
+  {
+    "lvl": "N3",
+    "k": "巻",
+    "r": "カン / ま・く",
+    "s": "Enrollar, volumen",
+    "ex": "巻く=Enrollar | 巻=Volumen | 巻き寿司=Sushi enrollado"
+  },
+  {
+    "lvl": "N3",
+    "k": "刊",
+    "r": "カン",
+    "s": "Publicar",
+    "ex": "発刊=Publicación | 週刊=Semanal | 月刊=Mensual"
+  },
+  {
+    "lvl": "N3",
+    "k": "勧",
+    "r": "カン / すす・める",
+    "s": "Recomendar",
+    "ex": "勧める=Recomendar | 勧告=Recomendación | 勧誘=Invitar"
+  },
+  {
+    "lvl": "N3",
+    "k": "看",
+    "r": "カン",
+    "s": "Mirar, cuidar",
+    "ex": "看護師=Enfermero | 看板=Cartel | 看視=Vigilancia"
+  },
+  {
+    "lvl": "N3",
+    "k": "簡",
+    "r": "カン",
+    "s": "Simplicidad",
+    "ex": "簡単=Simple | 簡易=Simple | 簡潔=Conciso"
+  },
+  {
+    "lvl": "N3",
+    "k": "観",
+    "r": "カン",
+    "s": "Observar",
+    "ex": "観光=Turismo | 観客=Espectador | 観察=Observación"
+  },
+  {
+    "lvl": "N3",
+    "k": "願",
+    "r": "ガン / ねが・う",
+    "s": "Desear, pedir",
+    "ex": "願う=Desear | お願い=Favor | 志願=Voluntario"
+  },
+  {
+    "lvl": "N3",
+    "k": "企",
+    "r": "キ / くわだ・てる",
+    "s": "Planear",
+    "ex": "企画=Plan | 企業=Empresa | 企てる=Planear"
+  },
+  {
+    "lvl": "N3",
+    "k": "危",
+    "r": "キ / あぶ・ない",
+    "s": "Peligroso",
+    "ex": "危ない=Peligroso | 危険=Peligro | 危機=Crisis"
+  },
+  {
+    "lvl": "N3",
+    "k": "机",
+    "r": "キ / つくえ",
+    "s": "Escritorio",
+    "ex": "机=Escritorio | 机上=Sobre el escritorio | 机の上=Encima del escritorio"
+  },
+  {
+    "lvl": "N3",
+    "k": "汽",
+    "r": "キ",
+    "s": "Vapor",
+    "ex": "汽車=Tren de vapor | 汽船=Barco de vapor | 汽水=Agua salobre"
+  },
+  {
+    "lvl": "N3",
+    "k": "記",
+    "r": "キ / しる・す",
+    "s": "Registrar, anotar",
+    "ex": "日記=Diario | 記憶=Memoria | 記録=Récord"
+  },
+  {
+    "lvl": "N3",
+    "k": "寄",
+    "r": "キ / よ・る",
+    "s": "Acercarse, visitar",
+    "ex": "寄る=Acercarse | 寄付=Donación | 寄宿=Internado"
+  },
+  {
+    "lvl": "N3",
+    "k": "期",
+    "r": "キ / ゴ",
+    "s": "Período, plazo",
+    "ex": "期間=Período | 期待=Expectativa | 学期=Semestre"
+  },
+  {
+    "lvl": "N3",
+    "k": "客",
+    "r": "キャク / カク",
+    "s": "Cliente, invitado",
+    "ex": "客=Cliente | 客室=Habitación | 観客=Espectador"
+  },
+  {
+    "lvl": "N3",
+    "k": "級",
+    "r": "キュウ",
+    "s": "Grado, nivel",
+    "ex": "級=Grado | 上級=Nivel avanzado | 学級=Clase escolar"
+  },
+  {
+    "lvl": "N3",
+    "k": "宮",
+    "r": "キュウ / みや",
+    "s": "Palacio, santuario",
+    "ex": "宮殿=Palacio | 宮=Palacio | 神宮=Santuario"
+  },
+  {
+    "lvl": "N3",
+    "k": "球",
+    "r": "キュウ / たま",
+    "s": "Bola, esfera",
+    "ex": "球=Bola | 野球=Béisbol | 地球=Tierra"
+  },
+  {
+    "lvl": "N3",
+    "k": "給",
+    "r": "キュウ",
+    "s": "Suministrar, salario",
+    "ex": "給料=Salario | 給食=Comida escolar | 給水=Suministro de agua"
+  },
+  {
+    "lvl": "N3",
+    "k": "巨",
+    "r": "キョ",
+    "s": "Enorme",
+    "ex": "巨大=Enorme | 巨額=Suma enorme | 巨木=Árbol enorme"
+  },
+  {
+    "lvl": "N3",
+    "k": "居",
+    "r": "キョ / い・る",
+    "s": "Estar, residir",
+    "ex": "居る=Estar | 住所=Dirección | 居間=Sala de estar"
+  },
+  {
+    "lvl": "N3",
+    "k": "許",
+    "r": "キョ / ゆる・す",
+    "s": "Permitir",
+    "ex": "許す=Permitir | 許可=Permiso | 特許=Patente"
+  },
+  {
+    "lvl": "N3",
+    "k": "競",
+    "r": "キョウ / きそ・う",
+    "s": "Competir",
+    "ex": "競う=Competir | 競争=Competición | 競技=Deporte"
+  },
+  {
+    "lvl": "N3",
+    "k": "共",
+    "r": "キョウ / とも",
+    "s": "Juntos",
+    "ex": "共通=Común | 共同=Cooperación | 共に=Juntos"
+  },
+  {
+    "lvl": "N3",
+    "k": "叫",
+    "r": "キョウ / さけ・ぶ",
+    "s": "Gritar",
+    "ex": "叫ぶ=Gritar | 叫び=Grito | 絶叫=Grito desgarrador"
+  },
+  {
+    "lvl": "N3",
+    "k": "協",
+    "r": "キョウ",
+    "s": "Cooperar",
+    "ex": "協力=Cooperación | 協会=Asociación | 協調=Coordinación"
+  },
+  {
+    "lvl": "N3",
+    "k": "況",
+    "r": "キョウ",
+    "s": "Condición, situación",
+    "ex": "状況=Situación | 実況=Transmisión en vivo | 概況=Situación general"
+  },
+  {
+    "lvl": "N3",
+    "k": "局",
+    "r": "キョク",
+    "s": "Oficina, situación",
+    "ex": "局=Oficina | 郵便局=Correos | 局長=Director"
+  },
+  {
+    "lvl": "N3",
+    "k": "具",
+    "r": "グ",
+    "s": "Herramienta, detalle",
+    "ex": "道具=Herramienta | 具合=Condición | 具体的=Concreto"
+  },
+  {
+    "lvl": "N3",
+    "k": "偶",
+    "r": "グウ",
+    "s": "Por casualidad",
+    "ex": "偶然=Casualidad | 偶数=Número par | 偶に=Ocasionalmente"
+  },
+  {
+    "lvl": "N3",
+    "k": "苦",
+    "r": "ク / くる・しい",
+    "s": "Sufrimiento",
+    "ex": "苦しい=Doloroso | 苦労=Problemas | 苦情=Queja"
+  },
+  {
+    "lvl": "N3",
+    "k": "君",
+    "r": "クン / きみ",
+    "s": "Tú, señor",
+    "ex": "君=Tú | 君たち=Vosotros | 諸君=Señores"
+  },
+  {
+    "lvl": "N3",
+    "k": "訓",
+    "r": "クン",
+    "s": "Instrucción, lectura",
+    "ex": "訓読み=Lectura kun | 訓練=Entrenamiento | 教訓=Lección"
+  },
+  {
+    "lvl": "N3",
+    "k": "軍",
+    "r": "グン",
+    "s": "Ejército",
+    "ex": "軍隊=Ejército | 海軍=Marina | 空軍=Fuerza aérea"
+  },
+  {
+    "lvl": "N3",
+    "k": "郡",
+    "r": "グン",
+    "s": "Condado",
+    "ex": "郡=Condado | 郡部=Área rural | 郡市=Ciudades y condados"
+  },
+  {
+    "lvl": "N3",
+    "k": "形",
+    "r": "ケイ / かたち",
+    "s": "Forma",
+    "ex": "形=Forma | 形式=Formalidad | 人形=Muñeca"
+  },
+  {
+    "lvl": "N3",
+    "k": "計",
+    "r": "ケイ / はか・る",
+    "s": "Medir, plan",
+    "ex": "計画=Plan | 時計=Reloj | 会計=Cuenta"
+  },
+  {
+    "lvl": "N3",
+    "k": "係",
+    "r": "ケイ / かか・る",
+    "s": "Relacionarse, encargado",
+    "ex": "係=Encargado | 関係=Relación | 係数=Coeficiente"
+  },
+  {
+    "lvl": "N3",
+    "k": "警",
+    "r": "ケイ",
+    "s": "Advertir, policía",
+    "ex": "警察=Policía | 警告=Advertencia | 警報=Alarma"
+  },
+  {
+    "lvl": "N3",
+    "k": "径",
+    "r": "ケイ",
+    "s": "Diámetro, camino",
+    "ex": "直径=Diámetro | 半径=Radio | 径路=Camino"
+  },
+  {
+    "lvl": "N3",
+    "k": "敬",
+    "r": "ケイ / うやま・う",
+    "s": "Respetar",
+    "ex": "敬う=Respetar | 尊敬=Respeto | 敬語=Lenguaje honorífico"
+  },
+  {
+    "lvl": "N3",
+    "k": "景",
+    "r": "ケイ",
+    "s": "Paisaje",
+    "ex": "景色=Paisaje | 風景=Paisaje | 景気=Economía"
+  },
+  {
+    "lvl": "N3",
+    "k": "芸",
+    "r": "ゲイ",
+    "s": "Arte, actuación",
+    "ex": "芸術=Arte | 芸能=Entretenimiento | 芸者=Geisha"
   },
   {
     "lvl": "N3",
     "k": "欠",
     "r": "ケツ / か・ける",
-    "s": "Faltar / Defecto",
-    "ex": "欠席=Ausencia | 欠点=Falla/Defecto"
+    "s": "Faltar, carecer",
+    "ex": "欠ける=Faltar | 欠席=Ausencia | 欠点=Defecto"
   },
   {
     "lvl": "N3",
-    "k": "迷",
-    "r": "メイ / まよ・う",
-    "s": "Extraviarse",
-    "ex": "迷子=Niño perdido | 迷う=Perderse"
+    "k": "穴",
+    "r": "ケツ / あな",
+    "s": "Agujero",
+    "ex": "穴=Agujero | 穴場=Lugar secreto | 洞穴=Cueva"
   },
   {
     "lvl": "N3",
-    "k": "洗",
-    "r": "セン / あら・う",
-    "s": "Lavar",
-    "ex": "洗濯=Colada | 洗面所=Lavabo"
+    "k": "血",
+    "r": "ケツ / ち",
+    "s": "Sangre",
+    "ex": "血=Sangre | 血液=Sangre | 献血=Donación de sangre"
+  },
+  {
+    "lvl": "N3",
+    "k": "結",
+    "r": "ケツ / むす・ぶ",
+    "s": "Atar, concluir",
+    "ex": "結ぶ=Atar | 結婚=Matrimonio | 結果=Resultado"
+  },
+  {
+    "lvl": "N3",
+    "k": "建",
+    "r": "ケン / た・てる",
+    "s": "Construir",
+    "ex": "建てる=Construir | 建物=Edificio | 建築=Arquitectura"
+  },
+  {
+    "lvl": "N3",
+    "k": "健",
+    "r": "ケン / すこ・やか",
+    "s": "Saludable",
+    "ex": "健康=Salud | 健やか=Saludable | 健在=Sano"
+  },
+  {
+    "lvl": "N3",
+    "k": "険",
+    "r": "ケン / けわ・しい",
+    "s": "Escarpado, severo",
+    "ex": "険しい=Escarpado | 危険=Peligro | 保険=Seguro"
+  },
+  {
+    "lvl": "N3",
+    "k": "験",
+    "r": "ケン",
+    "s": "Prueba, efecto",
+    "ex": "試験=Examen | 実験=Experimento | 経験=Experiencia"
+  },
+  {
+    "lvl": "N3",
+    "k": "県",
+    "r": "ケン",
+    "s": "Prefectura",
+    "ex": "県=Prefectura | 県民=Residentes | 都道府県=Prefecturas"
+  },
+  {
+    "lvl": "N3",
+    "k": "件",
+    "r": "ケン",
+    "s": "Asunto, caso",
+    "ex": "条件=Condición | 事件=Caso | 案件=Asunto"
+  },
+  {
+    "lvl": "N3",
+    "k": "検",
+    "r": "ケン",
+    "s": "Examinar, inspeccionar",
+    "ex": "検査=Inspección | 検討=Consideración | 検索=Búsqueda"
+  },
+  {
+    "lvl": "N3",
+    "k": "険",
+    "r": "ケン / けわ・しい",
+    "s": "Escarpado",
+    "ex": "危険=Peligro | 保険=Seguro | 険しい=Escarpado"
+  },
+  {
+    "lvl": "N3",
+    "k": "限",
+    "r": "ゲン / かぎ・る",
+    "s": "Límite",
+    "ex": "限る=Limitar | 制限=Límite | 無限=Infinito"
+  },
+  {
+    "lvl": "N3",
+    "k": "現",
+    "r": "ゲン / あらわ・れる",
+    "s": "Aparecer, actual",
+    "ex": "現在=Presente | 現代=Época actual | 現れる=Aparecer"
+  },
+  {
+    "lvl": "N3",
+    "k": "個",
+    "r": "コ",
+    "s": "Individual",
+    "ex": "個人=Individuo | 個人的=Personal | 個性=Personalidad"
+  },
+  {
+    "lvl": "N3",
+    "k": "庫",
+    "r": "コ",
+    "s": "Almacén",
+    "ex": "車庫=Garaje | 倉庫=Almacén | 金庫=Caja fuerte"
+  },
+  {
+    "lvl": "N3",
+    "k": "呼",
+    "r": "コ / よ・ぶ",
+    "s": "Llamar",
+    "ex": "呼ぶ=Llamar | 呼び出し=Llamada | 呼吸=Respiración"
+  },
+  {
+    "lvl": "N3",
+    "k": "固",
+    "r": "コ / かた・い",
+    "s": "Duro, sólido",
+    "ex": "固い=Duro | 固体=Sólido | 固定=Fijo"
+  },
+  {
+    "lvl": "N3",
+    "k": "故",
+    "r": "コ / ゆえ",
+    "s": "Razón, fallecido",
+    "ex": "理由=Razón | 事故=Accidente | 故郷=Pueblo natal"
   },
   {
     "lvl": "N3",
     "k": "互",
     "r": "ゴ / たが・い",
     "s": "Mutuo",
-    "ex": "互いに=Mutuamente | 交互=Alternado"
+    "ex": "互い=Mutuo | 相互=Mutuo | 交互=Alterno"
   },
   {
     "lvl": "N3",
-    "k": "才",
-    "r": "サイ",
-    "s": "Talento / Edad",
-    "ex": "天才=Genio | 十歳=10 años"
-  },
-  {
-    "lvl": "N3",
-    "k": "更",
-    "r": "コウ / ふ・ける / さら",
-    "s": "Renovar / Noche",
-    "ex": "更新=Renovación | 夜更かし=Trasnochar"
-  },
-  {
-    "lvl": "N3",
-    "k": "歯",
-    "r": "シ / は",
-    "s": "Diente",
-    "ex": "歯医者=Dentista | 虫歯=Caries"
-  },
-  {
-    "lvl": "N3",
-    "k": "盗",
-    "r": "トウ / ぬす・む",
-    "s": "Robar",
-    "ex": "盗難=Robo | 泥棒=Ladrón"
-  },
-  {
-    "lvl": "N3",
-    "k": "慣",
-    "r": "カン / な・れる",
-    "s": "Acostumbrar",
-    "ex": "習慣=Hábito | 慣れる=Acostumbrarse"
-  },
-  {
-    "lvl": "N3",
-    "k": "晩",
-    "r": "バン",
-    "s": "Noche",
-    "ex": "今晩=Esta noche | 晩御飯=Cena"
-  },
-  {
-    "lvl": "N3",
-    "k": "箱",
-    "r": "ソウ / はこ",
-    "s": "Caja",
-    "ex": "ゴミ箱=Papelera | 箱=Caja"
-  },
-  {
-    "lvl": "N3",
-    "k": "至",
-    "r": "シ / いた・る",
-    "s": "Llegar / Alcanzar",
-    "ex": "至急=Urgente | 至る=Llegar a"
-  },
-  {
-    "lvl": "N3",
-    "k": "頂",
-    "r": "チョウ / いただ・く",
-    "s": "Cima / Recibir (hum.)",
-    "ex": "頂上=Cima | 頂く=Recibir/Comer (hum.)"
-  },
-  {
-    "lvl": "N3",
-    "k": "杯",
-    "r": "ハイ / さかずき",
-    "s": "Copa / Contador tazas",
-    "ex": "乾杯=Brindis | 一杯=Una taza/Lleno"
-  },
-  {
-    "lvl": "N3",
-    "k": "皆",
-    "r": "カイ / みな",
-    "s": "Todos",
-    "ex": "皆さん=Todos | 皆様=Todos (formal)"
-  },
-  {
-    "lvl": "N3",
-    "k": "招",
-    "r": "ショウ / まね・く",
-    "s": "Invitar",
-    "ex": "招待=Invitación | 招く=Invitar"
-  },
-  {
-    "lvl": "N3",
-    "k": "寒",
-    "r": "カン / さむ・い",
-    "s": "Frío (clima)",
-    "ex": "寒い=Frío | 寒冷=Gélido"
-  },
-  {
-    "lvl": "N3",
-    "k": "恥",
-    "r": "チ / は・ずかしい",
-    "s": "Vergüenza",
-    "ex": "恥ずかしい=Tener vergüenza"
-  },
-  {
-    "lvl": "N3",
-    "k": "疲",
-    "r": "ヒ / つか・れる",
-    "s": "Cansado",
-    "ex": "疲れる=Cansarse | 疲労=Fatiga"
-  },
-  {
-    "lvl": "N3",
-    "k": "貧",
-    "r": "ヒン / まず・しい",
-    "s": "Pobre",
-    "ex": "貧乏=Pobre | 貧しい=Pobre"
-  },
-  {
-    "lvl": "N3",
-    "k": "猫",
-    "r": "ビョウ / ねこ",
-    "s": "Gato",
-    "ex": "子猫=Gatito | 野良猫=Gato callejero"
+    "k": "御",
+    "r": "ゴ / おん",
+    "s": "Honorífico",
+    "ex": "お御=Sí | 御飯=Comida | 御守り=Amuleto"
   },
   {
     "lvl": "N3",
     "k": "誤",
     "r": "ゴ / あやま・る",
     "s": "Error",
-    "ex": "誤解=Malentendido | 誤り=Error"
+    "ex": "誤り=Error | 誤解=Malentendido | 誤差=Error"
   },
   {
     "lvl": "N3",
-    "k": "努",
-    "r": "ド / つと・める",
-    "s": "Esfuerzo",
-    "ex": "努力=Esfuerzo | 努める=Esforzarse"
+    "k": "告",
+    "r": "コク / つ・げる",
+    "s": "Informar, decir",
+    "ex": "告げる=Decir | 広告=Publicidad | 報告=Reporte"
   },
   {
     "lvl": "N3",
-    "k": "幾",
-    "r": "キ / いく",
-    "s": "Varios / Cuántos",
-    "ex": "幾つ=Cuántos | 幾分=Un poco"
+    "k": "刻",
+    "r": "コク / きざ・む",
+    "s": "Grabar, tallar",
+    "ex": "刻む=Trocear | 時間=Hora | 深刻=Serio"
   },
   {
     "lvl": "N3",
-    "k": "賛",
+    "k": "穀",
+    "r": "コク",
+    "s": "Cereal, grano",
+    "ex": "穀物=Grano | 穀類=Cereales | 精米=Arroz refinado"
+  },
+  {
+    "lvl": "N3",
+    "k": "酷",
+    "r": "コク / ひど・い",
+    "s": "Cruel, severo",
+    "ex": "酷い=Cruel | 酷似=Muy similar | 酷評=Crítica severa"
+  },
+  {
+    "lvl": "N3",
+    "k": "込",
+    "r": "こ・む",
+    "s": "Entrar, llenarse",
+    "ex": "込む=Estar lleno | 申し込む=Solicitar | 払込=Pago"
+  },
+  {
+    "lvl": "N3",
+    "k": "困",
+    "r": "コン / こま・る",
+    "s": "Problema, apuro",
+    "ex": "困る=Estar en apuros | 困難=Dificultad | 困った=Problemático"
+  },
+  {
+    "lvl": "N3",
+    "k": "婚",
+    "r": "コン",
+    "s": "Matrimonio",
+    "ex": "結婚=Matrimonio | 新婚=Recién casados | 婚約=Compromiso"
+  },
+  {
+    "lvl": "N3",
+    "k": "恨",
+    "r": "コン / うら・む",
+    "s": "Resentimiento",
+    "ex": "恨む=Guardar rencor | 恨み=Rencor | 憎しみ=Odio"
+  },
+  {
+    "lvl": "N3",
+    "k": "根",
+    "r": "コン / ね",
+    "s": "Raíz",
+    "ex": "根=Raíz | 根本=Fundamental | 根気=Paciencia"
+  },
+  {
+    "lvl": "N3",
+    "k": "混",
+    "r": "コン / ま・ざる",
+    "s": "Mezclar",
+    "ex": "混ざる=Mezclarse | 混乱=Confusión | 混雑=Congestión"
+  },
+  {
+    "lvl": "N3",
+    "k": "在",
+    "r": "ザイ / あ・る",
+    "s": "Existir, estar en",
+    "ex": "存在=Existencia | 現在=Presente | 在宅=Estar en casa"
+  },
+  {
+    "lvl": "N3",
+    "k": "財",
+    "r": "ザイ",
+    "s": "Fortuna, riqueza",
+    "ex": "財産=Patrimonio | 経済=Economía | 財政=Finanzas"
+  },
+  {
+    "lvl": "N3",
+    "k": "罪",
+    "r": "ザイ / つみ",
+    "s": "Crimen, pecado",
+    "ex": "罪=Crimen | 犯罪=Delito | 罪悪=Pecado"
+  },
+  {
+    "lvl": "N3",
+    "k": "崎",
+    "r": "サキ",
+    "s": "Cabo, península",
+    "ex": "長崎=Nagasaki | 崎=Cabo | 宮崎=Miyazaki"
+  },
+  {
+    "lvl": "N3",
+    "k": "削",
+    "r": "サク / けず・る",
+    "s": "Cortar, reducir",
+    "ex": "削る=Cortar | 削減=Reducción | 削除=Eliminar"
+  },
+  {
+    "lvl": "N3",
+    "k": "策",
+    "r": "サク",
+    "s": "Plan, estrategia",
+    "ex": "政策=Política | 対策=Medidas | 策略=Ardid"
+  },
+  {
+    "lvl": "N3",
+    "k": "索",
+    "r": "サク",
+    "s": "Buscar, cuerda",
+    "ex": "索引=Índice | 捜索=Búsqueda | 摸索=Exploración"
+  },
+  {
+    "lvl": "N3",
+    "k": "再",
+    "r": "サイ / ふたた・び",
+    "s": "De nuevo",
+    "ex": "再び=Otra vez | 再来年=Dentro de 2 años | 再開=Reanudar"
+  },
+  {
+    "lvl": "N3",
+    "k": "最",
+    "r": "サイ / もっと・も",
+    "s": "Más, extremo",
+    "ex": "最も=Más | 最後=Último | 最近=Reciente"
+  },
+  {
+    "lvl": "N3",
+    "k": "際",
+    "r": "サイ / きわ",
+    "s": "Ocasión, borde",
+    "ex": "際=Borde | 実際=Realidad | 国際=Internacional"
+  },
+  {
+    "lvl": "N3",
+    "k": "材",
+    "r": "ザイ",
+    "s": "Material",
+    "ex": "材料=Material | 取材=Entrevista | 教材=Material didáctico"
+  },
+  {
+    "lvl": "N3",
+    "k": "坂",
+    "r": "ハン / さか",
+    "s": "Pendiente, cuesta",
+    "ex": "坂=Cuesta | 坂道=Cuesta | 急坂=Pendiente pronunciada"
+  },
+  {
+    "lvl": "N3",
+    "k": "咲",
+    "r": "ショウ / さ・く",
+    "s": "Florecer",
+    "ex": "咲く=Florecer | 咲き誇る=Florecer espléndido | 花咲く=Florecen las flores"
+  },
+  {
+    "lvl": "N3",
+    "k": "刷",
+    "r": "サツ / す・る",
+    "s": "Imprimir",
+    "ex": "印刷=Impresión | 刷る=Imprimir | 刷新=Renovación"
+  },
+  {
+    "lvl": "N3",
+    "k": "察",
+    "r": "サツ",
+    "s": "Adivinar, suponer",
+    "ex": "警察=Policía | 観察=Observación | 考察=Consideración"
+  },
+  {
+    "lvl": "N3",
+    "k": "殺",
+    "r": "サツ / ころ・す",
+    "s": "Matar",
+    "ex": "殺す=Matar | 殺人=Homicidio | 自殺=Suicidio"
+  },
+  {
+    "lvl": "N3",
+    "k": "参",
+    "r": "サン / まい・る",
+    "s": "Visitar, ir",
+    "ex": "参る=Visitar | 参加=Participación | 参考=Referencia"
+  },
+  {
+    "lvl": "N3",
+    "k": "産",
+    "r": "サン / う・む",
+    "s": "Producir, dar a luz",
+    "ex": "産む=Dar a luz | 生産=Producción | 産業=Industria"
+  },
+  {
+    "lvl": "N3",
+    "k": "算",
     "r": "サン",
-    "s": "Aprobar / Alabar",
-    "ex": "賛成=Acuerdo/Aprobación | 賛成する=Estar de acuerdo"
+    "s": "Calcular",
+    "ex": "計算=Cálculo | 算数=Aritmética | 予算=Presupuesto"
   },
   {
     "lvl": "N3",
-    "k": "偶",
-    "r": "グウ",
-    "s": "Par / Azar",
-    "ex": "偶然=Casualidad | 偶数=Número par"
+    "k": "散",
+    "r": "サン / ち・る",
+    "s": "Esparcir",
+    "ex": "散る=Esparcirse | 散歩=Paseo | 解散=Disolución"
   },
   {
     "lvl": "N3",
-    "k": "忙",
-    "r": "ボウ / いそが・しい",
-    "s": "Ocupado",
-    "ex": "忙しい=Ocupado | 多忙=Muy ocupado"
+    "k": "酸",
+    "r": "サン",
+    "s": "Ácido",
+    "ex": "酸=Ácido | 酸性=Acidez | 酸素=Oxígeno"
   },
   {
     "lvl": "N3",
-    "k": "泳",
-    "r": "エイ / およ・ぐ",
-    "s": "Nadar",
-    "ex": "水泳=Natación | 泳ぐ=Nadar"
+    "k": "残",
+    "r": "ザン / のこ・る",
+    "s": "Quedar",
+    "ex": "残る=Quedar | 残念=Lástima | 残業=Horas extra"
   },
   {
     "lvl": "N3",
-    "k": "靴",
-    "r": "カ / くつ",
-    "s": "Zapato",
-    "ex": "靴下=Calcetines | 靴=Zapatos"
+    "k": "士",
+    "r": "シ",
+    "s": "Caballero, samurái",
+    "ex": "博士=Doctor | 弁護士=Abogado | 看護師=Enfermero"
   },
   {
     "lvl": "N3",
-    "k": "偉",
-    "r": "イ / えら・い",
-    "s": "Admirable / Grande",
-    "ex": "偉い=Admirable | 偉大=Grandioso"
+    "k": "支",
+    "r": "シ / ささ・える",
+    "s": "Sostener, apoyar",
+    "ex": "支える=Sostener | 支店=Sucursal | 支払う=Pagar"
+  },
+  {
+    "lvl": "N3",
+    "k": "氏",
+    "r": "シ",
+    "s": "Apellido, señor",
+    "ex": "氏=Señor | 氏名=Nombre completo | 姓氏=Apellido"
+  },
+  {
+    "lvl": "N3",
+    "k": "仕",
+    "r": "シ / つか・える",
+    "s": "Servir, hacer",
+    "ex": "仕える=Servir | 仕事=Trabajo | 仕方=Manera"
+  },
+  {
+    "lvl": "N3",
+    "k": "史",
+    "r": "シ",
+    "s": "Historia",
+    "ex": "歴史=Historia | 史跡=Sitio histórico | 史料=Documento histórico"
+  },
+  {
+    "lvl": "N3",
+    "k": "司",
+    "r": "シ",
+    "s": "Dirigir, administrar",
+    "ex": "司会=Moderador | 司祭=Sacerdote | 司令官=Comandante"
+  },
+  {
+    "lvl": "N3",
+    "k": "失",
+    "r": "シツ / うしな・う",
+    "s": "Perder",
+    "ex": "失う=Perder | 失敗=Fracaso | 失礼=Disculpa"
+  },
+  {
+    "lvl": "N3",
+    "k": "姉",
+    "r": "シ / あね",
+    "s": "Hermana mayor",
+    "ex": "姉=Hermana mayor | 姉妹=Hermanas | 姉さん=Hermana"
+  },
+  {
+    "lvl": "N3",
+    "k": "指",
+    "r": "シ / ゆび",
+    "s": "Dedo, señalar",
+    "ex": "指=Dedo | 指す=Señalar | 指示=Instrucción"
+  },
+  {
+    "lvl": "N3",
+    "k": "歯",
+    "r": "シ / は",
+    "s": "Diente",
+    "ex": "歯=Diente | 歯医者=Dentista | 歯磨き=Cepillado dental"
+  },
+  {
+    "lvl": "N3",
+    "k": "詩",
+    "r": "シ",
+    "s": "Poesía",
+    "ex": "詩=Poema | 詩人=Poeta | 詩歌=Poesía"
+  },
+  {
+    "lvl": "N3",
+    "k": "次",
+    "r": "ジ / つぎ",
+    "s": "Siguiente",
+    "ex": "次=Siguiente | 次に=A continuación | 次回=Próxima vez"
+  },
+  {
+    "lvl": "N3",
+    "k": "辞",
+    "r": "ジ / や・める",
+    "s": "Renunciar, palabra",
+    "ex": "辞書=Diccionario | 辞める=Renunciar | 敬辞=Honorífico"
+  },
+  {
+    "lvl": "N3",
+    "k": "鹿",
+    "r": "ロク / しか",
+    "s": "Ciervo",
+    "ex": "鹿=Ciervo | 鹿肉=Venado | 鹿島=Kashima"
+  },
+  {
+    "lvl": "N3",
+    "k": "式",
+    "r": "シキ",
+    "s": "Ceremonia, estilo",
+    "ex": "式=Ceremonia | 公式=Fórmula | 様式=Estilo"
+  },
+  {
+    "lvl": "N3",
+    "k": "識",
+    "r": "シキ",
+    "s": "Conocimiento",
+    "ex": "知識=Conocimiento | 意識=Conciencia | 認識=Reconocimiento"
+  },
+  {
+    "lvl": "N3",
+    "k": "軸",
+    "r": "ジク",
+    "s": "Eje",
+    "ex": "軸=Eje | 中心軸=Eje central | 車軸=Eje del coche"
+  },
+  {
+    "lvl": "N3",
+    "k": "実",
+    "r": "ジツ / み",
+    "s": "Fruto, verdad",
+    "ex": "実=Fruto | 真実=Verdad | 実際=Realidad"
+  },
+  {
+    "lvl": "N3",
+    "k": "写",
+    "r": "シャ / うつ・す",
+    "s": "Copiar, fotografiar",
+    "ex": "写真=Foto | 写す=Copiar | 写生=Dibujo del natural"
+  },
+  {
+    "lvl": "N3",
+    "k": "社",
+    "r": "シャ / やしろ",
+    "s": "Sociedad, compañía",
+    "ex": "会社=Empresa | 社会=Sociedad | 神社=Santuario"
+  },
+  {
+    "lvl": "N3",
+    "k": "者",
+    "r": "シャ / もの",
+    "s": "Persona",
+    "ex": "者=Persona | 医者=Médico | 作者=Autor"
+  },
+  {
+    "lvl": "N3",
+    "k": "捨",
+    "r": "シャ / す・てる",
+    "s": "Desechar",
+    "ex": "捨てる=Tirar | 捨て場=Vertedero | 取捨=Selección"
+  },
+  {
+    "lvl": "N3",
+    "k": "守",
+    "r": "シュ / まも・る",
+    "s": "Proteger",
+    "ex": "守る=Proteger | 守衛=Guardia | 保守=Conservador"
+  },
+  {
+    "lvl": "N3",
+    "k": "酒",
+    "r": "シュ / さけ",
+    "s": "Alcohol, sake",
+    "ex": "酒=Sake | 日本酒=Sake | 酒屋=Licorería"
+  },
+  {
+    "lvl": "N3",
+    "k": "取",
+    "r": "シュ / と・る",
+    "s": "Tomar, obtener",
+    "ex": "取る=Tomar | 取材=Entrevista | 取引=Transacción"
+  },
+  {
+    "lvl": "N3",
+    "k": "受",
+    "r": "ジュ / う・ける",
+    "s": "Recibir",
+    "ex": "受ける=Recibir | 受付=Recepción | 受験=Examen"
+  },
+  {
+    "lvl": "N3",
+    "k": "授",
+    "r": "ジュ / さず・ける",
+    "s": "Otorgar, enseñar",
+    "ex": "授ける=Otorgar | 授業=Clase | 授与=Concesión"
+  },
+  {
+    "lvl": "N3",
+    "k": "需",
+    "r": "ジュ",
+    "s": "Demanda, necesidad",
+    "ex": "需要=Demanda | 必需品=Necesidad | 需給=Oferta y demanda"
+  },
+  {
+    "lvl": "N3",
+    "k": "集",
+    "r": "シュウ / あつ・まる",
+    "s": "Reunir",
+    "ex": "集まる=Reunirse | 集める=Recolectar | 集合=Reunión"
+  },
+  {
+    "lvl": "N3",
+    "k": "住",
+    "r": "ジュウ / す・む",
+    "s": "Vivir",
+    "ex": "住む=Vivir | 住所=Dirección | 住民=Residente"
+  },
+  {
+    "lvl": "N3",
+    "k": "重",
+    "r": "ジュウ / おも・い",
+    "s": "Pesado",
+    "ex": "重い=Pesado | 重要=Importante | 重力=Gravedad"
+  },
+  {
+    "lvl": "N3",
+    "k": "従",
+    "r": "ジュウ / したが・う",
+    "s": "Seguir, obedecer",
+    "ex": "従う=Obedecer | 従業員=Empleado | 従来=Tradicional"
+  },
+  {
+    "lvl": "N3",
+    "k": "出",
+    "r": "シュツ / で・る",
+    "s": "Salir",
+    "ex": "出る=Salir | 出口=Salida | 出席=Asistencia"
+  },
+  {
+    "lvl": "N3",
+    "k": "女",
+    "r": "ジョ / おんな",
+    "s": "Mujer",
+    "ex": "女の人=Mujer | 女子=Mujer joven | 女性=Mujer formal"
+  },
+  {
+    "lvl": "N3",
+    "k": "少",
+    "r": "ショウ / すく・ない",
+    "s": "Poco, escaso",
+    "ex": "少ない=Poco | 少し=Un poco | 少年=Chico"
+  },
+  {
+    "lvl": "N3",
+    "k": "性",
+    "r": "セイ / ショウ",
+    "s": "Sexo, naturaleza",
+    "ex": "男性=Hombre | 女性=Mujer | 性格=Personalidad"
+  },
+  {
+    "lvl": "N3",
+    "k": "生",
+    "r": "セイ / い・きる",
+    "s": "Vida, nacer",
+    "ex": "生きる=Vivir | 生まれる=Nacer | 学生=Estudiante"
+  },
+  {
+    "lvl": "N3",
+    "k": "成",
+    "r": "セイ / な・る",
+    "s": "Llegar a ser",
+    "ex": "成る=Convertirse | 成功=Éxito | 成人=Adulto"
+  },
+  {
+    "lvl": "N3",
+    "k": "西",
+    "r": "セイ / にし",
+    "s": "Oeste",
+    "ex": "西=Oeste | 西日=Sol del oeste | 関西=Kansai"
+  },
+  {
+    "lvl": "N3",
+    "k": "声",
+    "r": "セイ / こえ",
+    "s": "Voz",
+    "ex": "声=Voz | 声優=Actor de voz | 大声=Voz alta"
+  },
+  {
+    "lvl": "N3",
+    "k": "星",
+    "r": "セイ / ほし",
+    "s": "Estrella",
+    "ex": "星=Estrella | 星座=Constelación | 星占い=Horóscopo"
+  },
+  {
+    "lvl": "N3",
+    "k": "晴",
+    "r": "セイ / は・れる",
+    "s": "Despejarse (clima)",
+    "ex": "晴れる=Despejarse | 晴天=Cielo despejado | 晴れ=Claro"
+  },
+  {
+    "lvl": "N3",
+    "k": "世",
+    "r": "セイ / よ",
+    "s": "Mundo",
+    "ex": "世界=Mundo | 世話=Cuidado | 世紀=Siglo"
+  },
+  {
+    "lvl": "N3",
+    "k": "昔",
+    "r": "セキ / むかし",
+    "s": "Antiguo, pasado",
+    "ex": "昔=Antiguamente | 昔話=Cuento antiguo | 昔々=Hace mucho tiempo"
   }
 ]
