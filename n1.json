@@ -148,13 +148,6 @@
   },
   {
     "lvl": "N1",
-    "k": "遵",
-    "r": "ジュン",
-    "s": "Observar / Acatar",
-    "ex": "遵守=Cumplimiento | 遵法精神=Espíritu de respeto a la ley | 遵う=Seguir"
-  },
-  {
-    "lvl": "N1",
     "k": "蔑",
     "r": "ベツ / さげす・む",
     "s": "Desprecio / Menosprecio",
@@ -267,13 +260,6 @@
   },
   {
     "lvl": "N1",
-    "k": "矯",
-    "r": "キョウ / た・める",
-    "s": "Rectificar / Falsificar",
-    "ex": "矯正=Corrección | 奇矯=Excéntrico | 矯める=Enderezar"
-  },
-  {
-    "lvl": "N1",
     "k": "墳",
     "r": "フン",
     "s": "Tumba / Túmulo",
@@ -285,13 +271,6 @@
     "r": "ツイ",
     "s": "Caer / Hundirse",
     "ex": "墜落=Caída (avión) | 失墜=Pérdida (prestigio) | 撃墜=Derribar"
-  },
-  {
-    "lvl": "N1",
-    "k": "墳",
-    "r": "フン",
-    "s": "Montículo",
-    "ex": "古墳=Túmulo | 墳墓=Tumba | 墳丘=Colina funeraria"
   },
   {
     "lvl": "N1",
@@ -330,13 +309,6 @@
   },
   {
     "lvl": "N1",
-    "k": "塑",
-    "r": "ソ",
-    "s": "Modelado",
-    "ex": "塑像=Figura de barro | 彫塑=Modelado | 塑性=Plasticidad"
-  },
-  {
-    "lvl": "N1",
     "k": "塊",
     "r": "カイ / かたまり",
     "s": "Terrón / Masa / Grupo",
@@ -355,13 +327,6 @@
     "r": "ト / ぬ・る",
     "s": "Pintar / Untar / Revestir",
     "ex": "塗装=Pintura/Revestimiento | 塗料=Pintura (material) | 塗り薬=Ungüento"
-  },
-  {
-    "lvl": "N1",
-    "k": "嫡",
-    "r": "チャク",
-    "s": "Línea directa",
-    "ex": "嫡孫=Nieto legítimo | 嫡妻=Esposa legal | 嫡系=Linaje directo"
   },
   {
     "lvl": "N1",
@@ -411,13 +376,6 @@
     "r": "ケン / ゲン / きら・う",
     "s": "Odiar / Desagradar",
     "ex": "嫌悪=Odio/Aversión | 機嫌=Humor/Estado ánimo | 嫌疑=Sospecha"
-  },
-  {
-    "lvl": "N1",
-    "k": "嫡",
-    "r": "チャク",
-    "s": "Legítimo",
-    "ex": "嫡出子=Hijo legítimo | 嫡庶=Hijos legítimos e ilegítimos | 嫡流=Rama principal"
   },
   {
     "lvl": "N1",
@@ -964,20 +922,6 @@
     "r": "カツ",
     "s": "Gritar / Regañar / Beber (Zen)",
     "ex": "喝采=Aplausos | 恐喝=Chantaje/Extorsión | 一喝=Regañina sonora"
-  },
-  {
-    "lvl": "N1",
-    "k": "彙",
-    "r": "イ",
-    "s": "Colección / Clasificación",
-    "ex": "語彙=Vocabulario | 彙報=Boletín | 彙集=Colección"
-  },
-  {
-    "lvl": "N1",
-    "k": "虞",
-    "r": "グ / おそ・れ",
-    "s": "Miedo / Riesgo",
-    "ex": "虞れがある=Hay riesgo de | 憂虞=Preocupación | 虞美人草=Amapola"
   },
   {
     "lvl": "N1",
@@ -5293,20 +5237,6 @@
   },
   {
     "lvl": "N1",
-    "k": "鯛",
-    "r": "チョウ / たい",
-    "s": "Besugo / Pargo",
-    "ex": "めでたい=Afortunado (juego de palabras con Tai) | 真鯛=Pargo rojo | 鯛飯=Arroz con besugo"
-  },
-  {
-    "lvl": "N1",
-    "k": "鯨",
-    "r": "ゲイ / くじら",
-    "s": "Ballena",
-    "ex": "捕鯨=Caza de ballenas | 鯨飲=Beber en exceso | 鯨波=Grito de guerra"
-  },
-  {
-    "lvl": "N1",
     "k": "鯰",
     "r": "ネン / なまず",
     "s": "Bagre / Siluro / Terremoto (folclore)",
@@ -7750,66 +7680,10 @@
   },
   {
     "lvl": "N1",
-    "k": "汎",
-    "r": "ハン",
-    "s": "Pan- / General / Amplio / Flotar",
-    "ex": "汎用=De uso general | 汎愛=Amor universal | 汎米=Panamericano"
-  },
-  {
-    "lvl": "N1",
     "k": "汐",
     "r": "セキ / しお",
     "s": "Marea nocturna / Sal",
     "ex": "汐風=Brisa marina | 汐干狩り=Recoger mariscos en marea baja | 汐時=Momento oportuno"
-  },
-  {
-    "lvl": "N1",
-    "k": "汲",
-    "r": "キュウ / く・む",
-    "s": "Sacar agua / Empatizar / Considerar",
-    "ex": "汲み取る=Sacar agua/Captar sentimientos | 意を汲む=Tener en cuenta | 汲々とする=Estar muy ocupado"
-  },
-  {
-    "lvl": "N1",
-    "k": "沃",
-    "r": "ヨク",
-    "s": "Fertilidad / Irrigar",
-    "ex": "肥沃=Fértil | 沃野=Llanura fértil | 沃土=Tierra fértil"
-  },
-  {
-    "lvl": "N1",
-    "k": "沈",
-    "r": "チン / しず・む / しず・める",
-    "s": "Hundirse / Sumergirse / Deprimido",
-    "ex": "沈没=Naufragio | 沈黙=Silencio | 沈殿=Sedimentación"
-  },
-  {
-    "lvl": "N1",
-    "k": "沌",
-    "r": "トン",
-    "s": "Caos / Turbiedad / Confusión",
-    "ex": "混沌=Caos | 混沌とする=Estar caótico | 混沌たる=Turbio"
-  },
-  {
-    "lvl": "N1",
-    "k": "沓",
-    "r": "トウ / くつ",
-    "s": "Zapato / Congestión / Mezcla",
-    "ex": "雑沓=Multitud/Congestión | 沓脱石=Piedra para quitarse los zapatos | 沓を履く=Ponerse los zapatos"
-  },
-  {
-    "lvl": "N1",
-    "k": "沫",
-    "r": "マツ / あわ / しぶき",
-    "s": "Espuma / Burbuja / Salpicadura",
-    "ex": "飛沫=Salpicadura/Gotícula | 泡沫=Burbuja/Efímero | 飛沫感染=Contagio por gotículas"
-  },
-  {
-    "lvl": "N1",
-    "k": "洩",
-    "r": "エイ / セツ / も・れる / も・らす",
-    "s": "Fuga / Escapar / Divulgar",
-    "ex": "漏洩=Fuga de información | 洩らす=Dejar escapar/Filtrar | 秘密を洩らす=Revelar un secreto"
   },
   {
     "lvl": "N1",
