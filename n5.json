@@ -18,615 +18,734 @@
     "k": "三",
     "r": "サン / みっ・つ",
     "s": "Tres",
-    "ex": "三人=Tres personas | 三日=Tres días | 三月=Marzo"
+    "ex": "三日=Día tres | 三月=Marzo | 三角=Triángulo"
   },
   {
     "lvl": "N5",
     "k": "四",
-    "r": "シ / よん, よっ・つ",
+    "r": "シ / よっ・つ",
     "s": "Cuatro",
-    "ex": "四人=Cuatro personas | 四日=Cuatro días | 四月=Abril"
+    "ex": "四人=Cuatro personas | 四日=Día cuatro | 四角=Cuadrado"
   },
   {
     "lvl": "N5",
     "k": "五",
     "r": "ゴ / いつ・つ",
     "s": "Cinco",
-    "ex": "五人=Cinco personas | 五日=Cinco días | 五月=Mayo"
+    "ex": "五日=Día cinco | 五月=Mayo | 五感=Los cinco sentidos"
   },
   {
     "lvl": "N5",
     "k": "六",
     "r": "ロク / むっ・つ",
     "s": "Seis",
-    "ex": "六人=Seis personas | 六日=Seis días | 六月=Junio"
+    "ex": "六日=Día seis | 六月=Junio | 六本=Seis objetos cilíndricos"
   },
   {
     "lvl": "N5",
     "k": "七",
     "r": "シチ / なな・つ",
     "s": "Siete",
-    "ex": "七人=Siete personas | 七日=Siete días | 七月=Julio"
+    "ex": "七日=Día siete | 七月=Julio | 七夕=Tanabata (festividad)"
   },
   {
     "lvl": "N5",
     "k": "八",
     "r": "ハチ / やっ・つ",
     "s": "Ocho",
-    "ex": "八人=Ocho personas | 八日=Ocho días | 八月=Agosto"
+    "ex": "八日=Día ocho | 八月=Agosto | 八百屋=Frutería"
   },
   {
     "lvl": "N5",
     "k": "九",
-    "r": "キュウ, ク / ここの・つ",
+    "r": "キュウ / ここの・つ",
     "s": "Nueve",
-    "ex": "九人=Nueve personas | 九日=Nueve días | 九月=Septiembre"
+    "ex": "九日=Día nueve | 九月=Septiembre | 九州=Kyushu (región)"
   },
   {
     "lvl": "N5",
     "k": "十",
     "r": "ジュウ / とお",
     "s": "Diez",
-    "ex": "Diez personas=Diez personas | 十日=Diez días | 十月=Octubre"
+    "ex": "十日=Día diez | 十月=Octubre | 十分=Suficiente"
   },
   {
     "lvl": "N5",
     "k": "百",
     "r": "ヒャク",
     "s": "Cien",
-    "ex": "百円=Cien yenes | 百人=Cien personas | 三百=Trescientos"
+    "ex": "三百=Trescientos | 百科事典=Enciclopedia | 百貨店=Grandes almacenes"
   },
   {
     "lvl": "N5",
     "k": "千",
-    "r": "セン",
+    "r": "セン / ち",
     "s": "Mil",
-    "ex": "千円=Mil yenes | 千人=Mil personas | 三千=Tres mil"
+    "ex": "三千=Tres mil | 千葉=Chiba | 千年=Mil años"
   },
   {
     "lvl": "N5",
     "k": "万",
     "r": "マン",
     "s": "Diez mil",
-    "ex": "一万円=Diez mil yenes | 万人=Multitud | 百万=Un millón"
+    "ex": "一万円=Diez mil yenes | 万国=Todas las naciones | 万一=En caso de emergencia"
+  },
+  {
+    "lvl": "N5",
+    "k": "円",
+    "r": "エン / まる・い",
+    "s": "Yen / Círculo",
+    "ex": "百円=Cien yenes | 円い=Redondo | 円高=Yen fuerte"
   },
   {
     "lvl": "N5",
     "k": "日",
-    "r": "ニチ, ジツ / ひ, か",
-    "s": "Día, sol",
-    "ex": "毎日=Todos los días | 休日=Día festivo | 日曜日=Domingo"
+    "r": "ニチ / ひ",
+    "s": "Día / Sol",
+    "ex": "毎日=Cada día | 日曜日=Domingo | 誕生日=Cumpleaños"
   },
   {
     "lvl": "N5",
     "k": "月",
-    "r": "ゲツ, ガツ / つき",
-    "s": "Luna, mes",
-    "ex": "毎月=Todos los meses | 月曜日=Lunes | 先月=El mes pasado"
+    "r": "ゲツ / つき",
+    "s": "Mes / Luna",
+    "ex": "一月=Enero | 月曜日=Lunes | 今月=Este mes"
   },
   {
     "lvl": "N5",
     "k": "火",
     "r": "カ / ひ",
     "s": "Fuego",
-    "ex": "火曜日=Martes | 火事=Incendio | 花火=Fuegos artificiales"
+    "ex": "火曜日=Martes | 火事=Incendio | 火山=Volcán"
   },
   {
     "lvl": "N5",
     "k": "水",
     "r": "スイ / みず",
     "s": "Agua",
-    "ex": "水曜日=Miércoles | 水泳=Natación | 飲み水=Agua potable"
+    "ex": "水曜日=Miércoles | 水道=Agua corriente | 水泳=Natación"
   },
   {
     "lvl": "N5",
     "k": "木",
-    "r": "モク, ボク / き",
-    "s": "Árbol, madera",
-    "ex": "木曜日=Jueves | 木村=Pueblo de árboles | 大木=Árbol grande"
+    "r": "モク / き",
+    "s": "Árbol / Madera",
+    "ex": "木曜日=Jueves | 大木=Árbol grande | 木刀=Espada de madera"
   },
   {
     "lvl": "N5",
     "k": "金",
-    "r": "キン, コン / かね",
-    "s": "Oro, dinero",
-    "ex": "金曜日=Viernes | お金=Dinero | 貯金=Ahorros"
+    "r": "キン / かね",
+    "s": "Oro / Dinero",
+    "ex": "金曜日=Viernes | お金=Dinero | 金メダル=Medalla de oro"
   },
   {
     "lvl": "N5",
     "k": "土",
-    "r": "ド, ト / つち",
-    "s": "Tierra, suelo",
-    "ex": "土曜日=Sábado | 土地=Terreno | 土砂=Tierra y arena"
-  },
-  {
-    "lvl": "N5",
-    "k": "曜",
-    "r": "ヨウ",
-    "s": "Día de la semana",
-    "ex": "曜日=Día de la semana | 何曜日=¿Qué día de la semana? | 毎曜日=Todos los días de la semana"
-  },
-  {
-    "lvl": "N5",
-    "k": "年",
-    "r": "ネン",
-    "s": "Año",
-    "ex": "毎年=Cada año | 去年=El año pasado | 来年=El próximo año"
-  },
-  {
-    "lvl": "N5",
-    "k": "時",
-    "r": "ジ / とき",
-    "s": "Tiempo, hora",
-    "ex": "Tiempo, hora=Tiempo, hora | 時計=Reloj | 時々=A veces"
-  },
-  {
-    "lvl": "N5",
-    "k": "間",
-    "r": "カン, ケン / あいだ, ま",
-    "s": "Intervalo, espacio",
-    "ex": "時間=Tiempo | 人間=Ser humano | 間に合う=Llegar a tiempo"
-  },
-  {
-    "lvl": "N5",
-    "k": "今",
-    "r": "コン / いま",
-    "s": "Ahora",
-    "ex": "今日=Hoy | 今年=Este año | 今週=Esta semana"
-  },
-  {
-    "lvl": "N5",
-    "k": "毎",
-    "r": "マイ / ごと",
-    "s": "Cada, todos",
-    "ex": "毎日=Todos los días | 毎週=Cada semana | 毎年=Cada año"
-  },
-  {
-    "lvl": "N5",
-    "k": "先",
-    "r": "セン / さき",
-    "s": "Antes, anterior, futuro",
-    "ex": "先生=Maestro, profesor | 先週=La semana pasada | 先月=El mes pasado"
-  },
-  {
-    "lvl": "N5",
-    "k": "何",
-    "r": "カ / なに, なん",
-    "s": "Qué",
-    "ex": "何時=¿Qué hora? | 何人=¿Cuántas personas? | 何曜日=¿Qué día de la semana?"
-  },
-  {
-    "lvl": "N5",
-    "k": "人",
-    "r": "ジン, ニン / ひと",
-    "s": "Persona",
-    "ex": "外国人=Extranjero | 大人=Adulto | 三人=Tres personas"
-  },
-  {
-    "lvl": "N5",
-    "k": "男",
-    "r": "ダン, ナン / おとこ",
-    "s": "Hombre, masculino",
-    "ex": "男性=Hombre | 男の子=Niño | 長男=Hijo mayor"
-  },
-  {
-    "lvl": "N5",
-    "k": "女",
-    "r": "ジョ, ニョ / おんな",
-    "s": "Mujer, femenino",
-    "ex": "女性=Mujer | 女の子=Niña | 長女=Hija mayor"
-  },
-  {
-    "lvl": "N5",
-    "k": "子",
-    "r": "シ / こ",
-    "s": "Niño, hijo",
-    "ex": "子供=Niños | 子犬=Cachorro | 男子=Chico, varón"
-  },
-  {
-    "lvl": "N5",
-    "k": "父",
-    "r": "フ / ちち",
-    "s": "Padre",
-    "ex": "お父さん=Papá | 父親=Padre | 父母=Padres"
-  },
-  {
-    "lvl": "N5",
-    "k": "母",
-    "r": "ボ / はは",
-    "s": "Madre",
-    "ex": "お母さん=Mamá | 母親=Madre | 父母=Padres"
-  },
-  {
-    "lvl": "N5",
-    "k": "友",
-    "r": "ユウ / とも",
-    "s": "Amigo",
-    "ex": "友達=Amigo | 友人=Amigo | 友情=Amistad"
-  },
-  {
-    "lvl": "N5",
-    "k": "私",
-    "r": "シ / わたし, わたくし",
-    "s": "Yo, privado",
-    "ex": "Yo=Yo | 私立=Privado (institución) | 私用=Asunto personal"
-  },
-  {
-    "lvl": "N5",
-    "k": "彼",
-    "r": "ヒ / かれ",
-    "s": "Él",
-    "ex": "Él=Él | 彼女=Ella, novia | 彼ら=Ellos"
-  },
-  {
-    "lvl": "N5",
-    "k": "会",
-    "r": "カイ / あ・う",
-    "s": "Reunión, encontrarse",
-    "ex": "会う=Encontrarse | 会社=Empresa | 会話=Conversación"
-  },
-  {
-    "lvl": "N5",
-    "k": "社",
-    "r": "シャ",
-    "s": "Sociedad, compañía",
-    "ex": "会社=Empresa | 社会=Sociedad | 神社=Santuario sintoísta"
-  },
-  {
-    "lvl": "N5",
-    "k": "員",
-    "r": "イン",
-    "s": "Miembro, empleado",
-    "ex": "社員=Empleado | 店員=Dependiente | 会員=Miembro"
-  },
-  {
-    "lvl": "N5",
-    "k": "店",
-    "r": "テン / みせ",
-    "s": "Tienda",
-    "ex": "店員=Dependiente | 本屋=Librería | 喫茶店=Cafetería"
-  },
-  {
-    "lvl": "N5",
-    "k": "校",
-    "r": "コウ",
-    "s": "Escuela",
-    "ex": "学校=Escuela | 高校=Instituto, preparatoria | 校舎=Edificio escolar"
-  },
-  {
-    "lvl": "N5",
-    "k": "学",
-    "r": "ガク / まな・ぶ",
-    "s": "Estudio, aprendizaje",
-    "ex": "学生=Estudiante | 学校=Escuela | 勉強=Estudio"
-  },
-  {
-    "lvl": "N5",
-    "k": "生",
-    "r": "セイ, ショウ / い・きる, う・まれる",
-    "s": "Vida, nacer",
-    "ex": "学生=Estudiante | 生活=Vida cotidiana | 生まれる=Nacer"
-  },
-  {
-    "lvl": "N5",
-    "k": "先",
-    "r": "セン / さき",
-    "s": "Antes, anterior, futuro",
-    "ex": "先生=Maestro | 先週=Semana pasada | 先に=Primero, antes"
-  },
-  {
-    "lvl": "N5",
-    "k": "語",
-    "r": "ゴ / かた・る",
-    "s": "Idioma, palabra",
-    "ex": "日本語=Idioma japonés | 英語=Idioma inglés | 語学=Estudio de idiomas"
-  },
-  {
-    "lvl": "N5",
-    "k": "本",
-    "r": "ホン / もと",
-    "s": "Libro, origen",
-    "ex": "日本=Japón | 本屋=Librería | 本当=Verdad"
-  },
-  {
-    "lvl": "N5",
-    "k": "読",
-    "r": "ドク / よ・む",
-    "s": "Leer",
-    "ex": "読む=Leer | 読書=Lectura | 読み物=Material de lectura"
-  },
-  {
-    "lvl": "N5",
-    "k": "書",
-    "r": "ショ / か・く",
-    "s": "Escribir",
-    "ex": "書く=Escribir | 本=Libro | 教科書=Libro de texto"
-  },
-  {
-    "lvl": "N5",
-    "k": "話",
-    "r": "ワ / はな・す",
-    "s": "Hablar, historia",
-    "ex": "話す=Hablar | 会話=Conversación | 電話=Teléfono"
-  },
-  {
-    "lvl": "N5",
-    "k": "聞",
-    "r": "ブン / き・く",
-    "s": "Escuchar, preguntar",
-    "ex": "聞く=Escuchar, preguntar | 新闻=Periódico | 見聞=Experiencia"
-  },
-  {
-    "lvl": "N5",
-    "k": "食",
-    "r": "ショク / た・べる",
-    "s": "Comer, comida",
-    "ex": "食べる=Comer | 食事=Comida | 食堂=Comedor, cafetería"
-  },
-  {
-    "lvl": "N5",
-    "k": "飲",
-    "r": "イン / の・む",
-    "s": "Beber",
-    "ex": "飲む=Beber | 飲み物=Bebida | 飲食店=Restaurante"
-  },
-  {
-    "lvl": "N5",
-    "k": "買",
-    "r": "バイ / か・う",
-    "s": "Comprar",
-    "ex": "買う=Comprar | 買い物=Compras | 購買=Compra"
-  },
-  {
-    "lvl": "N5",
-    "k": "売",
-    "r": "バイ / う・る",
-    "s": "Vender",
-    "ex": "売る=Vender | 売店=Quiosco, tienda pequeña | 販売=Venta"
-  },
-  {
-    "lvl": "N5",
-    "k": "作",
-    "r": "サク / つく・る",
-    "s": "Hacer, crear",
-    "ex": "作る=Hacer, crear | 作文=Redacción, composición | 作品=Obra, trabajo"
-  },
-  {
-    "lvl": "N5",
-    "k": "使",
-    "r": "シ / つか・う",
-    "s": "Usar",
-    "ex": "使う=Usar | 使者=Mensajero | 使用=Uso"
-  },
-  {
-    "lvl": "N5",
-    "k": "勉",
-    "r": "ベン",
-    "s": "Esfuerzo, diligencia",
-    "ex": "勉強=Estudio | 勉強家=Persona estudiosa | 勉学=Estudio, aprendizaje"
-  },
-  {
-    "lvl": "N5",
-    "k": "強",
-    "r": "キョウ / つよ・い",
-    "s": "Fuerte",
-    "ex": "強い=Fuerte | 勉強=Estudio | 強化=Fortalecimiento"
+    "r": "ド / つち",
+    "s": "Tierra / Suelo",
+    "ex": "土曜日=Sábado | 土地=Terreno | 土木=Ingeniería civil"
   },
   {
     "lvl": "N5",
     "k": "山",
     "r": "サン / やま",
     "s": "Montaña",
-    "ex": "山=Montaña | 富士山=Monte Fuji | 山道=Camino de montaña"
+    "ex": "富士山=Monte Fuji | 山道=Camino de montaña | 山登り=Montañismo"
   },
   {
     "lvl": "N5",
     "k": "川",
     "r": "セン / かわ",
     "s": "Río",
-    "ex": "川=Río | 小川=Arroyo | 川岸=Orilla del río"
+    "ex": "小川=Arroyo | 川岸=Orilla del río | 河川=Ríos (término formal)"
   },
   {
     "lvl": "N5",
-    "k": "海",
-    "r": "カイ / うみ",
-    "s": "Mar",
-    "ex": "Mar=Mar | 海外=Extranjero, ultramar | 海水=Agua de mar"
+    "k": "田",
+    "r": "デン / た",
+    "s": "Arrozal",
+    "ex": "水田=Arrozal inundado | 油田=Campo petrolífero | 田舎=Campo / Zona rural"
   },
   {
     "lvl": "N5",
-    "k": "空",
-    "r": "クウ / そら, あ・く",
-    "s": "Cielo, vacío",
-    "ex": "空=Cielo | 空気=Aire | 空く=Vacío, libre"
+    "k": "人",
+    "r": "ジン / ひと",
+    "s": "Persona",
+    "ex": "日本人=Japonés (persona) | 大人=Adulto | 外国人=Extranjero"
   },
   {
     "lvl": "N5",
-    "k": "雨",
-    "r": "ウ / あめ",
-    "s": "Lluvia",
-    "ex": "雨=Lluvia | 大雨=Lluvia fuerte | 雨具=Equipo para la lluvia"
+    "k": "子",
+    "r": "シ / こ",
+    "s": "Niño",
+    "ex": "子供=Niño | 女子=Mujer / Chica | 電子=Electrón"
   },
   {
     "lvl": "N5",
-    "k": "電",
-    "r": "デン",
-    "s": "Electricidad",
-    "ex": "電話=Teléfono | 電気=Electricidad, luz | 電車=Tren eléctrico"
+    "k": "女",
+    "r": "ジョ / おんな",
+    "s": "Mujer",
+    "ex": "女の子=Niña | 彼女=Ella / Novia | 女優=Actriz"
   },
   {
     "lvl": "N5",
-    "k": "車",
-    "r": "シャ / くるま",
-    "s": "Coche, vehículo",
-    "ex": "車=Coche | 電車=Tren | 自転車=Bicicleta"
+    "k": "男",
+    "r": "ダン / おとこ",
+    "s": "Hombre",
+    "ex": "男の子=Niño | 長男=Hijo mayor | 男性=Masculino"
   },
   {
     "lvl": "N5",
-    "k": "自",
-    "r": "ジ / みずか・ら",
-    "s": "Uno mismo",
-    "ex": "自分=Uno mismo | 自転車=Bicicleta | 自由=Libertad"
+    "k": "父",
+    "r": "フ / ちち",
+    "s": "Padre",
+    "ex": "お父さん=Padre (respetuoso) | 祖父=Abuelo | 父母=Padres"
   },
   {
     "lvl": "N5",
-    "k": "転",
-    "r": "テン / ころ・ぶ",
-    "s": "Girar, rodar",
-    "ex": "自転車=Bicicleta | 転ぶ=Caerse | 回転=Rotación"
+    "k": "母",
+    "r": "ボ / はは",
+    "s": "Madre",
+    "ex": "お母さん=Madre (respetuoso) | 祖母=Abuela | 母国=Patria"
   },
   {
     "lvl": "N5",
-    "k": "気",
-    "r": "キ / いき",
-    "s": "Espíritu, energía, aire",
-    "ex": "天気=Tiempo atmosférico | 元気=Saludable, enérgico | 空気=Aire"
+    "k": "先",
+    "r": "セン / さき",
+    "s": "Antes / Anterior",
+    "ex": "先生=Profesor | 先月=Mes pasado | 先輩=Senior (Senpai)"
   },
   {
     "lvl": "N5",
-    "k": "天",
-    "r": "テン / あめ",
-    "s": "Cielo, firmamento",
-    "ex": "天気=Tiempo atmosférico | 天国=Paraíso | 天使=Ángel"
+    "k": "生",
+    "r": "セイ / い・きる",
+    "s": "Vida / Nacer",
+    "ex": "学生=Estudiante | 生活=Vida diaria | 生年月日=Fecha de nacimiento"
   },
   {
     "lvl": "N5",
-    "k": "元",
-    "r": "ゲン / もと",
-    "s": "Origen, principio",
-    "ex": "元気=Saludable | 元日=Día de Año Nuevo | 元々=Originalmente"
+    "k": "学",
+    "r": "ガク / まな・ぶ",
+    "s": "Estudio / Ciencia",
+    "ex": "学校=Escuela | 大学=Universidad | 数学=Matemáticas"
   },
   {
     "lvl": "N5",
-    "k": "多",
-    "r": "タ / おお・い",
-    "s": "Mucho, numeroso",
-    "ex": "多い=Muchos | 多分=Quizás | 多様=Diverso"
+    "k": "校",
+    "r": "コウ",
+    "s": "Escuela / Edificio escolar",
+    "ex": "校長=Director de escuela | 高校=Bachillerato | 小学校=Escuela primaria"
   },
   {
     "lvl": "N5",
-    "k": "少",
-    "r": "ショウ / すく・ない, すこ・し",
-    "s": "Poco, unos pocos",
-    "ex": "少し=Un poco | 少ない=Poco | 少数=Minoría"
+    "k": "友",
+    "r": "ユウ / とも",
+    "s": "Amigo",
+    "ex": "友達=Amigo | 友人=Amigo (formal) | 友情=Amistad"
+  },
+  {
+    "lvl": "N5",
+    "k": "本",
+    "r": "ホン / もと",
+    "s": "Libro / Origen",
+    "ex": "日本=Japón | 本屋=Librería | 台本=Guion"
+  },
+  {
+    "lvl": "N5",
+    "k": "毎",
+    "r": "マイ",
+    "s": "Cada / Todos los...",
+    "ex": "毎日=Cada día | 毎週=Cada semana | 毎年=Cada año"
+  },
+  {
+    "lvl": "N5",
+    "k": "何",
+    "r": "カ / なに",
+    "s": "Qué",
+    "ex": "何時=Qué hora | 何人=Cuántas personas | 何か=Algo"
+  },
+  {
+    "lvl": "N5",
+    "k": "前",
+    "r": "ゼン / まえ",
+    "s": "Antes / Delante",
+    "ex": "午前=Mañana (AM) | 名前=Nombre | 三日前=Hace tres días"
+  },
+  {
+    "lvl": "N5",
+    "k": "後",
+    "r": "ゴ / あと",
+    "s": "Después / Detrás",
+    "ex": "午後=Tarde (PM) | 後で=Después | 最後=Último"
+  },
+  {
+    "lvl": "N5",
+    "k": "午",
+    "r": "ゴ",
+    "s": "Mediodía",
+    "ex": "午前=Mañana (AM) | 午後=Tarde (PM) | 正午=Mediodía exacto"
+  },
+  {
+    "lvl": "N5",
+    "k": "上",
+    "r": "ジョウ / うえ",
+    "s": "Arriba / Encima",
+    "ex": "上着=Chaqueta | 上手=Habilidoso | 屋上=Azotea"
+  },
+  {
+    "lvl": "N5",
+    "k": "下",
+    "r": "カ / した",
+    "s": "Abajo / Debajo",
+    "ex": "地下鉄=Metro | 下手=Poco habilidoso | 下着=Ropa interior"
+  },
+  {
+    "lvl": "N5",
+    "k": "左",
+    "r": "サ / ひだり",
+    "s": "Izquierda",
+    "ex": "左利き=Zurdo | 左折=Giro a la izquierda | 左右=Izquierda y derecha"
+  },
+  {
+    "lvl": "N5",
+    "k": "右",
+    "r": "ウ / みぎ",
+    "s": "Derecha",
+    "ex": "右側=Lado derecho | 右折=Giro a la derecha | 右手=Mano derecha"
+  },
+  {
+    "lvl": "N5",
+    "k": "中",
+    "r": "チュウ / なか",
+    "s": "Dentro / Medio",
+    "ex": "一日中=Todo el día | 中国=China | 背中=Espalda"
+  },
+  {
+    "lvl": "N5",
+    "k": "外",
+    "r": "ガイ / そと",
+    "s": "Fuera / Exterior",
+    "ex": "外国=País extranjero | 外出=Salir de casa | 外科=Cirugía"
   },
   {
     "lvl": "N5",
     "k": "大",
-    "r": "ダイ, タイ / おお・きい",
+    "r": "ダイ / おお・きい",
     "s": "Grande",
-    "ex": "大きい=Grande | 大学=Universidad | 大変=Difícil, grave"
+    "ex": "大学=Universidad | 大事=Importante | 大好き=Encantar"
   },
   {
     "lvl": "N5",
     "k": "小",
-    "r": "ショウ / ちい・さい, こ",
+    "r": "ショウ / ちい・さい",
     "s": "Pequeño",
-    "ex": "小さい=Pequeño | 小学生=Estudiante de primaria | 小説=Novela"
+    "ex": "小学校=Escuela primaria | 小説=Novela | 小包=Paquete"
+  },
+  {
+    "lvl": "N5",
+    "k": "長",
+    "r": "チョウ / なが・い",
+    "s": "Largo / Jefe",
+    "ex": "校長=Director | 社長=Presidente de empresa | 身長=Estatura"
+  },
+  {
+    "lvl": "N5",
+    "k": "高",
+    "r": "コウ / たか・い",
+    "s": "Alto / Caro",
+    "ex": "高校=Bachillerato | 高級=Lujo | 高血圧=Presión alta"
+  },
+  {
+    "lvl": "N5",
+    "k": "安",
+    "r": "アン / やす・い",
+    "s": "Barato / Tranquilo",
+    "ex": "安心=Alivio | 安全=Seguridad | 安物=Cosa barata"
   },
   {
     "lvl": "N5",
     "k": "新",
     "r": "シン / あたら・しい",
     "s": "Nuevo",
-    "ex": "新しい=Nuevo | 新闻=Periódico | 新幹線=Tren bala"
+    "ex": "新聞=Periódico | 新幹線=Tren bala | 新年=Año nuevo"
   },
   {
     "lvl": "N5",
     "k": "古",
     "r": "コ / ふる・い",
-    "s": "Viejo, antiguo",
-    "ex": "古い=Viejo | 古本=Libro usado | 中古=Usado, segunda mano"
+    "s": "Viejo / Antiguo",
+    "ex": "中古=Segunda mano | 古本=Libro usado | 古代=Antigüedad"
   },
   {
     "lvl": "N5",
-    "k": "長",
-    "r": "チョウ / なが・い",
-    "s": "Largo, líder",
-    "ex": "長い=Largo | 社長=Presidente de empresa | 学校長=Director escolar"
+    "k": "多",
+    "r": "タ / おお・い",
+    "s": "Mucho",
+    "ex": "多分=Tal vez | 多数=Gran número | 多忙=Muy ocupado"
   },
   {
     "lvl": "N5",
-    "k": "半",
-    "r": "ハン / なか・ば",
-    "s": "Mitad",
-    "ex": "半分=Mitad | 半日=Medio día | 半年=Seis meses"
+    "k": "少",
+    "r": "ショウ / すこ・し",
+    "s": "Poco / Escaso",
+    "ex": "少し=Un poco | 少ない=Pocos | 少年=Muchacho"
   },
   {
     "lvl": "N5",
-    "k": "分",
-    "r": "フン, ブン / わ・ける, わ・かる",
-    "s": "Minuto, parte, entender",
-    "ex": "分=Minuto, entender | 半分=Mitad | 自分=Uno mismo"
+    "k": "早",
+    "r": "ソウ / はや・い",
+    "s": "Rápido / Temprano",
+    "ex": "早朝=Temprano en la mañana | 早口=Hablar rápido | 早速=Inmediatamente"
   },
   {
     "lvl": "N5",
-    "k": "前",
-    "r": "ゼン / まえ",
-    "s": "Delante, antes",
-    "ex": "前=Delante | 名前=Nombre | 午前=Mañana (antes del mediodía)"
+    "k": "行",
+    "r": "コウ / い・く",
+    "s": "Ir / Fila",
+    "ex": "銀行=Banco | 旅行=Viaje | 行事=Evento"
   },
   {
     "lvl": "N5",
-    "k": "後",
-    "r": "ゴ / うし・ろ, あと",
-    "s": "Detrás, después",
-    "ex": "後ろ=Detrás | 午後=Tarde (después del mediodía) | 最後=Último"
+    "k": "来",
+    "r": "ライ / く・る",
+    "s": "Venir",
+    "ex": "来週=Semana que viene | 来月=Mes que viene | 未来=Futuro"
   },
   {
     "lvl": "N5",
-    "k": "上",
-    "r": "ジョウ / うえ, あ・がる",
-    "s": "Arriba, encima",
-    "ex": "上=Arriba, encima | 上がる=Subir | 上手=Hábil"
+    "k": "食",
+    "r": "ショク / た・べる",
+    "s": "Comer / Comida",
+    "ex": "食事=Comida | 食べ物=Alimentos | 食堂=Comedor"
   },
   {
     "lvl": "N5",
-    "k": "下",
-    "r": "カ, ゲ / した, さ・がる",
-    "s": "Abajo, debajo",
-    "ex": "下=Abajo, debajo | 下がる=Bajar | 下手=Torpe, no hábil"
+    "k": "飲",
+    "r": "イン / の・む",
+    "s": "Beber",
+    "ex": "飲み物=Bebida | 飲食店=Restaurante | 飲酒=Beber alcohol"
   },
   {
     "lvl": "N5",
-    "k": "中",
-    "r": "チュウ / なか",
-    "s": "Dentro, medio",
-    "ex": "中=Dentro | 中国=China | 中学生=Estudiante de secundaria"
+    "k": "見",
+    "r": "ケン / み・る",
+    "s": "Ver / Mirar",
+    "ex": "見物=Turismo | 意見=Opinión | 見本=Muestra"
   },
   {
     "lvl": "N5",
-    "k": "外",
-    "r": "ガイ / そと, はず・す",
-    "s": "Fuera, exterior",
-    "ex": "外=Fuera | 外国=País extranjero | 外国人=Extranjero"
+    "k": "聞",
+    "r": "ブン / き・く",
+    "s": "Oír / Escuchar",
+    "ex": "新聞=Periódico | 聞き取り=Comprensión auditiva | 伝聞=Rumor"
   },
   {
     "lvl": "N5",
-    "k": "北",
-    "r": "ホク / きた",
-    "s": "Norte",
-    "ex": "北=Norte | 北風=Viento del norte | 北部=Parte norte"
+    "k": "読",
+    "r": "ドク / よ・む",
+    "s": "Leer",
+    "ex": "読書=Lectura | 読み方=Forma de leer | 読者=Lector"
   },
   {
     "lvl": "N5",
-    "k": "南",
-    "r": "ナン / みなみ",
-    "s": "Sur",
-    "ex": "Sur=Sur | 南風=Viento del sur | 南部=Parte sur"
+    "k": "書",
+    "r": "ショ / か・く",
+    "s": "Escribir",
+    "ex": "辞書=Diccionario | 書類=Documentos | 教科書=Libro de texto"
+  },
+  {
+    "lvl": "N5",
+    "k": "話",
+    "r": "ワ / はな・す",
+    "s": "Hablar",
+    "ex": "電話=Teléfono | 会話=Conversación | 世話=Cuidado"
+  },
+  {
+    "lvl": "N5",
+    "k": "言",
+    "r": "ゲン / い・う",
+    "s": "Decir",
+    "ex": "一言=Una palabra | 言語=Idioma | 伝言=Recado"
+  },
+  {
+    "lvl": "N5",
+    "k": "買",
+    "r": "バイ / か・う",
+    "s": "Comprar",
+    "ex": "買い物=Compras | 売買=Compraventa | 買収=Adquisición"
+  },
+  {
+    "lvl": "N5",
+    "k": "立",
+    "r": "リツ / た・つ",
+    "s": "Estar de pie / Establecer",
+    "ex": "国立=Nacional | 自立=Independencia | 私立=Privado"
+  },
+  {
+    "lvl": "N5",
+    "k": "休",
+    "r": "キュウ / やす・む",
+    "s": "Descansar",
+    "ex": "休日=Día libre | 夏休み=Vacaciones de verano | 休憩=Descanso"
+  },
+  {
+    "lvl": "N5",
+    "k": "入",
+    "r": "ニュウ / はい・る",
+    "s": "Entrar / Meter",
+    "ex": "入口=Entrada | 入学=Ingreso escolar | 入院=Hospitalización"
+  },
+  {
+    "lvl": "N5",
+    "k": "出",
+    "r": "シュツ / で・る",
+    "s": "Salir",
+    "ex": "出口=Salida | 出席=Asistencia | 出発=Salida (partida)"
+  },
+  {
+    "lvl": "N5",
+    "k": "名",
+    "r": "メイ / な",
+    "s": "Nombre",
+    "ex": "名前=Nombre | 有名=Famoso | 名刺=Tarjeta de visita"
+  },
+  {
+    "lvl": "N5",
+    "k": "白",
+    "r": "ハク / しろ・い",
+    "s": "Blanco",
+    "ex": "白紙=Papel en blanco | 明白=Obvio | 白髪=Canas"
+  },
+  {
+    "lvl": "N5",
+    "k": "赤",
+    "r": "セキ / あか・い",
+    "s": "Rojo",
+    "ex": "赤ん坊=Bebé | 赤十字=Cruz Roja | 赤道=Ecuador"
+  },
+  {
+    "lvl": "N5",
+    "k": "青",
+    "r": "セイ / あお・い",
+    "s": "Azul / Verde",
+    "ex": "青年=Joven | 青空=Cielo azul | 信号が青=Semáforo en verde"
+  },
+  {
+    "lvl": "N5",
+    "k": "黒",
+    "r": "コク / くろ・い",
+    "s": "Negro",
+    "ex": "黒板=Pizarra | 真っ黒=Negro azabache | 黒字=Superávit"
+  },
+  {
+    "lvl": "N5",
+    "k": "雨",
+    "r": "ウ / あめ",
+    "s": "Lluvia",
+    "ex": "大雨=Lluvia fuerte | 雨天=Tiempo lluvioso | 雨具=Equipo de lluvia"
+  },
+  {
+    "lvl": "N5",
+    "k": "電",
+    "r": "デン",
+    "s": "Electricidad",
+    "ex": "電車=Tren | 電話=Teléfono | 電気=Electricidad / Luz"
+  },
+  {
+    "lvl": "N5",
+    "k": "天",
+    "r": "テン / あめ",
+    "s": "Cielo / Paraíso",
+    "ex": "天気=Clima | 天才=Genio | 天国=Paraíso"
+  },
+  {
+    "lvl": "N5",
+    "k": "気",
+    "r": "キ",
+    "s": "Espíritu / Aire / Energía",
+    "ex": "元気=Salud / Energía | 空気=Aire | 気分=Estado de ánimo"
+  },
+  {
+    "lvl": "N5",
+    "k": "空",
+    "r": "クウ / そら",
+    "s": "Cielo / Vacío",
+    "ex": "空港=Aeropuerto | 空気=Aire | 空手=Karate"
+  },
+  {
+    "lvl": "N5",
+    "k": "車",
+    "r": "シャ / くるま",
+    "s": "Coche / Vehículo",
+    "ex": "自転車=Bicicleta | 電車=Tren | 駐車場=Aparcamiento"
+  },
+  {
+    "lvl": "N5",
+    "k": "門",
+    "r": "モン / かど",
+    "s": "Puerta / Portón",
+    "ex": "正門=Puerta principal | 部門=Departamento | 専門=Especialidad"
+  },
+  {
+    "lvl": "N5",
+    "k": "間",
+    "r": "カン / あいだ",
+    "s": "Intervalo / Entre",
+    "ex": "時間=Tiempo | 間に合う=Llegar a tiempo | 仲間=Compañero"
   },
   {
     "lvl": "N5",
     "k": "東",
     "r": "トウ / ひがし",
-    "s": "Este",
-    "ex": "Este=Este | 東風=Viento del este | 東部=Parte este"
+    "s": "Este (punto cardinal)",
+    "ex": "東京=Tokio | 東口=Salida este | 中東=Oriente medio"
   },
   {
     "lvl": "N5",
     "k": "西",
     "r": "セイ / にし",
     "s": "Oeste",
-    "ex": "Oeste=Oeste | 西風=Viento del oeste | 西部=Parte oeste"
+    "ex": "西洋=Occidente | 西口=Salida oeste | 関西=Kansai"
+  },
+  {
+    "lvl": "N5",
+    "k": "南",
+    "r": "ナン / みなみ",
+    "s": "Sur",
+    "ex": "南極=Polo Sur | 南口=Salida sur | 東南アジア=Sudeste asiático"
+  },
+  {
+    "lvl": "N5",
+    "k": "北",
+    "r": "ホク / きた",
+    "s": "Norte",
+    "ex": "北海道=Hokkaido | 北極=Polo Norte | 北口=Salida norte"
+  },
+  {
+    "lvl": "N5",
+    "k": "店",
+    "r": "テン / みせ",
+    "s": "Tienda",
+    "ex": "喫茶店=Cafetería | 店員=Dependiente | 売店=Puesto de venta"
+  },
+  {
+    "lvl": "N5",
+    "k": "駅",
+    "r": "エキ",
+    "s": "Estación",
+    "ex": "駅前=Frente a la estación | 駅員=Empleado de estación | 駅弁=Bento de estación"
+  },
+  {
+    "lvl": "N5",
+    "k": "社",
+    "r": "シャ / やしろ",
+    "s": "Compañía / Santuario",
+    "ex": "会社=Empresa | 社会=Sociedad | 神社=Santuario Shinto"
+  },
+  {
+    "lvl": "N5",
+    "k": "国",
+    "r": "コク / くに",
+    "s": "País",
+    "ex": "外国人=Extranjero | 中国=China | 国会=Parlamento"
+  },
+  {
+    "lvl": "N5",
+    "k": "道",
+    "r": "ドウ / みち",
+    "s": "Camino",
+    "ex": "柔道=Judo | 道具=Herramienta | 水道=Agua corriente"
+  },
+  {
+    "lvl": "N5",
+    "k": "花",
+    "r": "カ / はな",
+    "s": "Flor",
+    "ex": "花火=Fuegos artificiales | 花瓶=Florero | 生け花=Ikebana"
+  },
+  {
+    "lvl": "N5",
+    "k": "半",
+    "r": "ハン / なか・ば",
+    "s": "Mitad",
+    "ex": "三時半=Tres y media | 半分=La mitad | 半年=Medio año"
+  },
+  {
+    "lvl": "N5",
+    "k": "分",
+    "r": "フン / わ・かる",
+    "s": "Minuto / Parte / Entender",
+    "ex": "五分=Cinco minutos | 半分=La mitad | 自分=Uno mismo"
+  },
+  {
+    "lvl": "N5",
+    "k": "時",
+    "r": "ジ / とき",
+    "s": "Hora / Tiempo",
+    "ex": "時計=Reloj | 時間=Tiempo | 同時=Al mismo tiempo"
+  },
+  {
+    "lvl": "N5",
+    "k": "週",
+    "r": "シュウ",
+    "s": "Semana",
+    "ex": "来週=Semana que viene | 先週=Semana pasada | 一週間=Una semana"
+  },
+  {
+    "lvl": "N5",
+    "k": "年",
+    "r": "ネン / とし",
+    "s": "Año",
+    "ex": "去年=Año pasado | 今年=Este año | 来年=Año que viene"
+  },
+  {
+    "lvl": "N5",
+    "k": "今",
+    "r": "コン / いま",
+    "s": "Ahora",
+    "ex": "今日=Hoy | 今月=Este mes | 今年=Este año"
+  },
+  {
+    "lvl": "N5",
+    "k": "足",
+    "r": "ソク / あし",
+    "s": "Pie / Pierna",
+    "ex": "遠足=Excursión | 不足=Escasez | 一足=Un par (de zapatos)"
+  },
+  {
+    "lvl": "N5",
+    "k": "目",
+    "r": "モク / め",
+    "s": "Ojo",
+    "ex": "目的=Objetivo | 目次=Índice | 目上=Superior (rango)"
+  },
+  {
+    "lvl": "N5",
+    "k": "口",
+    "r": "コウ / くち",
+    "s": "Boca",
+    "ex": "入口=Entrada | 出口=Salida | 人口=Población"
+  },
+  {
+    "lvl": "N5",
+    "k": "耳",
+    "r": "ジ / みみ",
+    "s": "Oreja / Oído",
+    "ex": "耳鼻科=Otorrinolaringología | 初耳=Oír por primera vez | 木耳=Hongo oreja de madera"
+  },
+  {
+    "lvl": "N5",
+    "k": "手",
+    "r": "シュ / て",
+    "s": "Mano",
+    "ex": "下手=Poco habilidoso | 上手=Habilidoso | 手紙=Carta"
+  },
+  {
+    "lvl": "N5",
+    "k": "魚",
+    "r": "ギョ / さかな",
+    "s": "Pescado",
+    "ex": "金魚=Pez de colores | 焼き魚=Pescado asado | 鮮魚=Pescado fresco"
   }
 ]
