@@ -841,6 +841,20 @@
   },
   {
     "lvl": "N2",
+    "k": "曜",
+    "r": "ヨウ",
+    "s": "Día de la semana",
+    "ex": "月曜日=Lunes | 何曜日=¿Qué día de la semana? | 七曜=Los siete días/astros"
+  },
+  {
+    "lvl": "N2",
+    "k": "等",
+    "r": "トウ / ひと・しい / など",
+    "s": "Igual / Grado / Etcétera",
+    "ex": "平等=Igualdad | 高等学校=Escuela secundaria | 一等賞=Primer premio"
+  },
+  {
+    "lvl": "N2",
     "k": "墓",
     "r": "ボ / はか",
     "s": "Grave / Cementerio",
