@@ -442,13 +442,6 @@
   },
   {
     "lvl": "N3",
-    "k": "政",
-    "r": "セイ / まつりごと",
-    "s": "Asuntos de estado",
-    "ex": "政治家=Político | 行政=Administración | 摂政=Regente"
-  },
-  {
-    "lvl": "N3",
     "k": "府",
     "r": "フ",
     "s": "Gobierno / Prefectura urbana",
@@ -540,13 +533,6 @@
   },
   {
     "lvl": "N3",
-    "k": "辞",
-    "r": "ジ / や・める",
-    "s": "Renunciar / Dimisión",
-    "ex": "辞職=Dimisión | 祝辞=Discurso de felicitación | 辞める=Renunciar"
-  },
-  {
-    "lvl": "N3",
     "k": "録",
     "r": "ロク",
     "s": "Registro / Grabar",
@@ -572,13 +558,6 @@
     "r": "キョウ / ひび・く",
     "s": "Resonar / Influir",
     "ex": "影響=Influencia | 反響=Eco/Reacción | 交響曲=Sinfonía"
-  },
-  {
-    "lvl": "N3",
-    "k": "願",
-    "r": "ガン / ねが・う",
-    "s": "Plegaria / Deseo",
-    "ex": "願書=Solicitud | 念願=Deseo ardiente | 願い事=Deseo/Petición"
   },
   {
     "lvl": "N3",
@@ -614,13 +593,6 @@
     "r": "とど・ける",
     "s": "Entregar / Alcanzar",
     "ex": "届け出=Notificación | 届く=Llegar | 送り届ける=Entregar"
-  },
-  {
-    "lvl": "N3",
-    "k": "録",
-    "r": "ロク",
-    "s": "Grabar / Documentar",
-    "ex": "録画=Grabación de video | 目録=Catálogo | 付録=Apéndice"
   },
   {
     "lvl": "N3",
