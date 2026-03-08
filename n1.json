@@ -3822,6 +3822,13 @@
     "ex": "陶器=Cerámica | 陶酔=Embriaguez/Éxtasis | 陶冶=Cultivar el carácter"
   },
   {
+  "lvl": "N1",
+  "k": "桜",
+  "r": "オウ / さくら",
+  "s": "Cerezo / Flor de cerezo",
+  "ex": "桜=Flor de cerezo | 桜色=Rosa cerezo | 夜桜=Ver los cerezos de noche"
+  },
+  {
     "lvl": "N1",
     "k": "隆",
     "r": "リュウ",
