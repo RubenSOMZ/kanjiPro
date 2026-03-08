@@ -5846,6 +5846,48 @@
   },
   {
     "lvl": "N1",
+    "k": "棋",
+    "r": "キ / ご",
+    "s": "Pieza de ajedrez / Shogi",
+    "ex": "将棋=Shogi (ajedrez japonés) | 棋士=Jugador profesional | 棋譜=Registro de partida"
+  },
+  {
+    "lvl": "N1",
+    "k": "菊",
+    "r": "キク",
+    "s": "Crisantemo",
+    "ex": "菊の紋章=Escudo del crisantemo | 野菊=Crisantemo silvestre | 菊花=Flor del crisantemo"
+  },
+  {
+    "lvl": "N1",
+    "k": "吉",
+    "r": "キチ / キツ / よ・い",
+    "s": "Buena suerte / Fortuna",
+    "ex": "不吉=Mala suerte | 大吉=Excelente suerte | 吉報=Buenas noticias"
+  },
+  {
+    "lvl": "N1",
+    "k": "吟",
+    "r": "ギン",
+    "s": "Recitar / Cantar / Seleccionar",
+    "ex": "吟味=Examen minucioso | 詩吟=Recitación de poemas | 吟遊詩人=Trovador"
+  },
+  {
+    "lvl": "N1",
+    "k": "紅",
+    "r": "コウ / く / べに / あか・い",
+    "s": "Carmesí / Rojo intenso",
+    "ex": "紅葉=Follaje de otoño (Momiji) | 口紅=Lápiz labial | 紅茶=Té negro"
+  },
+  {
+    "lvl": "N1",
+    "k": "巧",
+    "r": "コウ / たく・み",
+    "s": "Hábil / Diestro",
+    "ex": "巧妙=Ingenioso/Hábil | 精巧=Exquisito/Preciso | 巧みな技=Técnica hábil"
+  }
+  {
+    "lvl": "N1",
     "k": "喘",
     "r": "ゼン / あえ・ぐ",
     "s": "Jadear / Asma",
