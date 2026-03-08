@@ -29,13 +29,6 @@
   },
   {
     "lvl": "N4",
-    "k": "社",
-    "r": "シャ / やしろ",
-    "s": "Compañía / Santuario",
-    "ex": "本社=Sede central | 社長=Presidente de empresa | 社会=Sociedad"
-  },
-  {
-    "lvl": "N4",
     "k": "発",
     "r": "ハツ / た・つ",
     "s": "Salida / Emitir",
@@ -71,13 +64,6 @@
   },
   {
     "lvl": "N4",
-    "k": "新",
-    "r": "シン / あたら・しい",
-    "s": "Nuevo",
-    "ex": "新年=Año nuevo | 新幹線=Tren bala | 新聞=Periódico"
-  },
-  {
-    "lvl": "N4",
     "k": "場",
     "r": "ジョウ / ば",
     "s": "Lugar",
@@ -92,24 +78,10 @@
   },
   {
     "lvl": "N4",
-    "k": "立",
-    "r": "リツ / た・つ",
-    "s": "Estar de pie / Establecer",
-    "ex": "国立=Nacional | 建立=Construcción (templo) | 独立=Independencia"
-  },
-  {
-    "lvl": "N4",
     "k": "開",
     "r": "カイ / あ・ける",
     "s": "Abrir",
     "ex": "開始=Inicio | 開会=Apertura de reunión | 開ける=Abrir (puerta)"
-  },
-  {
-    "lvl": "N4",
-    "k": "手",
-    "r": "シュ / て",
-    "s": "Mano",
-    "ex": "歌手=Cantante | 運転手=Conductor | 手紙=Carta"
   },
   {
     "lvl": "N4",
@@ -155,24 +127,10 @@
   },
   {
     "lvl": "N4",
-    "k": "目",
-    "r": "モク / め",
-    "s": "Ojo / Ítem",
-    "ex": "目的=Objetivo | 目次=Índice | 注目=Atención"
-  },
-  {
-    "lvl": "N4",
     "k": "通",
     "r": "ツウ / とお・る",
     "s": "Pasar / Circular",
     "ex": "交通=Tráfico | 通学=Ir a la escuela | 通り=Calle"
-  },
-  {
-    "lvl": "N4",
-    "k": "言",
-    "r": "ゲン / い・う",
-    "s": "Decir / Palabra",
-    "ex": "言語=Idioma | 伝言=Recado | 言葉=Palabra"
   },
   {
     "lvl": "N4",
@@ -187,13 +145,6 @@
     "r": "タイ / からだ",
     "s": "Cuerpo",
     "ex": "体力=Resistencia física | 体重=Peso corporal | 体育=Educación física"
-  },
-  {
-    "lvl": "N4",
-    "k": "田",
-    "r": "デン / た",
-    "s": "Campo de arroz",
-    "ex": "水田=Arrozal inundado | 油田=Pozo petrolífero | 田舎=Campo"
   },
   {
     "lvl": "N4",
@@ -302,24 +253,10 @@
   },
   {
     "lvl": "N4",
-    "k": "多",
-    "r": "タ / おお・い",
-    "s": "Mucho",
-    "ex": "多分=Probablemente | 多数=Gran número | 多忙=Muy ocupado"
-  },
-  {
-    "lvl": "N4",
     "k": "正",
     "r": "セイ / ただ・しい",
     "s": "Correcto / Justo",
     "ex": "正月=Año nuevo | 正確=Exacto | 正解=Respuesta correcta"
-  },
-  {
-    "lvl": "N4",
-    "k": "安",
-    "r": "アン / やす・い",
-    "s": "Barato / Tranquilo",
-    "ex": "安心=Tranquilidad | 安全=Seguridad | 不安=Ansiedad"
   },
   {
     "lvl": "N4",
@@ -411,13 +348,6 @@
     "r": "チ / し・る",
     "s": "Saber / Conocer",
     "ex": "知識=Conocimiento | 知人=Conocido | 通知=Notificación"
-  },
-  {
-    "lvl": "N4",
-    "k": "道",
-    "r": "ドウ / みち",
-    "s": "Camino / Vía",
-    "ex": "道路=Carretera | 茶道=Ceremonia del té | 道具=Herramienta"
   },
   {
     "lvl": "N4",
@@ -554,13 +484,6 @@
   },
   {
     "lvl": "N4",
-    "k": "少",
-    "r": "ショウ / すこ・し",
-    "s": "Poco",
-    "ex": "少し=Un poco | 少ない=Pocos | 少年=Muchacho"
-  },
-  {
-    "lvl": "N4",
     "k": "町",
     "r": "チョウ / まち",
     "s": "Pueblo",
@@ -586,13 +509,6 @@
     "r": "ケン / た・てる",
     "s": "Construir",
     "ex": "建物=Edificio | 建設=Construcción | 二階建て=Edificio de dos plantas"
-  },
-  {
-    "lvl": "N4",
-    "k": "空",
-    "r": "クウ / そら",
-    "s": "Vacío / Cielo",
-    "ex": "空気=Aire | 空港=Aeropuerto | 空席=Asiento libre"
   },
   {
     "lvl": "N4",
