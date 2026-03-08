@@ -99,6 +99,20 @@
   },
   {
     "lvl": "N3",
+    "k": "歯",
+    "r": "シ / は",
+    "s": "Diente",
+    "ex": "歯科=Odontología | 虫歯=Caries | 歯車=Engranaje"
+  },
+  {
+    "lvl": "N3",
+    "k": "薬",
+    "r": "ヤク / くすり",
+    "s": "Medicina / Droga",
+    "ex": "薬局=Farmacia | 目薬=Colirio | 薬品=Productos químicos/medicinas"
+  },
+  {
+    "lvl": "N3",
     "k": "震",
     "r": "シン / ふる・える",
     "s": "Temblar / Sacudir",
