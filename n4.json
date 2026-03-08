@@ -1,640 +1,185 @@
 [
   {
     "lvl": "N4",
-    "k": "同",
-    "r": "ドウ / おな・じ",
-    "s": "Igual, mismo",
-    "ex": "同じ=Igual | 同時=Simultáneo | 同じく=Igualmente"
-  },
-  {
-    "lvl": "N4",
-    "k": "広",
-    "r": "コウ / ひろ・い / ひろ・がる",
-    "s": "Ancho, amplio",
-    "ex": "広い=Amplio | 広がる=Extenderse | 広場=Plaza"
-  },
-  {
-    "lvl": "N4",
-    "k": "強",
-    "r": "キョウ / つよ・い / つよ・まる",
-    "s": "Fuerte",
-    "ex": "強い=Fuerte | 強まる=Intensificarse | 勉強=Estudio"
-  },
-  {
-    "lvl": "N4",
-    "k": "悪",
-    "r": "アク / わる・い",
-    "s": "Malo, malvado",
-    "ex": "悪い=Malo | 悪者=Malvado | 悪口=Calumnia"
-  },
-  {
-    "lvl": "N4",
-    "k": "早",
-    "r": "ソウ / はや・い / はや・まる",
-    "s": "Temprano, rápido",
-    "ex": "早い=Temprano | 早まる=Adelantarse | 早朝=Madrugada"
-  },
-  {
-    "lvl": "N4",
-    "k": "明",
-    "r": "メイ / あか・るい / あ・ける",
-    "s": "Claro, brillante",
-    "ex": "明るい=Brillante | 明ける=Amanecer | 明日=Mañana"
-  },
-  {
-    "lvl": "N4",
-    "k": "楽",
-    "r": "ガク / たの・しい / らく",
-    "s": "Agradable, música",
-    "ex": "楽しい=Divertido | 気楽=Despreocupado | 音楽=Música"
-  },
-  {
-    "lvl": "N4",
-    "k": "自",
-    "r": "ジ / みずか・ら",
-    "s": "Uno mismo",
-    "ex": "自分=Uno mismo | 自動=Automático | 自由=Libertad"
-  },
-  {
-    "lvl": "N4",
-    "k": "重",
-    "r": "ジュウ / おも・い / かさ・ねる",
-    "s": "Pesado, importante",
-    "ex": "重い=Pesado | 重ねる=Apilar | 重要=Importante"
-  },
-  {
-    "lvl": "N4",
-    "k": "近",
-    "r": "キン / ちか・い",
-    "s": "Cercano",
-    "ex": "近い=Cerca | 近所=Vecindario | 最近=Recientemente"
-  },
-  {
-    "lvl": "N4",
-    "k": "特",
-    "r": "トク",
-    "s": "Especial",
-    "ex": "特別=Especial | 特に=Especialmente | 特急=Expreso"
-  },
-  {
-    "lvl": "N4",
-    "k": "図",
-    "r": "ズ / はか・る",
-    "s": "Diagrama, plano",
-    "ex": "地図=Mapa | 図書館=Biblioteca | 図る=Planear"
-  },
-  {
-    "lvl": "N4",
-    "k": "字",
-    "r": "ジ",
-    "s": "Carácter, letra",
-    "ex": "漢字=Kanji | 文字=Letra | 数字=Número"
-  },
-  {
-    "lvl": "N4",
-    "k": "文",
-    "r": "ブン / モン",
-    "s": "Oración, texto",
-    "ex": "文章=Texto | 文学=Literatura | 文字=Letra"
-  },
-  {
-    "lvl": "N4",
-    "k": "映",
-    "r": "エイ / うつ・る / は・える",
-    "s": "Reflejar, proyectar",
-    "ex": "映画=Película | 映る=Reflejarse | 上映=Proyección"
-  },
-  {
-    "lvl": "N4",
-    "k": "写",
-    "r": "シャ / うつ・す",
-    "s": "Copiar, fotografiar",
-    "ex": "写真=Foto | 写す=Copiar | 写る=Salir en foto"
-  },
-  {
-    "lvl": "N4",
-    "k": "歌",
-    "r": "カ / うた / うた・う",
-    "s": "Canción, cantar",
-    "ex": "歌=Canción | 歌手=Cantante | 歌う=Cantar"
-  },
-  {
-    "lvl": "N4",
-    "k": "画",
-    "r": "ガ / カク",
-    "s": "Dibujo, pincelada",
-    "ex": "映画=Película | 画家=Pintor | 計画=Plan"
-  },
-  {
-    "lvl": "N4",
-    "k": "紙",
-    "r": "シ / かみ",
-    "s": "Papel",
-    "ex": "紙=Papel | 手紙=Carta | 新聞紙=Periódico"
-  },
-  {
-    "lvl": "N4",
-    "k": "色",
-    "r": "ショク / いろ",
-    "s": "Color",
-    "ex": "色=Color | 色々=Varios | 茶色=Marrón"
-  },
-  {
-    "lvl": "N4",
-    "k": "切",
-    "r": "セツ / き・る / き・れる",
-    "s": "Cortar",
-    "ex": "切る=Cortar | 切れる=Estar afilado | 大切=Importante"
+    "k": "仕",
+    "r": "シ / つか・える",
+    "s": "Servir, hacer",
+    "ex": "仕事=Trabajo | 仕方=Manera, forma | 仕上げ=Acabado"
   },
   {
     "lvl": "N4",
     "k": "事",
     "r": "ジ / こと",
-    "s": "Cosa (abstracta)",
-    "ex": "仕事=Trabajo | 大事=Importante | 火事=Incendio"
+    "s": "Cosa, asunto",
+    "ex": "仕事=Trabajo | 用事=Asunto, quehacer | 火事=Incendio"
   },
   {
     "lvl": "N4",
-    "k": "住",
-    "r": "ジュウ / す・む / す・まう",
-    "s": "Residir, vivir",
-    "ex": "住む=Vivir | 住所=Dirección | 住民=Residente"
+    "k": "業",
+    "r": "ギョウ / わざ",
+    "s": "Negocio, industria",
+    "ex": "授業=Clase, lección | 職業=Profesión | 業務=Asunto de trabajo"
   },
   {
     "lvl": "N4",
-    "k": "使",
-    "r": "シ / つか・う",
-    "s": "Usar, emplear",
-    "ex": "使う=Usar | 使者=Mensajero | 使用=Uso"
+    "k": "職",
+    "r": "ショク",
+    "s": "Empleo, oficio",
+    "ex": "職業=Profesión | 転職=Cambio de trabajo | 職場=Lugar de trabajo"
   },
   {
     "lvl": "N4",
-    "k": "言",
-    "r": "ゲン / い・う / こと",
-    "s": "Decir, palabra",
-    "ex": "言う=Decir | 言葉=Palabra | 言語=Lenguaje"
+    "k": "務",
+    "r": "ム / つと・める",
+    "s": "Tarea, deber",
+    "ex": "事務=Trabajo de oficina | 勤務=Servicio, trabajo | 務める=Desempeñar, servir"
   },
   {
     "lvl": "N4",
-    "k": "帰",
-    "r": "キ / かえ・る / かえ・す",
-    "s": "Regresar",
-    "ex": "帰る=Volver | 帰国=Regreso al país | 帰宅=Volver a casa"
-  },
-  {
-    "lvl": "N4",
-    "k": "始",
-    "r": "シ / はじ・める / はじ・まる",
-    "s": "Empezar",
-    "ex": "始める=Empezar | 始まる=Comenzar | 最初=Principio"
-  },
-  {
-    "lvl": "N4",
-    "k": "持",
-    "r": "ジ / も・つ",
-    "s": "Tener, sostener",
-    "ex": "持つ=Tener | 持ち物=Pertenencias | 持続=Continuación"
-  },
-  {
-    "lvl": "N4",
-    "k": "有",
-    "r": "ユウ / あ・る",
-    "s": "Existir, haber",
-    "ex": "有る=Haber | 有名=Famoso | 所有=Posesión"
-  },
-  {
-    "lvl": "N4",
-    "k": "服",
-    "r": "フク",
-    "s": "Ropa",
-    "ex": "服=Ropa | 洋服=Prendas occidentales | 服装=Vestimenta"
-  },
-  {
-    "lvl": "N4",
-    "k": "止",
-    "r": "シ / と・まる / と・める",
-    "s": "Parar, detener",
-    "ex": "止まる=Pararse | 止める=Detener | 中止=Suspensión"
-  },
-  {
-    "lvl": "N4",
-    "k": "立",
-    "r": "リツ / た・つ / た・てる",
-    "s": "Levantarse, erguir",
-    "ex": "立つ=Pararse | 立てる=Levantar | 独立=Independencia"
-  },
-  {
-    "lvl": "N4",
-    "k": "歩",
-    "r": "ホ / ある・く / あゆ・む",
-    "s": "Caminar",
-    "ex": "歩く=Caminar | 歩道=Acera | 散歩=Paseo"
-  },
-  {
-    "lvl": "N4",
-    "k": "集",
-    "r": "シュウ / あつ・まる / あつ・める",
-    "s": "Reunir, juntar",
-    "ex": "集まる=Reunirse | 集める=Recolectar | 集合=Reunión"
-  },
-  {
-    "lvl": "N4",
-    "k": "会",
-    "r": "カイ / あ・う",
-    "s": "Encontrarse, reunión",
-    "ex": "会う=Encontrarse | 会社=Empresa | 社会=Sociedad"
-  },
-  {
-    "lvl": "N4",
-    "k": "公",
-    "r": "コウ",
-    "s": "Público, oficial",
-    "ex": "公園=Parque | 会社=Empresa | 公式=Fórmula oficial"
-  },
-  {
-    "lvl": "N4",
-    "k": "開",
-    "r": "カイ / ひら・く / あ・ける",
-    "s": "Abrir",
-    "ex": "開ける=Abrir | 開く=Abrirse | 開始=Inicio"
-  },
-  {
-    "lvl": "N4",
-    "k": "走",
-    "r": "ソウ / はし・る",
-    "s": "Correr",
-    "ex": "走る=Correr | 競走=Carrera | 走行=Conducción"
-  },
-  {
-    "lvl": "N4",
-    "k": "起",
-    "r": "キ / お・きる / お・こす",
-    "s": "Despertar, ocurrir",
-    "ex": "起きる=Despertarse | 起こす=Despertar | 起動=Arranque"
-  },
-  {
-    "lvl": "N4",
-    "k": "質",
-    "r": "シツ / シチ",
-    "s": "Calidad, materia",
-    "ex": "質=Calidad | 質問=Pregunta | 質屋=Casa de empeño"
-  },
-  {
-    "lvl": "N4",
-    "k": "台",
-    "r": "ダイ / タイ",
-    "s": "Plataforma, base",
-    "ex": "台所=Cocina | 台風=Tifón | 台車=Carretilla"
+    "k": "動",
+    "r": "ドウ / うご・く",
+    "s": "Mover, movimiento",
+    "ex": "動く=Moverse | 動物=Animal | 運動=Ejercicio, deporte"
   },
   {
     "lvl": "N4",
     "k": "物",
     "r": "ブツ / もの",
-    "s": "Cosa (física)",
-    "ex": "物=Cosa | 動物=Animal | 食べ物=Comida"
+    "s": "Cosa, objeto",
+    "ex": "動物=Animal | 食べ物=Comida | 飲み物=Bebida"
   },
   {
     "lvl": "N4",
-    "k": "着",
-    "r": "チャク / き・る / つ・く",
-    "s": "Llegar, vestir",
-    "ex": "着る=Vestir | 着く=Llegar | 到着=Llegada"
+    "k": "家",
+    "r": "カ / いえ",
+    "s": "Casa, hogar",
+    "ex": "家族=Familia | 家賃=Alquiler | 作家=Escritor"
   },
   {
     "lvl": "N4",
-    "k": "用",
-    "r": "ヨウ / もち・いる",
-    "s": "Utilizar, asunto",
-    "ex": "用事=Asunto | 用意=Preparación | 使用=Uso"
+    "k": "族",
+    "r": "ゾク",
+    "s": "Familia, tribu",
+    "ex": "家族=Familia | 水族館=Acuario | 親族=Parientes"
   },
   {
     "lvl": "N4",
-    "k": "品",
-    "r": "ヒン / しな",
-    "s": "Producto, artículo",
-    "ex": "品物=Artículo | 商品=Producto | 作品=Obra"
+    "k": "室",
+    "r": "シツ",
+    "s": "Habitación",
+    "ex": "教室=Aula | 会議室=Sala de reuniones | 寝室=Dormitorio"
   },
   {
     "lvl": "N4",
-    "k": "待",
-    "r": "タイ / ま・つ",
-    "s": "Esperar",
-    "ex": "待つ=Esperar | 待合室=Sala de espera | 期待=Expectativa"
+    "k": "館",
+    "r": "カン",
+    "s": "Edificio público",
+    "ex": "図書館=Biblioteca | 大使館=Embajada | 映画館=Cine"
   },
   {
     "lvl": "N4",
-    "k": "力",
-    "r": "リョク / ちから",
-    "s": "Fuerza, poder",
-    "ex": "力=Fuerza | 努力=Esfuerzo | 能力=Habilidad"
+    "k": "駅",
+    "r": "エキ",
+    "s": "Estación",
+    "ex": "駅前=Frente a la estación | 地下鉄の駅=Estación de metro | 駅員=Empleado de estación"
+  },
+  {
+    "lvl": "N4",
+    "k": "院",
+    "r": "イン",
+    "s": "Institución",
+    "ex": "病院=Hospital | 大学院=Escuela de posgrado | 退院=Alta hospitalaria"
+  },
+  {
+    "lvl": "N4",
+    "k": "病",
+    "r": "ビョウ / や・む",
+    "s": "Enfermedad",
+    "ex": "病気=Enfermedad | 病院=Hospital | 病人=Paciente, enfermo"
+  },
+  {
+    "lvl": "N4",
+    "k": "医",
+    "r": "イ",
+    "s": "Médico, medicina",
+    "ex": "医者=Médico | 医学=Medicina | 歯医者=Dentista"
+  },
+  {
+    "lvl": "N4",
+    "k": "者",
+    "r": "シャ / もの",
+    "s": "Persona",
+    "ex": "医者=Médico | 研究者=Investigador | 若者=Gente joven"
+  },
+  {
+    "lvl": "N4",
+    "k": "屋",
+    "r": "オク / や",
+    "s": "Tienda, techo",
+    "ex": "本屋=Librería | 花屋=Florería | 屋上=Azotea"
+  },
+  {
+    "lvl": "N4",
+    "k": "銀",
+    "r": "ギン",
+    "s": "Plata",
+    "ex": "銀行=Banco | 銀色=Plateado | 銀河=Galaxia"
+  },
+  {
+    "lvl": "N4",
+    "k": "旅",
+    "r": "リョ / たび",
+    "s": "Viaje",
+    "ex": "旅行=Viaje | 旅館=Ryokan, posada | 旅先=Destino de viaje"
   },
   {
     "lvl": "N4",
     "k": "理",
     "r": "リ",
     "s": "Razón, lógica",
-    "ex": "理由=Razón | 料理=Cocina | 理解=Comprensión"
+    "ex": "料理=Cocina, cocinar | 理由=Razón | 地理=Geografía"
   },
   {
     "lvl": "N4",
-    "k": "起",
-    "r": "キ / お・きる / お・こす",
-    "s": "Levantarse",
-    "ex": "早起き=Madrugar | 起きる=Despertar | 起こす=Ocurrir"
+    "k": "料",
+    "r": "リョウ",
+    "s": "Material, tarifa",
+    "ex": "料理=Cocina | 材料=Ingredientes | 無料=Gratis"
   },
   {
     "lvl": "N4",
-    "k": "世",
-    "r": "セイ / よ",
-    "s": "Mundo, generación",
-    "ex": "世界=Mundo | 世話=Cuidado | 世紀=Siglo"
+    "k": "教",
+    "r": "キョウ / おし・える",
+    "s": "Enseñar",
+    "ex": "教える=Enseñar | 教師=Profesor | 教室=Aula"
   },
   {
     "lvl": "N4",
-    "k": "界",
-    "r": "カイ",
-    "s": "Mundo, ámbito",
-    "ex": "世界=Mundo | 学界=Círculo académico | 限界=Límite"
+    "k": "室",
+    "r": "シツ",
+    "s": "Habitación",
+    "ex": "教室=Aula | 寝室=Dormitorio | 会議室=Sala de reuniones"
   },
   {
     "lvl": "N4",
-    "k": "知",
-    "r": "チ / し・る",
-    "s": "Saber, conocer",
-    "ex": "知る=Saber | 知らせ=Aviso | 知識=Conocimiento"
+    "k": "習",
+    "r": "シュウ / なら・う",
+    "s": "Aprender",
+    "ex": "習う=Aprender | 練習=Práctica | 習慣=Costumbre"
   },
   {
     "lvl": "N4",
-    "k": "屋",
-    "r": "オク / や",
-    "s": "Tejado, tienda",
-    "ex": "屋上=Terraza | 本屋=Librería | 部屋=Habitación"
+    "k": "勉",
+    "r": "ベン / つと・める",
+    "s": "Esfuerzo",
+    "ex": "勉強=Estudio | 勉学=Estudio, aprendizaje | 勉強家=Persona estudiosa"
   },
   {
     "lvl": "N4",
-    "k": "弟",
-    "r": "テイ / おとうと",
-    "s": "Hermano menor",
-    "ex": "弟=Hermano menor | 兄弟=Hermanos | 弟子=Discípulo"
-  },
-  {
-    "lvl": "N4",
-    "k": "以",
-    "r": "イ",
-    "s": "Por medio de, desde",
-    "ex": "以前=Antes | 以上=Más que | 以下=Menos que"
-  },
-  {
-    "lvl": "N4",
-    "k": "去",
-    "r": "キョ / さ・る",
-    "s": "Irse, pasado",
-    "ex": "去年=Año pasado | 去る=Irse | 過去=Pasado"
-  },
-  {
-    "lvl": "N4",
-    "k": "代",
-    "r": "ダイ / か・わる / よ",
-    "s": "Reemplazar, era",
-    "ex": "代わる=Reemplazar | 時代=Época | 代表=Representante"
-  },
-  {
-    "lvl": "N4",
-    "k": "医",
-    "r": "イ",
-    "s": "Medicina, doctor",
-    "ex": "医者=Doctor | 医学=Medicina | 医院=Clínica"
-  },
-  {
-    "lvl": "N4",
-    "k": "親",
-    "r": "シン / おや / した・しい",
-    "s": "Padres, íntimo",
-    "ex": "親=Padres | 親しい=Cercano | 母親=Madre"
-  },
-  {
-    "lvl": "N4",
-    "k": "死",
-    "r": "シ / し・ぬ",
-    "s": "Muerte, morir",
-    "ex": "死ぬ=Morir | 死亡=Fallecimiento | 死体=Cadáver"
-  },
-  {
-    "lvl": "N4",
-    "k": "通",
-    "r": "ツウ / とお・る / かよ・う",
-    "s": "Pasar, transitar",
-    "ex": "通る=Pasar | 通う=Ir regularmente | 交通=Tráfico"
-  },
-  {
-    "lvl": "N4",
-    "k": "兄",
-    "r": "ケイ / あに",
-    "s": "Hermano mayor",
-    "ex": "兄=Hermano mayor | 兄弟=Hermanos | 父兄=Padres y hermanos"
-  },
-  {
-    "lvl": "N4",
-    "k": "弱",
-    "r": "ジャク / よわ・い",
-    "s": "Débil",
-    "ex": "弱い=Débil | 弱点=Punto débil | 弱まる=Debilitarse"
-  },
-  {
-    "lvl": "N4",
-    "k": "首",
-    "r": "シュ / くび",
-    "s": "Cuello, jefe",
-    "ex": "首=Cuello | 首相=Primer ministro | 首席=Puesto principal"
-  },
-  {
-    "lvl": "N4",
-    "k": "究",
-    "r": "キュウ / きわ・める",
-    "s": "Investigar a fondo",
-    "ex": "研究=Investigación | 究極=Último | 学究=Erudito"
-  },
-  {
-    "lvl": "N4",
-    "k": "借",
-    "r": "シャク / か・りる",
-    "s": "Pedir prestado",
-    "ex": "借りる=Tomar prestado | 借用=Préstamo | 借金=Deuda"
-  },
-  {
-    "lvl": "N4",
-    "k": "牛",
-    "r": "ギュウ / うし",
-    "s": "Vaca, buey",
-    "ex": "牛=Vaca | 牛肉=Carne de res | 牛乳=Leche"
-  },
-  {
-    "lvl": "N4",
-    "k": "花",
-    "r": "カ / はな",
-    "s": "Flor",
-    "ex": "花=Flor | 花見=Ver flores | 花火=Fuegos artificiales"
-  },
-  {
-    "lvl": "N4",
-    "k": "京",
-    "r": "キョウ / みやこ",
-    "s": "Capital",
-    "ex": "東京=Tokio | 京都=Kioto | 京子=Kyoko (nombre)"
-  },
-  {
-    "lvl": "N4",
-    "k": "夕",
-    "r": "セキ / ゆう",
-    "s": "Tarde, atardecer",
-    "ex": "夕方=Atardecer | 夕飯=Cena | 夕日=Sol de la tarde"
-  },
-  {
-    "lvl": "N4",
-    "k": "方",
-    "r": "ホウ / かた",
-    "s": "Dirección, persona",
-    "ex": "方=Dirección | 方法=Método | 相手=Compañero"
-  },
-  {
-    "lvl": "N4",
-    "k": "目",
-    "r": "モク / め",
-    "s": "Ojo",
-    "ex": "目=Ojo | 目的=Objetivo | 目上=Superior"
-  },
-  {
-    "lvl": "N4",
-    "k": "堂",
-    "r": "ドウ",
-    "s": "Salón, templo",
-    "ex": "食堂=Comedor | 堂々=Majestuoso | 本堂=Salón principal"
-  },
-  {
-    "lvl": "N4",
-    "k": "多",
-    "r": "タ / おお・い",
-    "s": "Mucho",
-    "ex": "多い=Muchos | 多分=Quizás | 多様=Diverso"
-  },
-  {
-    "lvl": "N4",
-    "k": "研",
-    "r": "ケン / と・ぐ",
-    "s": "Pulir, estudiar",
-    "ex": "研究=Investigación | 研修=Entrenamiento | 研ぐ=Afilar"
-  },
-  {
-    "lvl": "N4",
-    "k": "真",
-    "r": "シン / ま",
-    "s": "Verdad, real",
-    "ex": "本当=Verdad | 真実=Verdad | 真面目=Serio"
-  },
-  {
-    "lvl": "N4",
-    "k": "度",
-    "r": "ド / たび",
-    "s": "Grado, vez",
-    "ex": "毎度=Cada vez | 温度=Temperatura | 度々=Repetidamente"
-  },
-  {
-    "lvl": "N4",
-    "k": "買",
-    "r": "バイ / か・う",
-    "s": "Comprar",
-    "ex": "買う=Comprar | 買い物=Compras | 購入=Compra"
-  },
-  {
-    "lvl": "N4",
-    "k": "漢",
-    "r": "カン",
-    "s": "China, chino",
-    "ex": "漢字=Kanji | 漢方=Medicina china | 漢語=Vocablo chino"
-  },
-  {
-    "lvl": "N4",
-    "k": "茶",
-    "r": "チャ",
-    "s": "Té",
-    "ex": "お茶=Té | 茶色=Marrón | 茶道=Ceremonia del té"
-  },
-  {
-    "lvl": "N4",
-    "k": "心",
-    "r": "シン / こころ",
-    "s": "Corazón, mente",
-    "ex": "心=Corazón | 心理学=Psicología | 安心=Tranquilidad"
-  },
-  {
-    "lvl": "N4",
-    "k": "林",
-    "r": "リン / はやし",
-    "s": "Bosque",
-    "ex": "林=Bosque | 森林=Selva | 林業=Silvicultura"
-  },
-  {
-    "lvl": "N4",
-    "k": "森",
-    "r": "シン / もり",
-    "s": "Bosque espeso",
-    "ex": "森林=Selva | 森=Bosque | 森田=Morita (apellido)"
-  },
-  {
-    "lvl": "N4",
-    "k": "暑",
-    "r": "ショ / あつ・い",
-    "s": "Calor (clima)",
-    "ex": "暑い=Caluroso | 暑中=Verano | 暑さ=Calor"
-  },
-  {
-    "lvl": "N4",
-    "k": "軽",
-    "r": "ケイ / かる・い",
-    "s": "Ligero",
-    "ex": "軽い=Ligero | 気軽=Informal | 軽率=Ligereza"
-  },
-  {
-    "lvl": "N4",
-    "k": "飛",
-    "r": "ヒ / と・ぶ",
-    "s": "Volar",
-    "ex": "飛ぶ=Volar | 飛行機=Avión | 飛躍=Salto"
-  },
-  {
-    "lvl": "N4",
-    "k": "島",
-    "r": "トウ / しま",
-    "s": "Isla",
-    "ex": "島=Isla | 半島=Península | 島国=País insular"
-  },
-  {
-    "lvl": "N4",
-    "k": "横",
-    "r": "オウ / よこ",
-    "s": "Lado, horizontal",
-    "ex": "横=Costado | 横断=Cruce | 横浜=Yokohama"
-  },
-  {
-    "lvl": "N4",
-    "k": "港",
-    "r": "コウ / みなと",
-    "s": "Puerto",
-    "ex": "港=Puerto | 空港=Aeropuerto | 港湾=Puerto"
-  },
-  {
-    "lvl": "N4",
-    "k": "泳",
-    "r": "エイ / およ・ぐ",
-    "s": "Nadar",
-    "ex": "泳ぐ=Nadar | 水泳=Natación | 泳ぎ方=Forma de nadar"
-  },
-  {
-    "lvl": "N4",
-    "k": "運",
-    "r": "ウン / はこ・ぶ",
-    "s": "Transportar, suerte",
-    "ex": "運=Suerte | 運ぶ=Llevar | 運動=Ejercicio"
+    "k": "強",
+    "r": "キョウ / つよ・い",
+    "s": "Fuerte",
+    "ex": "強い=Fuerte | 勉強=Estudio | 力強い=Poderoso"
   },
   {
     "lvl": "N4",
@@ -645,388 +190,507 @@
   },
   {
     "lvl": "N4",
-    "k": "教",
-    "r": "キョウ / おし・える",
-    "s": "Enseñar",
-    "ex": "教える=Enseñar | 教室=Aula | 教育=Educación"
+    "k": "物",
+    "r": "ブツ / もの",
+    "s": "Cosa",
+    "ex": "動物=Animal | 食べ物=Comida | 果物=Fruta"
   },
   {
     "lvl": "N4",
-    "k": "室",
-    "r": "シツ",
-    "s": "Habitación",
-    "ex": "教室=Aula | 寝室=Dormitorio | 室内=Interior"
+    "k": "特",
+    "r": "トク",
+    "s": "Especial",
+    "ex": "特別=Especial | 特に=Especialmente | 特急=Expreso (tren)"
   },
   {
     "lvl": "N4",
-    "k": "階",
-    "r": "カイ",
-    "s": "Piso (edificio)",
-    "ex": "三階=Tercer piso | 階段=Escaleras | 階級=Clase social"
+    "k": "別",
+    "r": "ベツ / わか・れる",
+    "s": "Separar, diferente",
+    "ex": "別れる=Separarse | 特別=Especial | 区別=Distinción"
   },
   {
     "lvl": "N4",
-    "k": "暗",
-    "r": "アン / くら・い",
-    "s": "Oscuro",
-    "ex": "暗い=Oscuro | 暗記=Memorizar | 暗算=Cálculo mental"
+    "k": "送",
+    "r": "ソウ / おく・る",
+    "s": "Enviar",
+    "ex": "送る=Enviar | 放送=Transmisión | 送料=Gastos de envío"
   },
   {
     "lvl": "N4",
-    "k": "細",
-    "r": "サイ / ほそ・い / こま・かい",
-    "s": "Delgado, pequeño",
-    "ex": "細い=Delgado | 細かい=Minúsculo | 詳細=Detalle"
+    "k": "運",
+    "r": "ウン / はこ・ぶ",
+    "s": "Transportar, suerte",
+    "ex": "運ぶ=Transportar | 運転=Conducir | 運命=Destino"
   },
   {
     "lvl": "N4",
-    "k": "太",
-    "r": "タイ / ふと・い / ふと・る",
-    "s": "Grueso, gordo",
-    "ex": "太い=Grueso | 太る=Engordar | 太平洋=Pacífico"
+    "k": "転",
+    "r": "テン / ころ・ぶ",
+    "s": "Girar, rodar",
+    "ex": "転ぶ=Caerse | 運転=Conducción | 回転=Rotación"
   },
   {
     "lvl": "N4",
-    "k": "回",
-    "r": "カイ / まわ・る",
-    "s": "Girar, vez",
-    "ex": "回る=Girar | 一回=Una vez | 回数=Número de veces"
+    "k": "通",
+    "r": "ツウ / とお・る",
+    "s": "Pasar, transitar",
+    "ex": "通る=Pasar | 交通=Tráfico | 通学=Ir a la escuela"
   },
   {
     "lvl": "N4",
-    "k": "当",
-    "r": "トウ / あ・たる",
-    "s": "Acertar, corresponder",
-    "ex": "当たる=Acertar | 本当=Verdad | 担当=Encargado"
+    "k": "歩",
+    "r": "ホ / ある・く",
+    "s": "Caminar",
+    "ex": "歩く=Caminar | 散歩=Paseo | 歩道=Acera"
   },
   {
     "lvl": "N4",
-    "k": "決",
-    "r": "ケツ / き・める / き・まる",
-    "s": "Decidir",
-    "ex": "決める=Decidir | 決まる=Decidirse | 決心=Decisión"
+    "k": "止",
+    "r": "シ / と・まる",
+    "s": "Parar",
+    "ex": "止まる=Pararse | 停止=Alto, parada | 中止=Suspensión"
   },
   {
     "lvl": "N4",
-    "k": "変",
-    "r": "ヘン / か・わる",
-    "s": "Cambiar, extraño",
-    "ex": "変わる=Cambiar | 変=Extraño | 変化=Cambio"
+    "k": "待",
+    "r": "タイ / ま・つ",
+    "s": "Esperar",
+    "ex": "待つ=Esperar | 期待=Expectativa | 待合室=Sala de espera"
   },
   {
     "lvl": "N4",
-    "k": "残",
-    "r": "ザン / のこ・る",
-    "s": "Quedar, sobrar",
-    "ex": "残る=Quedar | 残念=Lástima | 残業=Horas extra"
+    "k": "持",
+    "r": "ジ / も・つ",
+    "s": "Tener, sostener",
+    "ex": "持つ=Tener | 持ち物=Pertenencias | 気持ち=Sentimiento"
   },
   {
     "lvl": "N4",
-    "k": "増",
-    "r": "ゾウ / ふ・える / ふ・やす",
-    "s": "Aumentar",
-    "ex": "増える=Aumentar | 増やす=Incrementar | 増加=Incremento"
+    "k": "借",
+    "r": "シャク / か・りる",
+    "s": "Pedir prestado",
+    "ex": "借りる=Pedir prestado | 借金=Deuda | 賃借=Alquiler"
   },
   {
     "lvl": "N4",
-    "k": "降",
-    "r": "コウ / お・りる / ふ・る",
-    "s": "Descender, llover",
-    "ex": "降りる=Bajarse | 降る=Llover | 降水=Precipitación"
+    "k": "貸",
+    "r": "タイ / か・す",
+    "s": "Prestar",
+    "ex": "貸す=Prestar | 貸し出し=Préstamo | 賃貸=Alquiler"
   },
   {
     "lvl": "N4",
-    "k": "続",
-    "r": "ゾク / つづ・く / つづ・ける",
-    "s": "Continuar",
-    "ex": "続く=Continuar | 続ける=Seguir | 連続=Serie"
+    "k": "起",
+    "r": "キ / お・きる",
+    "s": "Levantarse, ocurrir",
+    "ex": "起きる=Levantarse | 起こす=Despertar | 発生=Ocurrencia"
   },
   {
     "lvl": "N4",
-    "k": "備",
-    "r": "ビ / そな・える",
-    "s": "Preparar, equipar",
-    "ex": "備える=Preparar | 準備=Preparación | 設備=Equipamiento"
+    "k": "寝",
+    "r": "シン / ね・る",
+    "s": "Dormir, acostarse",
+    "ex": "寝る=Dormir | 寝坊=Dormir hasta tarde | 昼寝=Siesta"
   },
   {
     "lvl": "N4",
-    "k": "像",
-    "r": "ゾウ",
-    "s": "Estatua, imagen",
-    "ex": "想像=Imaginación | 画像=Imagen | 肖像=Retrato"
+    "k": "急",
+    "r": "キュウ / いそ・ぐ",
+    "s": "Apuro, prisa",
+    "ex": "急ぐ=Darse prisa | 急に=Repentinamente | 急行=Tren expreso"
   },
   {
     "lvl": "N4",
-    "k": "葉",
-    "r": "ヨウ / は",
-    "s": "Hoja (planta)",
-    "ex": "葉=Hoja | 言葉=Palabra | 落ち葉=Hoja caída"
+    "k": "着",
+    "r": "チャク / き・る",
+    "s": "Vestir, llegar",
+    "ex": "着る=Vestir | 到着=Llegada | 着物=Kimono"
   },
   {
     "lvl": "N4",
-    "k": "様",
-    "r": "ヨウ / さま",
-    "s": "Apariencia, Sr.",
-    "ex": "様=Sr. | 様子=Estado | 同じ様=De la misma manera"
+    "k": "洗",
+    "r": "セン / あら・う",
+    "s": "Lavar",
+    "ex": "洗う=Lavar | 洗濯=Lavandería | 洗顔=Lavado de cara"
   },
   {
     "lvl": "N4",
-    "k": "横",
-    "r": "オウ / よこ",
-    "s": "Lado",
-    "ex": "横=Horizontal | 横断=Cruzar | 横浜=Yokohama"
-  },
-  {
-    "lvl": "N4",
-    "k": "熱",
-    "r": "ネツ / あつ・い",
-    "s": "Calor, fiebre",
-    "ex": "熱=Fiebre | 熱い=Caliente | 熱心=Entusiasta"
-  },
-  {
-    "lvl": "N4",
-    "k": "冷",
-    "r": "レイ / つめ・たい / さ・める",
-    "s": "Frío, enfriar",
-    "ex": "冷たい=Frío | 冷める=Enfriarse | 冷蔵庫=Refrigerador"
-  },
-  {
-    "lvl": "N4",
-    "k": "雪",
-    "r": "セツ / ゆき",
-    "s": "Nieve",
-    "ex": "雪=Nieve | 雪国=País nevado | 大雪=Gran nevada"
-  },
-  {
-    "lvl": "N4",
-    "k": "雲",
-    "r": "ウン / くも",
-    "s": "Nube",
-    "ex": "雲=Nube | 雲行き=Tiempo nublado | 曇り=Nublado"
-  },
-  {
-    "lvl": "N4",
-    "k": "池",
-    "r": "チ / いけ",
-    "s": "Estanque",
-    "ex": "池=Estanque | 電池=Pila | 電池切れ=Pila agotada"
-  },
-  {
-    "lvl": "N4",
-    "k": "湖",
-    "r": "コ / みずうみ",
-    "s": "Lago",
-    "ex": "湖=Lago | 湖水=Agua de lago | 湖畔=Orilla del lago"
-  },
-  {
-    "lvl": "N4",
-    "k": "岩",
-    "r": "ガン / いわ",
-    "s": "Roca",
-    "ex": "岩=Roca | 岩石=Roca | 岩山=Montaña rocosa"
-  },
-  {
-    "lvl": "N4",
-    "k": "石",
-    "r": "セキ / いし",
-    "s": "Piedra",
-    "ex": "石=Piedra | 石鹸=Jabón | 宝石=Gema"
-  },
-  {
-    "lvl": "N4",
-    "k": "川",
-    "r": "セン / かわ",
-    "s": "Río",
-    "ex": "川=Río | 小川=Arroyo | 川口=Boca del río"
-  },
-  {
-    "lvl": "N4",
-    "k": "谷",
-    "r": "コク / たに",
-    "s": "Valle",
-    "ex": "谷=Valle | 谷間=Valle entre montañas | 谷川=Río de montaña"
-  },
-  {
-    "lvl": "N4",
-    "k": "野",
-    "r": "ヤ / の",
-    "s": "Campo, llanura",
-    "ex": "野原=Campo | 野菜=Verdura | 野球=Béisbol"
-  },
-  {
-    "lvl": "N4",
-    "k": "原",
-    "r": "ゲン / はら",
-    "s": "Prado, original",
-    "ex": "原=Campo | 原因=Causa | 原爆=Bomba atómica"
-  },
-  {
-    "lvl": "N4",
-    "k": "戸",
-    "r": "コ / と",
-    "s": "Puerta",
-    "ex": "戸=Puerta | 戸棚=Armario | 戸口=Entrada"
-  },
-  {
-    "lvl": "N4",
-    "k": "窓",
-    "r": "ソウ / まど",
-    "s": "Ventana",
-    "ex": "窓=Ventana | 窓口=Ventanilla | 窓側=Lado de la ventana"
-  },
-  {
-    "lvl": "N4",
-    "k": "箱",
-    "r": "ソウ / はこ",
-    "s": "Caja",
-    "ex": "箱=Caja | 箱根=Hakone | 工具箱=Caja de herramientas"
-  },
-  {
-    "lvl": "N4",
-    "k": "港",
-    "r": "コウ / みなと",
-    "s": "Puerto",
-    "ex": "港=Puerto | 空港=Aeropuerto | 港町=Ciudad portuaria"
-  },
-  {
-    "lvl": "N4",
-    "k": "橋",
-    "r": "キョウ / はし",
-    "s": "Puente",
-    "ex": "橋=Puente | 歩道橋=Puente peatonal | 鉄橋=Puente de hierro"
-  },
-  {
-    "lvl": "N4",
-    "k": "旅",
-    "r": "リョ / たび",
-    "s": "Viaje",
-    "ex": "旅行=Viaje | 旅=Viaje | 旅館=Ryokan"
-  },
-  {
-    "lvl": "N4",
-    "k": "族",
-    "r": "ゾク",
-    "s": "Familia, tribu",
-    "ex": "家族=Familia | 民族=Etnia | 水族館=Acuario"
-  },
-  {
-    "lvl": "N4",
-    "k": "船",
-    "r": "セン / ふね",
-    "s": "Barco",
-    "ex": "船=Barco | 船便=Correo marítimo | 船長=Capitán"
-  },
-  {
-    "lvl": "N4",
-    "k": "機",
-    "r": "キ",
-    "s": "Máquina, oportunidad",
-    "ex": "機会=Oportunidad | 飛行機=Avión | 機械=Máquina"
+    "k": "泊",
+    "r": "ハク / と・まる",
+    "s": "Pernoctar",
+    "ex": "泊まる=Alojarse | 泊り=Estancia | 宿泊=Alojamiento"
   },
   {
     "lvl": "N4",
     "k": "場",
     "r": "ジョウ / ば",
-    "s": "Lugar",
-    "ex": "場所=Lugar | 場合=Caso | 市場=Mercado"
+    "s": "Lugar, sitio",
+    "ex": "場所=Lugar | 場合=Caso, situación | 市場=Mercado"
   },
   {
     "lvl": "N4",
     "k": "所",
     "r": "ショ / ところ",
     "s": "Lugar",
-    "ex": "所=Lugar | 住所=Dirección | 台所=Cocina"
+    "ex": "所=Lugar | 住所=Dirección | 近所=Vecindario"
   },
   {
     "lvl": "N4",
-    "k": "品",
-    "r": "ヒン / しな",
-    "s": "Producto",
-    "ex": "品質=Calidad | 品物=Artículo | 作品=Obra"
+    "k": "公",
+    "r": "コウ / おおやけ",
+    "s": "Público, oficial",
+    "ex": "公園=Parque | 会社=Compañía | 公務員=Funcionario público"
   },
   {
     "lvl": "N4",
-    "k": "銀",
-    "r": "ギン",
-    "s": "Plata",
-    "ex": "銀=Plata | 銀行=Banco | 銀色=Color plata"
+    "k": "園",
+    "r": "エン / その",
+    "s": "Jardín, parque",
+    "ex": "公園=Parque | 動物園=Zoológico | 幼稚園=Jardín de infancia"
   },
   {
     "lvl": "N4",
-    "k": "鉄",
-    "r": "テツ",
-    "s": "Hierro",
-    "ex": "鉄=Hierro | 鉄道=Ferrocarril | 鉄橋=Puente de hierro"
+    "k": "集",
+    "r": "シュウ / あつ・まる",
+    "s": "Reunir, coleccionar",
+    "ex": "集まる=Reunirse | 集める=Recolectar | 集団=Grupo"
   },
   {
     "lvl": "N4",
-    "k": "銅",
-    "r": "ドウ",
-    "s": "Cobre",
-    "ex": "銅=Cobre | 銅像=Estatua de bronce | 銅メダル=Medalla bronce"
+    "k": "切",
+    "r": "セツ / き・る",
+    "s": "Cortar",
+    "ex": "切る=Cortar | 大切=Importante | 切符=Billete, ticket"
   },
   {
     "lvl": "N4",
-    "k": "石",
-    "r": "セキ / いし",
-    "s": "Piedra",
-    "ex": "石鹸=Jabón | 宝石=Gema | 石炭=Carbón"
+    "k": "終",
+    "r": "シュウ / お・わる",
+    "s": "Terminar, final",
+    "ex": "終わる=Terminar | 終わり=Final | 終点=Última parada"
   },
   {
     "lvl": "N4",
-    "k": "玉",
-    "r": "ギョク / たま",
-    "s": "Gema, bola",
-    "ex": "玉=Bola | 目玉=Globo ocular | 宝石=Gema"
+    "k": "始",
+    "r": "シ / はじ・める",
+    "s": "Empezar, comenzar",
+    "ex": "始める=Empezar | 始まる=Comenzar | 最初=Primero, inicio"
   },
   {
     "lvl": "N4",
-    "k": "洋",
-    "r": "ヨウ",
-    "s": "Océano, occidental",
-    "ex": "洋服=Ropa occidental | 洋室=Habitación occidental | 太平洋=Pacífico"
+    "k": "発",
+    "r": "ハツ / た・つ",
+    "s": "Partida, emisión",
+    "ex": "出発=Partida | 発売=Venta al público | 発表=Anuncio"
   },
   {
     "lvl": "N4",
-    "k": "服",
-    "r": "フク",
-    "s": "Ropa",
-    "ex": "洋服=Ropa occidental | 和服=Ropa japonesa | 服装=Vestimenta"
+    "k": "着",
+    "r": "チャク / つ・く",
+    "s": "Llegar, vestir",
+    "ex": "着く=Llegar | 到着=Llegada | 着替え=Cambio de ropa"
   },
   {
     "lvl": "N4",
-    "k": "牛",
-    "r": "ギュウ / うし",
-    "s": "Vaca",
-    "ex": "牛肉=Carne de res | 牛乳=Leche | 子牛=Ternero"
+    "k": "考",
+    "r": "コウ / かんが・える",
+    "s": "Pensar, considerar",
+    "ex": "考える=Pensar | 考え=Idea, pensamiento | 参考=Referencia"
   },
   {
     "lvl": "N4",
-    "k": "馬",
-    "r": "バ / うま",
-    "s": "Caballo",
-    "ex": "馬=Caballo | 馬車=Calesa | 馬力=Caballo de fuerza"
+    "k": "思",
+    "r": "シ / おも・う",
+    "s": "Pensar, creer",
+    "ex": "思う=Pensar | 思い出=Recuerdo | 思想=Pensamiento"
   },
   {
     "lvl": "N4",
-    "k": "魚",
-    "r": "ギョ / さかな",
-    "s": "Pescado",
-    "ex": "魚屋=Pescadería | 金魚=Pez dorado | 魚介=Mariscos"
+    "k": "知",
+    "r": "チ / し・る",
+    "s": "Saber, conocer",
+    "ex": "知る=Saber | 知らせ=Aviso | 知識=Conocimiento"
+  },
+  {
+    "lvl": "N4",
+    "k": "多",
+    "r": "タ / おお・い",
+    "s": "Mucho, numeroso",
+    "ex": "多い=Muchos | 多分=Quizás | 多様=Diverso"
+  },
+  {
+    "lvl": "N4",
+    "k": "少",
+    "r": "ショウ / すく・ない",
+    "s": "Poco",
+    "ex": "少ない=Poco | 少し=Un poco | 少数=Minoría"
+  },
+  {
+    "lvl": "N4",
+    "k": "同",
+    "r": "ドウ / おな・じ",
+    "s": "Mismo, igual",
+    "ex": "同じ=Igual | 同時=Simultáneo | 同意=Consentimiento"
+  },
+  {
+    "lvl": "N4",
+    "k": "以",
+    "r": "イ",
+    "s": "Desde, más de",
+    "ex": "以上=Más de | 以下=Menos de | 以内=Dentro de"
+  },
+  {
+    "lvl": "N4",
+    "k": "前",
+    "r": "ゼン / まえ",
+    "s": "Delante, antes",
+    "ex": "前=Delante | 名前=Nombre | 午前=Mañana"
+  },
+  {
+    "lvl": "N4",
+    "k": "後",
+    "r": "ゴ / うし・ろ",
+    "s": "Detrás, después",
+    "ex": "後ろ=Detrás | 午後=Tarde | 最後=Último"
+  },
+  {
+    "lvl": "N4",
+    "k": "左",
+    "r": "サ / ひだり",
+    "s": "Izquierda",
+    "ex": "左=Izquierda | 左側=Lado izquierdo | 左利き=Zurdo"
+  },
+  {
+    "lvl": "N4",
+    "k": "右",
+    "r": "ユウ / みぎ",
+    "s": "Derecha",
+    "ex": "右=Derecha | 右側=Lado derecho | 右利き=Diestro"
+  },
+  {
+    "lvl": "N4",
+    "k": "悪",
+    "r": "アク / わる・い",
+    "s": "Malo",
+    "ex": "悪い=Malo | 悪者=Malvado | 悪口=Insulto"
+  },
+  {
+    "lvl": "N4",
+    "k": "安",
+    "r": "アン / やす・い",
+    "s": "Barato, tranquilo",
+    "ex": "安い=Barato | 安全=Seguridad | 安心=Tranquilidad"
+  },
+  {
+    "lvl": "N4",
+    "k": "軽",
+    "r": "ケイ / かる・い",
+    "s": "Ligero",
+    "ex": "軽い=Ligero | 気軽=Cómodo, informal | 軽減=Reducción"
+  },
+  {
+    "lvl": "N4",
+    "k": "重",
+    "r": "ジュウ / おも・い",
+    "s": "Pesado, importante",
+    "ex": "重い=Pesado | 重要=Importante | 体重=Peso corporal"
+  },
+  {
+    "lvl": "N4",
+    "k": "近",
+    "r": "キン / ちか・い",
+    "s": "Cerca",
+    "ex": "近い=Cerca | 最近=Recientemente | 近所=Vecindario"
+  },
+  {
+    "lvl": "N4",
+    "k": "遠",
+    "r": "エン / とお・い",
+    "s": "Lejos",
+    "ex": "遠い=Lejos | 遠足=Excursión | 遠慮=Reserva, modestia"
+  },
+  {
+    "lvl": "N4",
+    "k": "早",
+    "r": "ソウ / はや・い",
+    "s": "Temprano, rápido",
+    "ex": "早い=Temprano | 早朝=Madrugada | 早急=Urgente"
+  },
+  {
+    "lvl": "N4",
+    "k": "遅",
+    "r": "チ / おく・れる",
+    "s": "Tarde, lento",
+    "ex": "遅れる=Llegar tarde | 遅い=Tardío | 遅刻=Retraso"
+  },
+  {
+    "lvl": "N4",
+    "k": "明",
+    "r": "メイ / あか・るい",
+    "s": "Claro, brillante",
+    "ex": "明るい=Brillante | 明日=Mañana | 説明=Explicación"
+  },
+  {
+    "lvl": "N4",
+    "k": "暗",
+    "r": "アン / くら・い",
+    "s": "Oscuro",
+    "ex": "暗い=Oscuro | 暗記=Memorización | 暗号=Código secreto"
+  },
+  {
+    "lvl": "N4",
+    "k": "太",
+    "r": "タイ / ふと・い",
+    "s": "Gordo, grueso",
+    "ex": "太い=Grueso | 太る=Engordar | 太極拳=Tai Chi"
+  },
+  {
+    "lvl": "N4",
+    "k": "細",
+    "r": "サイ / ほそ・い",
+    "s": "Delgado, fino",
+    "ex": "細い=Delgado | 細かい=Pequeño | 詳細=Detalle"
+  },
+  {
+    "lvl": "N4",
+    "k": "心",
+    "r": "シン / こころ",
+    "s": "Corazón, mente",
+    "ex": "心=Corazón | 心配=Preocupación | 安心=Tranquilidad"
+  },
+  {
+    "lvl": "N4",
+    "k": "声",
+    "r": "セイ / こえ",
+    "s": "Voz",
+    "ex": "声=Voz | 大声=Grito | 声優=Actor de voz"
+  },
+  {
+    "lvl": "N4",
+    "k": "音",
+    "r": "オン / おと",
+    "s": "Sonido",
+    "ex": "音=Sonido | 音楽=Música | 音読=Lectura en voz alta"
+  },
+  {
+    "lvl": "N4",
+    "k": "楽",
+    "r": "ガク / たの・しい",
+    "s": "Música, diversión",
+    "ex": "楽しい=Divertido | 音楽=Música | 楽器=Instrumento musical"
+  },
+  {
+    "lvl": "N4",
+    "k": "歌",
+    "r": "カ / うた",
+    "s": "Canción, cantar",
+    "ex": "歌=Canción | 歌う=Cantar | 歌手=Cantante"
+  },
+  {
+    "lvl": "N4",
+    "k": "春",
+    "r": "シュン / はる",
+    "s": "Primavera",
+    "ex": "春=Primavera | 春休み=Vacaciones de primavera | 春分=Equinoccio"
+  },
+  {
+    "lvl": "N4",
+    "k": "夏",
+    "r": "カ / なつ",
+    "s": "Verano",
+    "ex": "夏=Verano | 夏休み=Vacaciones de verano | 真夏=Pleno verano"
+  },
+  {
+    "lvl": "N4",
+    "k": "秋",
+    "r": "シュウ / あき",
+    "s": "Otoño",
+    "ex": "秋=Otoño | 秋分=Equinoccio | 春秋=Primavera y otoño"
+  },
+  {
+    "lvl": "N4",
+    "k": "冬",
+    "r": "トウ / ふゆ",
+    "s": "Invierno",
+    "ex": "冬=Invierno | 冬休み=Vacaciones de invierno | 真冬=Pleno invierno"
+  },
+  {
+    "lvl": "N4",
+    "k": "朝",
+    "r": "チョウ / あさ",
+    "s": "Mañana",
+    "ex": "朝=Mañana | 朝食=Desayuno | 毎朝=Todas las mañanas"
+  },
+  {
+    "lvl": "N4",
+    "k": "昼",
+    "r": "チュウ / ひる",
+    "s": "Mediodía, día",
+    "ex": "昼=Mediodía | 昼食=Almuerzo | 昼間=Durante el día"
+  },
+  {
+    "lvl": "N4",
+    "k": "夜",
+    "r": "ヤ / よる",
+    "s": "Noche",
+    "ex": "夜=Noche | 今夜=Esta noche | 夜中=Medianoche"
+  },
+  {
+    "lvl": "N4",
+    "k": "夕",
+    "r": "セキ / ゆう",
+    "s": "Tarde, atardecer",
+    "ex": "夕方=Atardecer | 夕食=Cena | 夕日=Sol de la tarde"
+  },
+  {
+    "lvl": "N4",
+    "k": "道",
+    "r": "ドウ / みち",
+    "s": "Camino, vía",
+    "ex": "道=Camino | 道路=Carretera | 鉄道=Ferrocarril"
+  },
+  {
+    "lvl": "N4",
+    "k": "通",
+    "r": "ツウ / とお・る",
+    "s": "Pasar, transitar",
+    "ex": "通る=Pasar | 交通=Tráfico | 通勤=Ir al trabajo"
+  },
+  {
+    "lvl": "N4",
+    "k": "歩",
+    "r": "ホ / ある・く",
+    "s": "Caminar",
+    "ex": "歩く=Caminar | 歩道=Acera | 散歩=Paseo"
+  },
+  {
+    "lvl": "N4",
+    "k": "走",
+    "r": "ソウ / はし・る",
+    "s": "Correr",
+    "ex": "走る=Correr | 競走=Carrera | 走行=Conducción"
+  },
+  {
+    "lvl": "N4",
+    "k": "止",
+    "r": "シ / と・まる",
+    "s": "Parar, detener",
+    "ex": "止まる=Pararse | 中止=Suspender | 停止=Alto"
   },
   {
     "lvl": "N4",
     "k": "鳥",
     "r": "チョウ / とり",
-    "s": "Pájaro",
-    "ex": "鳥肉=Pollo | 焼き鳥=Yakitori | 小鳥=Pajarito"
+    "s": "Pájaro, ave",
+    "ex": "鳥=Pájaro | 小鳥=Pajarito | 鳥肉=Carne de ave"
   },
   {
     "lvl": "N4",
-    "k": "虫",
-    "r": "チュウ / むし",
-    "s": "Insecto",
-    "ex": "虫=Insecto | 虫歯=Caries | 幼虫=Larva"
+    "k": "魚",
+    "r": "ギョ / さかな",
+    "s": "Pez, pescado",
+    "ex": "魚=Pescado | 金魚=Pez dorado | 魚屋=Pescadería"
   },
   {
     "lvl": "N4",
@@ -1040,167 +704,412 @@
     "k": "猫",
     "r": "ビョウ / ねこ",
     "s": "Gato",
-    "ex": "猫=Gato | 子猫=Gatito | 猫舌=Paladar sensible"
+    "ex": "猫=Gato | 子猫=Gatito | 野猫=Gato callejero"
   },
   {
     "lvl": "N4",
-    "k": "赤",
-    "r": "セキ / あか",
-    "s": "Rojo",
-    "ex": "赤ちゃん=Bebé | 赤信号=Luz roja | 赤字=Déficit"
+    "k": "花",
+    "r": "カ / はな",
+    "s": "Flor",
+    "ex": "花=Flor | 花火=Fuegos artificiales | 生花=Flores frescas"
   },
   {
     "lvl": "N4",
-    "k": "青",
-    "r": "セイ / あお",
-    "s": "Azul",
-    "ex": "青信号=Luz verde | 青年=Joven | 青空=Cielo azul"
+    "k": "草",
+    "r": "ソウ / くさ",
+    "s": "Hierba, pasto",
+    "ex": "草=Hierba | 草原=Pradera | 草花=Planta con flores"
   },
   {
     "lvl": "N4",
-    "k": "白",
-    "r": "ハク / しろ",
-    "s": "Blanco",
-    "ex": "白人=Persona blanca | 白米=Arroz blanco | 白髪=Pelo blanco"
+    "k": "木",
+    "r": "モク / き",
+    "s": "Árbol, madera",
+    "ex": "木=Árbol | 木材=Madera | 木陰=Sombra de árbol"
   },
   {
     "lvl": "N4",
-    "k": "黒",
-    "r": "コク / くろ",
-    "s": "Negro",
-    "ex": "黒人=Persona negra | 黒板=Pizarrón | 黒字=Superávit"
+    "k": "林",
+    "r": "リン / はやし",
+    "s": "Bosque pequeño",
+    "ex": "林=Bosque | 森林=Forestal | 林道=Camino forestal"
   },
   {
     "lvl": "N4",
-    "k": "黄",
-    "r": "オウ / き",
-    "s": "Amarillo",
-    "ex": "黄色=Amarillo | 黄身=Yema | 黄金=Oro"
+    "k": "森",
+    "r": "シン / もり",
+    "s": "Bosque grande",
+    "ex": "森=Bosque | 森林=Selva | 森林浴=Baño de bosque"
   },
   {
     "lvl": "N4",
-    "k": "茶",
-    "r": "チャ / サ",
-    "s": "Té",
-    "ex": "茶色=Marrón | お茶=Té | 茶道=Ceremonia del té"
+    "k": "池",
+    "r": "チ / いけ",
+    "s": "Estanque",
+    "ex": "池=Estanque | 貯水池=Embalse | 池畔=Orilla del estanque"
   },
   {
     "lvl": "N4",
-    "k": "味",
-    "r": "ミ / あじ",
-    "s": "Sabor",
-    "ex": "味=Sabor | 意味=Significado | 趣味=Pasatiempo"
+    "k": "海",
+    "r": "カイ / うみ",
+    "s": "Mar",
+    "ex": "海=Mar | 海岸=Costa | 海水=Agua de mar"
   },
   {
     "lvl": "N4",
-    "k": "声",
-    "r": "セイ / こえ",
-    "s": "Voz",
-    "ex": "声=Voz | 声優=Actor de voz | 歌声=Voz cantante"
+    "k": "洋",
+    "r": "ヨウ",
+    "s": "Océano, occidental",
+    "ex": "洋服=Ropa occidental | 洋室=Habitación estilo occidental | 太平洋=Pacífico"
   },
   {
     "lvl": "N4",
-    "k": "音",
-    "r": "オン / おと",
-    "s": "Sonido",
-    "ex": "音=Sonido | 音楽=Música | 音読み=Lectura on-yomi"
+    "k": "空",
+    "r": "クウ / そら",
+    "s": "Cielo, vacío",
+    "ex": "空=Cielo | 空気=Aire | 空港=Aeropuerto"
   },
   {
     "lvl": "N4",
-    "k": "楽",
-    "r": "ガク / たの・しい",
-    "s": "Música, diversión",
-    "ex": "音楽=Música | 楽しい=Divertido | 楽器=Instrumento"
+    "k": "雲",
+    "r": "ウン / くも",
+    "s": "Nube",
+    "ex": "雲=Nube | 曇り=Nublado | 雨雲=Nube de lluvia"
   },
   {
     "lvl": "N4",
-    "k": "歌",
-    "r": "カ / うた",
-    "s": "Canción",
-    "ex": "歌手=Cantante | 歌詞=Letra | 歌謡=Canción popular"
+    "k": "雨",
+    "r": "ウ / あめ",
+    "s": "Lluvia",
+    "ex": "雨=Lluvia | 大雨=Lluvia fuerte | 雨具=Equipo de lluvia"
   },
   {
     "lvl": "N4",
-    "k": "勉",
-    "r": "ベン / つと・める",
-    "s": "Esforzarse",
-    "ex": "勉強=Estudio | 勉学=Estudio académico | 勤勉=Diligente"
+    "k": "雪",
+    "r": "セツ / ゆき",
+    "s": "Nieve",
+    "ex": "雪=Nieve | 大雪=Nevada fuerte | 雪国=País nevado"
   },
   {
     "lvl": "N4",
-    "k": "習",
-    "r": "シュウ / なら・う",
-    "s": "Aprender",
-    "ex": "習う=Aprender | 練習=Práctica | 習慣=Costumbre"
+    "k": "電",
+    "r": "デン",
+    "s": "Electricidad",
+    "ex": "電気=Electricidad | 電話=Teléfono | 電車=Tren"
   },
   {
     "lvl": "N4",
-    "k": "復",
-    "r": "フク",
-    "s": "Regreso, repetición",
-    "ex": "復習=Repaso | 回復=Recuperación | 復活=Resurrección"
+    "k": "車",
+    "r": "シャ / くるま",
+    "s": "Coche",
+    "ex": "車=Coche | 駐車場=Estacionamiento | 自動車=Automóvil"
   },
   {
     "lvl": "N4",
-    "k": "予",
-    "r": "ヨ",
-    "s": "Anticipación",
-    "ex": "予約=Reserva | 予定=Plan | 予習=Preparación"
+    "k": "駅",
+    "r": "エキ",
+    "s": "Estación",
+    "ex": "駅=Estación | 駅前=Frente a la estación | 駅員=Empleado de estación"
   },
   {
     "lvl": "N4",
-    "k": "発",
-    "r": "ハツ",
-    "s": "Salida, emisión",
-    "ex": "出発=Partida | 発音=Pronunciación | 発見=Descubrimiento"
+    "k": "道",
+    "r": "ドウ / みち",
+    "s": "Camino",
+    "ex": "道=Camino | 道路=Carretera | 鉄道=Ferrocarril"
   },
   {
     "lvl": "N4",
-    "k": "着",
-    "r": "チャク / つ・く",
-    "s": "Llegada",
-    "ex": "到着=Llegada | 着く=Llegar | 着手=Empezar"
+    "k": "通",
+    "r": "ツウ / とお・る",
+    "s": "Pasar",
+    "ex": "通る=Pasar | 交通=Tráfico | 通勤=Ir al trabajo"
   },
   {
     "lvl": "N4",
-    "k": "乗",
-    "r": "ジョウ / の・る",
-    "s": "Subir, montar",
-    "ex": "乗る=Montar | 乗客=Pasajero | 乗り物=Vehículo"
-  },
-  {
-    "lvl": "N4",
-    "k": "降",
-    "r": "コウ / お・りる",
-    "s": "Bajarse",
-    "ex": "降りる=Bajarse | 降水=Precipitación | 降車=Bajarse"
+    "k": "運",
+    "r": "ウン / はこ・ぶ",
+    "s": "Transportar",
+    "ex": "運ぶ=Transportar | 運転=Conducir | 運動=Ejercicio"
   },
   {
     "lvl": "N4",
     "k": "転",
     "r": "テン / ころ・ぶ",
-    "s": "Rodar, girar",
-    "ex": "転ぶ=Caerse | 自転車=Bicicleta | 運転=Manejar"
+    "s": "Girar, caer",
+    "ex": "転ぶ=Caerse | 運転=Conducción | 回転=Rotación"
+  },
+  {
+    "lvl": "N4",
+    "k": "歩",
+    "r": "ホ / ある・く",
+    "s": "Caminar",
+    "ex": "歩く=Caminar | 散歩=Paseo | 歩行者=Peatón"
+  },
+  {
+    "lvl": "N4",
+    "k": "走",
+    "r": "ソウ / はし・る",
+    "s": "Correr",
+    "ex": "走る=Correr | 競走=Carrera | 走行=Conducción"
+  },
+  {
+    "lvl": "N4",
+    "k": "止",
+    "r": "シ / と・まる",
+    "s": "Parar",
+    "ex": "止まる=Pararse | 停止=Alto | 中止=Suspender"
+  },
+  {
+    "lvl": "N4",
+    "k": "待",
+    "r": "タイ / ま・つ",
+    "s": "Esperar",
+    "ex": "待つ=Esperar | 待合室=Sala de espera | 期待=Expectativa"
+  },
+  {
+    "lvl": "N4",
+    "k": "持",
+    "r": "ジ / も・つ",
+    "s": "Tener",
+    "ex": "持つ=Tener | 持ち物=Pertenencias | 気持ち=Sentimiento"
+  },
+  {
+    "lvl": "N4",
+    "k": "借",
+    "r": "シャク / か・りる",
+    "s": "Pedir prestado",
+    "ex": "借りる=Pedir prestado | 借金=Deuda | 賃借=Alquiler"
+  },
+  {
+    "lvl": "N4",
+    "k": "貸",
+    "r": "タイ / か・す",
+    "s": "Prestar",
+    "ex": "貸す=Prestar | 貸し出し=Préstamo | 賃貸=Alquiler"
   },
   {
     "lvl": "N4",
     "k": "起",
     "r": "キ / お・きる",
     "s": "Levantarse",
-    "ex": "起立=Ponerse de pie | 起床=Levantarse | 起動=Arrancar"
+    "ex": "起きる=Levantarse | 起こす=Despertar | 発生=Ocurrencia"
   },
   {
     "lvl": "N4",
     "k": "寝",
     "r": "シン / ね・る",
-    "s": "Dormir, acostarse",
-    "ex": "寝る=Dormir | 寝室=Dormitorio | 寝坊=Dormir hasta tarde"
+    "s": "Dormir",
+    "ex": "寝る=Dormir | 寝坊=Dormir hasta tarde | 昼寝=Siesta"
   },
   {
     "lvl": "N4",
-    "k": "座",
-    "r": "ザ / すわ・る",
-    "s": "Sentarse",
-    "ex": "座る=Sentarse | 座席=Asiento | 座禅=Zazen"
+    "k": "急",
+    "r": "キュウ / いそ・ぐ",
+    "s": "Apuro",
+    "ex": "急ぐ=Darse prisa | 急に=Repentinamente | 急行=Tren expreso"
+  },
+  {
+    "lvl": "N4",
+    "k": "着",
+    "r": "チャク / つ・く",
+    "s": "Llegar",
+    "ex": "着く=Llegar | 到着=Llegada | 着手=Empezar"
+  },
+  {
+    "lvl": "N4",
+    "k": "帰",
+    "r": "キ / かえ・る",
+    "s": "Regresar",
+    "ex": "帰る=Regresar | 帰国=Regresar al país | 帰宅=Volver a casa"
+  },
+  {
+    "lvl": "N4",
+    "k": "開",
+    "r": "カイ / ひら・く",
+    "s": "Abrir",
+    "ex": "開く=Abrir | 開始=Comienzo | 開店=Apertura de tienda"
+  },
+  {
+    "lvl": "N4",
+    "k": "閉",
+    "r": "ヘイ / し・める",
+    "s": "Cerrar",
+    "ex": "閉める=Cerrar | 閉店=Cierre de tienda | 閉会=Cierre de sesión"
+  },
+  {
+    "lvl": "N4",
+    "k": "門",
+    "r": "モン",
+    "s": "Puerta, entrada",
+    "ex": "門=Puerta | 専門=Especialidad | 門限=Toque de queda"
+  },
+  {
+    "lvl": "N4",
+    "k": "口",
+    "r": "コウ / くち",
+    "s": "Boca, entrada",
+    "ex": "口=Boca | 入り口=Entrada | 出口=Salida"
+  },
+  {
+    "lvl": "N4",
+    "k": "目",
+    "r": "モク / め",
+    "s": "Ojo",
+    "ex": "目=Ojo | 目的=Objetivo | 注目=Atención"
+  },
+  {
+    "lvl": "N4",
+    "k": "耳",
+    "r": "ジ / みみ",
+    "s": "Oreja",
+    "ex": "耳=Oreja | 耳鼻科=Otorrinolaringología | 耳打ち= susurro"
+  },
+  {
+    "lvl": "N4",
+    "k": "手",
+    "r": "シュ / て",
+    "s": "Mano",
+    "ex": "手=Mano | 手紙=Carta | 手伝う=Ayudar"
+  },
+  {
+    "lvl": "N4",
+    "k": "足",
+    "r": "ソク / あし",
+    "s": "Pie, pierna",
+    "ex": "足=Pie | 不足=Insuficiencia | 足りる=Ser suficiente"
+  },
+  {
+    "lvl": "N4",
+    "k": "体",
+    "r": "タイ / からだ",
+    "s": "Cuerpo",
+    "ex": "体=Cuerpo | 体力=Fuerza física | 体重=Peso corporal"
+  },
+  {
+    "lvl": "N4",
+    "k": "顔",
+    "r": "ガン / かお",
+    "s": "Cara",
+    "ex": "顔=Cara | 笑顔=Rostro sonriente | 顔色=Color de piel"
+  },
+  {
+    "lvl": "N4",
+    "k": "頭",
+    "r": "トウ / あたま",
+    "s": "Cabeza",
+    "ex": "頭=Cabeza | 頭痛=Dolor de cabeza | 先頭=Delantera"
+  },
+  {
+    "lvl": "N4",
+    "k": "心",
+    "r": "シン / こころ",
+    "s": "Corazón",
+    "ex": "心=Corazón | 心配=Preocupación | 心理=Psicología"
+  },
+  {
+    "lvl": "N4",
+    "k": "気",
+    "r": "キ",
+    "s": "Espíritu, energía",
+    "ex": "天気=Tiempo | 元気=Saludable | 人気=Popularidad"
+  },
+  {
+    "lvl": "N4",
+    "k": "色",
+    "r": "ショク / いろ",
+    "s": "Color",
+    "ex": "色=Color | 色々=Varios | 景色=Paisaje"
+  },
+  {
+    "lvl": "N4",
+    "k": "白",
+    "r": "ハク / しろ",
+    "s": "Blanco",
+    "ex": "白=Blanco | 白い=Blanco | 白髪=Pelo blanco"
+  },
+  {
+    "lvl": "N4",
+    "k": "黒",
+    "r": "コク / くろ",
+    "s": "Negro",
+    "ex": "黒=Negro | 黒い=Negro | 黒板=Pizarra"
+  },
+  {
+    "lvl": "N4",
+    "k": "赤",
+    "r": "セキ / あか",
+    "s": "Rojo",
+    "ex": "赤=Rojo | 赤い=Rojo | 赤字=Déficit"
+  },
+  {
+    "lvl": "N4",
+    "k": "青",
+    "r": "セイ / あお",
+    "s": "Azul, verde",
+    "ex": "青=Azul | 青い=Azul | 青空=Cielo azul"
+  },
+  {
+    "lvl": "N4",
+    "k": "音",
+    "r": "オン / おと",
+    "s": "Sonido",
+    "ex": "音=Sonido | 音楽=Música | 発音=Pronunciación"
+  },
+  {
+    "lvl": "N4",
+    "k": "楽",
+    "r": "ガク / たの・しい",
+    "s": "Diversión, música",
+    "ex": "楽しい=Divertido | 音楽=Música | 楽器=Instrumento"
+  },
+  {
+    "lvl": "N4",
+    "k": "歌",
+    "r": "カ / うた",
+    "s": "Canción",
+    "ex": "歌=Canción | 歌う=Cantar | 歌手=Cantante"
+  },
+  {
+    "lvl": "N4",
+    "k": "語",
+    "r": "ゴ / かた・る",
+    "s": "Idioma",
+    "ex": "日本語=Japonés | 英語=Inglés | 語学=Estudio de idiomas"
+  },
+  {
+    "lvl": "N4",
+    "k": "話",
+    "r": "ワ / はな・す",
+    "s": "Hablar",
+    "ex": "話す=Hablar | 会話=Conversación | 電話=Teléfono"
+  },
+  {
+    "lvl": "N4",
+    "k": "読",
+    "r": "ドク / よ・む",
+    "s": "Leer",
+    "ex": "読む=Leer | 読書=Lectura | 読み物=Material de lectura"
+  },
+  {
+    "lvl": "N4",
+    "k": "書",
+    "r": "ショ / か・く",
+    "s": "Escribir",
+    "ex": "書く=Escribir | 教科書=Libro de texto | 文学=Literatura"
+  },
+  {
+    "lvl": "N4",
+    "k": "勉",
+    "r": "ベン",
+    "s": "Esfuerzo",
+    "ex": "勉強=Estudio | 勉学=Estudio | 勉強家=Persona estudiosa"
+  },
+  {
+    "lvl": "N4",
+    "k": "強",
+    "r": "キョウ / つよ・い",
+    "s": "Fuerte",
+    "ex": "強い=Fuerte | 勉強=Estudio | 強化=Fortalecimiento"
   }
 ]
