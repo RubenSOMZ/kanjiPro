@@ -757,6 +757,69 @@
   },
   {
     "lvl": "N3",
+    "k": "隠",
+    "r": "イン / かく・れる / かく・す",
+    "s": "Esconder / Ocultar",
+    "ex": "隠居=Retiro/Jubilación | 隠し事=Secreto | 隠居生活=Vida de retirado"
+  },
+  {
+    "lvl": "N3",
+    "k": "頑",
+    "r": "ガン / かたく・な",
+    "s": "Testarudo / Firme",
+    "ex": "頑張る=Esforzarse | 頑丈=Sólido/Robusto | 頑固=Terquedad"
+  },
+  {
+    "lvl": "N3",
+    "k": "慣",
+    "r": "カン / な・れる",
+    "s": "Acostumbrarse / Hábito",
+    "ex": "習慣=Hábito/Costumbre | 慣習=Costumbre social | 慣れる=Acostumbrarse"
+  },
+  {
+    "lvl": "N3",
+    "k": "机",
+    "r": "キ / つくえ",
+    "s": "Escritorio / Mesa",
+    "ex": "机上の空論=Teoría académica sin sentido | 机下=Bajo la mesa | 学習机=Escritorio de estudio"
+  },
+  {
+    "lvl": "N3",
+    "k": "芸",
+    "r": "ゲイ",
+    "s": "Arte / Técnica / Actuación",
+    "ex": "芸術=Arte | 工芸=Artesanía | 文芸=Literatura"
+  },
+  {
+    "lvl": "N3",
+    "k": "件",
+    "r": "ケン",
+    "s": "Asunto / Caso / Ítem",
+    "ex": "事件=Incidente | 条件=Condición | 用件=Asunto/Recado"
+  },
+  {
+    "lvl": "N3",
+    "k": "減",
+    "r": "ゲン / へ・る / へ・らす",
+    "s": "Disminuir / Reducir",
+    "ex": "減少=Disminución | 軽減=Mitigación | 腹が減る=Tener hambre"
+  },
+  {
+    "lvl": "N3",
+    "k": "厚",
+    "r": "コウ / あつ・い",
+    "s": "Grueso / Grueso (objetos planos)",
+    "ex": "厚い=Grueso | 厚生=Bienestar público | 厚紙=Cartulina"
+  },
+  {
+    "lvl": "N3",
+    "k": "群",
+    "r": "グン / む・れる",
+    "s": "Grupo / Multitud / Manada",
+    "ex": "群衆=Multitud | 群れ=Manada/Rebaño | 抜群=Sobresaliente"
+  },
+  {
+    "lvl": "N3",
     "k": "復",
     "r": "フク",
     "s": "Restaurar / Regresar",
